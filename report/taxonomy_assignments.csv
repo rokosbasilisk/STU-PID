@@ -1,0 +1,933 @@
+filename,cluster_id,taxonomy_label
+revisiting-overthinking-in-long-chain-of-thought-from-the-perspective-of-self-doubt.pdf,5,"Category: Reasoning Methods in Large Language Models
+
+Subcategories:
+1. Overthinking and Redundancy Mitigation
+2. Hierarchical and Adaptive Reasoning Strategies
+3. Efficiency Optimization in Reasoning Processes"
+sophiavl-r1-reinforcing-mllms-reasoning-with-thinking-reward.pdf,7,"Category: Reinforcement Learning Techniques for Reasoning in Language Models
+
+Subcategories:
+1. Reward Optimization Strategies
+2. Efficiency and Computational Cost Reduction
+3. Intermediate Reasoning Process Regulation"
+speculative-thinking-enhancing-small-model-reasoning-with-large-model-guidance-at-inference-time.pdf,2,"Category: Efficient Reasoning Methods for Large Language Models (LLMs)
+Subcategories:
+1. Adaptive Reasoning Techniques
+2. Compression and Pruning Strategies
+3. Cooperative and Reinforcement Learning Approaches"
+concise-confidence-guided-compression-in-step-by-step-efficient-reasoning.pdf,2,"Category: Efficient Reasoning Methods for Large Language Models (LLMs)
+Subcategories:
+1. Adaptive Reasoning Techniques
+2. Compression and Pruning Strategies
+3. Cooperative and Reinforcement Learning Approaches"
+reasonflux-hierarchical-llm-reasoning-via-scaling-thought-templates.pdf,5,"Category: Reasoning Methods in Large Language Models
+
+Subcategories:
+1. Overthinking and Redundancy Mitigation
+2. Hierarchical and Adaptive Reasoning Strategies
+3. Efficiency Optimization in Reasoning Processes"
+adaptthink-reasoning-models-can-learn-when-to-think.pdf,3,"Category: Adaptive Reasoning Models  
+Subcategories:  
+1. Efficient Reasoning Techniques  
+2. Dynamic Cognitive Allocation  
+3. Mode-Based Reasoning Optimization"
+thought-calibration-efficient-and-confident-test-time-scaling.pdf,8,"Category: Reasoning Model Techniques
+Subcategories:
+1. Efficiency Optimization in Reasoning
+2. Adaptive Reasoning Strategies
+3. Distillation and Knowledge Transfer"
+adaptive-group-policy-optimization-towards-stable-training-and-token-efficient-reasoning.pdf,7,"Category: Reinforcement Learning Techniques for Reasoning in Language Models
+
+Subcategories:
+1. Reward Optimization Strategies
+2. Efficiency and Computational Cost Reduction
+3. Intermediate Reasoning Process Regulation"
+reasoning-models-can-be-effective-without-thinking.pdf,5,"Category: Reasoning Methods in Large Language Models
+
+Subcategories:
+1. Overthinking and Redundancy Mitigation
+2. Hierarchical and Adaptive Reasoning Strategies
+3. Efficiency Optimization in Reasoning Processes"
+accelerating-chain-of-thought-reasoning-when-goal-gradient-importance-meets-dynamic-skipping.pdf,8,"Category: Reasoning Model Techniques
+Subcategories:
+1. Efficiency Optimization in Reasoning
+2. Adaptive Reasoning Strategies
+3. Distillation and Knowledge Transfer"
+efficient-single-pass-training-for-multi-turn-reasoning.pdf,0,"Category: Efficient Reasoning in Large Language Models
+Subcategories:
+1. Dynamic Reasoning Optimization
+2. Length Management and Output Efficiency
+3. Adaptive Reasoning Strategies"
+thinkless-a-training-free-inference-efficient-method-for-reducing-reasoning-redundancy.pdf,5,"Category: Reasoning Methods in Large Language Models
+
+Subcategories:
+1. Overthinking and Redundancy Mitigation
+2. Hierarchical and Adaptive Reasoning Strategies
+3. Efficiency Optimization in Reasoning Processes"
+hybrid-latent-reasoning-via-reinforcement-learning.pdf,2,"Category: Efficient Reasoning Methods for Large Language Models (LLMs)
+Subcategories:
+1. Adaptive Reasoning Techniques
+2. Compression and Pruning Strategies
+3. Cooperative and Reinforcement Learning Approaches"
+zipr1-reinforcing-token-sparsity-in-mllms.pdf,4,"Category: Efficient Reasoning Methods in Large Language Models  
+Subcategories:  
+1. Token Sparsity and Selection Techniques  
+2. Adaptive Attention Mechanisms  
+3. Cache Management and Context Preservation Strategies"
+confidence-improves-self-consistency-in-llms.pdf,2,"Category: Efficient Reasoning Methods for Large Language Models (LLMs)
+Subcategories:
+1. Adaptive Reasoning Techniques
+2. Compression and Pruning Strategies
+3. Cooperative and Reinforcement Learning Approaches"
+drp-distilled-reasoning-pruning-with-skill-aware-step-decomposition-for-efficient-large-reasoning-models.pdf,2,"Category: Efficient Reasoning Methods for Large Language Models (LLMs)
+Subcategories:
+1. Adaptive Reasoning Techniques
+2. Compression and Pruning Strategies
+3. Cooperative and Reinforcement Learning Approaches"
+optimal-policy-minimum-bayesian-risk.pdf,6,"Category: Advanced Reasoning Techniques in AI
+
+Subcategories:
+1. Inference Optimization Methods
+2. Process Supervised Reward Models
+3. Multi-Hop Reasoning Frameworks"
+twilight-adaptive-attention-sparsity-with-hierarchical-top-p-pruning.pdf,4,"Category: Efficient Reasoning Methods in Large Language Models  
+Subcategories:  
+1. Token Sparsity and Selection Techniques  
+2. Adaptive Attention Mechanisms  
+3. Cache Management and Context Preservation Strategies"
+rearag-knowledge-guided-reasoning-enhances-factuality-of-large-reasoning-models-with-iterative-retrieval-augmented-gener.pdf,2,"Category: Efficient Reasoning Methods for Large Language Models (LLMs)
+Subcategories:
+1. Adaptive Reasoning Techniques
+2. Compression and Pruning Strategies
+3. Cooperative and Reinforcement Learning Approaches"
+between-underthinking-and-overthinking-an-empirical-study-of-reasoning-length-and-correctness-in-llms.pdf,0,"Category: Efficient Reasoning in Large Language Models
+Subcategories:
+1. Dynamic Reasoning Optimization
+2. Length Management and Output Efficiency
+3. Adaptive Reasoning Strategies"
+innate-reasoning-is-not-enough-in-context-learning-enhances-reasoning-large-language-models-with-less-overthinking.pdf,8,"Category: Reasoning Model Techniques
+Subcategories:
+1. Efficiency Optimization in Reasoning
+2. Adaptive Reasoning Strategies
+3. Distillation and Knowledge Transfer"
+can-past-experience-accelerate-llm-reasoning.pdf,0,"Category: Efficient Reasoning in Large Language Models
+Subcategories:
+1. Dynamic Reasoning Optimization
+2. Length Management and Output Efficiency
+3. Adaptive Reasoning Strategies"
+pats-process-level-adaptive-thinking-mode-switching.pdf,0,"Category: Efficient Reasoning in Large Language Models
+Subcategories:
+1. Dynamic Reasoning Optimization
+2. Length Management and Output Efficiency
+3. Adaptive Reasoning Strategies"
+chain-of-draft-thinking-faster-by-writing-less.pdf,8,"Category: Reasoning Model Techniques
+Subcategories:
+1. Efficiency Optimization in Reasoning
+2. Adaptive Reasoning Strategies
+3. Distillation and Knowledge Transfer"
+self-training-elicits-concise-reasoning-in-large-language-models.pdf,8,"Category: Reasoning Model Techniques
+Subcategories:
+1. Efficiency Optimization in Reasoning
+2. Adaptive Reasoning Strategies
+3. Distillation and Knowledge Transfer"
+accelerating-rl-for-llm-reasoning-with-optimal-advantage-regression.pdf,7,"Category: Reinforcement Learning Techniques for Reasoning in Language Models
+
+Subcategories:
+1. Reward Optimization Strategies
+2. Efficiency and Computational Cost Reduction
+3. Intermediate Reasoning Process Regulation"
+logictree-structured-proof-exploration-for-coherent-and-rigorous-logical-reasoning-with-large-language-models.pdf,0,"Category: Efficient Reasoning in Large Language Models
+Subcategories:
+1. Dynamic Reasoning Optimization
+2. Length Management and Output Efficiency
+3. Adaptive Reasoning Strategies"
+think-silently-think-fast-dynamic-latent-compression-of-llm-reasoning-chains.pdf,8,"Category: Reasoning Model Techniques
+Subcategories:
+1. Efficiency Optimization in Reasoning
+2. Adaptive Reasoning Strategies
+3. Distillation and Knowledge Transfer"
+leveraging-constrained-monte-carlo-tree-search-to-generate-reliable-long-chain-of-thought-for-mathematical-reasoning.pdf,1,"Category: Long Chain-of-Thought Reasoning Methods  
+Subcategories:  
+1. Action Space Constraining and Search Strategies  
+2. Negative Sample Utilization and Policy Optimization  
+3. Context Management and Memory Efficiency"
+incentivizing-strong-reasoning-from-weak-supervision.pdf,0,"Category: Efficient Reasoning in Large Language Models
+Subcategories:
+1. Dynamic Reasoning Optimization
+2. Length Management and Output Efficiency
+3. Adaptive Reasoning Strategies"
+scaling-reasoning-without-attention.pdf,3,"Category: Adaptive Reasoning Models  
+Subcategories:  
+1. Efficient Reasoning Techniques  
+2. Dynamic Cognitive Allocation  
+3. Mode-Based Reasoning Optimization"
+think-or-not-exploring-thinking-efficiency-in-large-reasoning-models-via-an-information-theoretic-lens.pdf,2,"Category: Efficient Reasoning Methods for Large Language Models (LLMs)
+Subcategories:
+1. Adaptive Reasoning Techniques
+2. Compression and Pruning Strategies
+3. Cooperative and Reinforcement Learning Approaches"
+flashthink-an-early-exit-method-for-efficient-reasoning.pdf,0,"Category: Efficient Reasoning in Large Language Models
+Subcategories:
+1. Dynamic Reasoning Optimization
+2. Length Management and Output Efficiency
+3. Adaptive Reasoning Strategies"
+scalable-chain-of-thoughts-via-elastic-reasoning.pdf,2,"Category: Efficient Reasoning Methods for Large Language Models (LLMs)
+Subcategories:
+1. Adaptive Reasoning Techniques
+2. Compression and Pruning Strategies
+3. Cooperative and Reinforcement Learning Approaches"
+phi-decoding-adaptive-foresight-sampling-for-balanced-inference-time-exploration-and-exploitation.pdf,9,"Category: Reasoning Optimization Techniques
+Subcategories:
+1. Inference Efficiency Strategies
+2. Adaptive Decomposition Methods
+3. Self-Improvement and Distillation Approaches"
+adactrl-towards-adaptive-and-controllable-reasoning-via-difficulty-aware-budgeting.pdf,2,"Category: Efficient Reasoning Methods for Large Language Models (LLMs)
+Subcategories:
+1. Adaptive Reasoning Techniques
+2. Compression and Pruning Strategies
+3. Cooperative and Reinforcement Learning Approaches"
+not-all-tokens-are-what-you-need-in-thinking.pdf,8,"Category: Reasoning Model Techniques
+Subcategories:
+1. Efficiency Optimization in Reasoning
+2. Adaptive Reasoning Strategies
+3. Distillation and Knowledge Transfer"
+effective-reinforcement-learning-for-reasoning-in-language-models.pdf,7,"Category: Reinforcement Learning Techniques for Reasoning in Language Models
+
+Subcategories:
+1. Reward Optimization Strategies
+2. Efficiency and Computational Cost Reduction
+3. Intermediate Reasoning Process Regulation"
+when-reasoning-meets-compression-benchmarking-compressed-large-reasoning-models-on-complex-reasoning-tasks.pdf,0,"Category: Efficient Reasoning in Large Language Models
+Subcategories:
+1. Dynamic Reasoning Optimization
+2. Length Management and Output Efficiency
+3. Adaptive Reasoning Strategies"
+chain-of-grounded-objectives-bridging-process-and-goal-oriented-prompting-for-code-generation.pdf,0,"Category: Efficient Reasoning in Large Language Models
+Subcategories:
+1. Dynamic Reasoning Optimization
+2. Length Management and Output Efficiency
+3. Adaptive Reasoning Strategies"
+cot2align-cross-chain-of-thought-distillation-via-optimal-transport-alignment-for-language-models-with-different-tokeniz.pdf,8,"Category: Reasoning Model Techniques
+Subcategories:
+1. Efficiency Optimization in Reasoning
+2. Adaptive Reasoning Strategies
+3. Distillation and Knowledge Transfer"
+continuous-chain-of-thought-enables-parallel-exploration-and-reasoning.pdf,8,"Category: Reasoning Model Techniques
+Subcategories:
+1. Efficiency Optimization in Reasoning
+2. Adaptive Reasoning Strategies
+3. Distillation and Knowledge Transfer"
+an-empirical-study-of-llm-reasoning-ability-under-strict-output-length-constraint.pdf,0,"Category: Efficient Reasoning in Large Language Models
+Subcategories:
+1. Dynamic Reasoning Optimization
+2. Length Management and Output Efficiency
+3. Adaptive Reasoning Strategies"
+distilling-the-implicit-multi-branch-structure-in-llms-reasoning-via-reinforcement-learning.pdf,2,"Category: Efficient Reasoning Methods for Large Language Models (LLMs)
+Subcategories:
+1. Adaptive Reasoning Techniques
+2. Compression and Pruning Strategies
+3. Cooperative and Reinforcement Learning Approaches"
+scaling-over-scaling-exploring-test-time-scaling-pareto-in-large-reasoning-models.pdf,0,"Category: Efficient Reasoning in Large Language Models
+Subcategories:
+1. Dynamic Reasoning Optimization
+2. Length Management and Output Efficiency
+3. Adaptive Reasoning Strategies"
+system-1-5-reasoning-traversal-in-language-and-latent-spaces-with-dynamic-shortcuts.pdf,8,"Category: Reasoning Model Techniques
+Subcategories:
+1. Efficiency Optimization in Reasoning
+2. Adaptive Reasoning Strategies
+3. Distillation and Knowledge Transfer"
+a-survey-on-feedback-based-multi-step-reasoning-for-large-language-models-on-mathematics.pdf,0,"Category: Efficient Reasoning in Large Language Models
+Subcategories:
+1. Dynamic Reasoning Optimization
+2. Length Management and Output Efficiency
+3. Adaptive Reasoning Strategies"
+efficient-inference-for-large-reasoning-models-a-survey.pdf,0,"Category: Efficient Reasoning in Large Language Models
+Subcategories:
+1. Dynamic Reasoning Optimization
+2. Length Management and Output Efficiency
+3. Adaptive Reasoning Strategies"
+stepwise-informativeness-search-for-efficient-and-effective-llm-reasoning.pdf,0,"Category: Efficient Reasoning in Large Language Models
+Subcategories:
+1. Dynamic Reasoning Optimization
+2. Length Management and Output Efficiency
+3. Adaptive Reasoning Strategies"
+autol2s-auto-long-short-reasoning-for-efficient-large-language-models.pdf,0,"Category: Efficient Reasoning in Large Language Models
+Subcategories:
+1. Dynamic Reasoning Optimization
+2. Length Management and Output Efficiency
+3. Adaptive Reasoning Strategies"
+stepsearch-igniting-llms-search-ability-via-step-wise-proximal-policy-optimization.pdf,6,"Category: Advanced Reasoning Techniques in AI
+
+Subcategories:
+1. Inference Optimization Methods
+2. Process Supervised Reward Models
+3. Multi-Hop Reasoning Frameworks"
+when-to-continue-thinking-adaptive-thinking-mode-switching-for-efficient-reasoning.pdf,2,"Category: Efficient Reasoning Methods for Large Language Models (LLMs)
+Subcategories:
+1. Adaptive Reasoning Techniques
+2. Compression and Pruning Strategies
+3. Cooperative and Reinforcement Learning Approaches"
+teaching-large-language-models-to-reason-through-learning-and-forgetting.pdf,9,"Category: Reasoning Optimization Techniques
+Subcategories:
+1. Inference Efficiency Strategies
+2. Adaptive Decomposition Methods
+3. Self-Improvement and Distillation Approaches"
+unveiling-the-key-factors-for-distilling-chain-of-thought-reasoning.pdf,8,"Category: Reasoning Model Techniques
+Subcategories:
+1. Efficiency Optimization in Reasoning
+2. Adaptive Reasoning Strategies
+3. Distillation and Knowledge Transfer"
+prolonged-reasoning-is-not-all-you-need-certainty-based-adaptive-routing-for-efficient-llm-mllm-reasoning.pdf,0,"Category: Efficient Reasoning in Large Language Models
+Subcategories:
+1. Dynamic Reasoning Optimization
+2. Length Management and Output Efficiency
+3. Adaptive Reasoning Strategies"
+chain-of-thought-tokens-are-computer-program-variables.pdf,8,"Category: Reasoning Model Techniques
+Subcategories:
+1. Efficiency Optimization in Reasoning
+2. Adaptive Reasoning Strategies
+3. Distillation and Knowledge Transfer"
+lightweight-latent-verifiers-for-efficient-meta-generation-strategies.pdf,0,"Category: Efficient Reasoning in Large Language Models
+Subcategories:
+1. Dynamic Reasoning Optimization
+2. Length Management and Output Efficiency
+3. Adaptive Reasoning Strategies"
+atom-of-thoughts-for-markov-llm-test-time-scaling.pdf,0,"Category: Efficient Reasoning in Large Language Models
+Subcategories:
+1. Dynamic Reasoning Optimization
+2. Length Management and Output Efficiency
+3. Adaptive Reasoning Strategies"
+reasoningv-efficient-verilog-code-generation-with-adaptive-hybrid-reasoning-model.pdf,2,"Category: Efficient Reasoning Methods for Large Language Models (LLMs)
+Subcategories:
+1. Adaptive Reasoning Techniques
+2. Compression and Pruning Strategies
+3. Cooperative and Reinforcement Learning Approaches"
+incorporating-token-usage-into-prompting-strategy-evaluation.pdf,4,"Category: Efficient Reasoning Methods in Large Language Models  
+Subcategories:  
+1. Token Sparsity and Selection Techniques  
+2. Adaptive Attention Mechanisms  
+3. Cache Management and Context Preservation Strategies"
+an-efficient-and-precise-training-data-construction-framework-for-process-supervised-reward-model-in-mathematical-reason.pdf,6,"Category: Advanced Reasoning Techniques in AI
+
+Subcategories:
+1. Inference Optimization Methods
+2. Process Supervised Reward Models
+3. Multi-Hop Reasoning Frameworks"
+prm-bas-enhancing-multimodal-reasoning-through-prm-guided-beam-annealing-search.pdf,6,"Category: Advanced Reasoning Techniques in AI
+
+Subcategories:
+1. Inference Optimization Methods
+2. Process Supervised Reward Models
+3. Multi-Hop Reasoning Frameworks"
+incentivizing-dual-process-thinking-for-efficient-large-language-model-reasoning.pdf,3,"Category: Adaptive Reasoning Models  
+Subcategories:  
+1. Efficient Reasoning Techniques  
+2. Dynamic Cognitive Allocation  
+3. Mode-Based Reasoning Optimization"
+token-aware-coding-flow-a-study-with-nano-surge-in-reasoning-model.pdf,8,"Category: Reasoning Model Techniques
+Subcategories:
+1. Efficiency Optimization in Reasoning
+2. Adaptive Reasoning Strategies
+3. Distillation and Knowledge Transfer"
+when-more-is-less-understanding-chain-of-thought-length-in-llms.pdf,0,"Category: Efficient Reasoning in Large Language Models
+Subcategories:
+1. Dynamic Reasoning Optimization
+2. Length Management and Output Efficiency
+3. Adaptive Reasoning Strategies"
+reasoning-path-compression-compressing-generation-trajectories-for-efficient-llm-reasoning.pdf,2,"Category: Efficient Reasoning Methods for Large Language Models (LLMs)
+Subcategories:
+1. Adaptive Reasoning Techniques
+2. Compression and Pruning Strategies
+3. Cooperative and Reinforcement Learning Approaches"
+critical-thinking-which-kinds-of-complexity-govern-optimal-reasoning-length.pdf,0,"Category: Efficient Reasoning in Large Language Models
+Subcategories:
+1. Dynamic Reasoning Optimization
+2. Length Management and Output Efficiency
+3. Adaptive Reasoning Strategies"
+internal-bias-in-reasoning-models-leads-to-overthinking.pdf,5,"Category: Reasoning Methods in Large Language Models
+
+Subcategories:
+1. Overthinking and Redundancy Mitigation
+2. Hierarchical and Adaptive Reasoning Strategies
+3. Efficiency Optimization in Reasoning Processes"
+efficient-reasoning-via-chain-of-unconscious-thought.pdf,8,"Category: Reasoning Model Techniques
+Subcategories:
+1. Efficiency Optimization in Reasoning
+2. Adaptive Reasoning Strategies
+3. Distillation and Knowledge Transfer"
+done-is-better-than-perfect-unlocking-efficient-reasoning-by-structured-multi-turn-decomposition.pdf,5,"Category: Reasoning Methods in Large Language Models
+
+Subcategories:
+1. Overthinking and Redundancy Mitigation
+2. Hierarchical and Adaptive Reasoning Strategies
+3. Efficiency Optimization in Reasoning Processes"
+don-t-overthink-it-preferring-shorter-thinking-chains-for-improved-llm-reasoning.pdf,0,"Category: Efficient Reasoning in Large Language Models
+Subcategories:
+1. Dynamic Reasoning Optimization
+2. Length Management and Output Efficiency
+3. Adaptive Reasoning Strategies"
+efficient-reasoning-for-llms-through-speculative-chain-of-thought.pdf,8,"Category: Reasoning Model Techniques
+Subcategories:
+1. Efficiency Optimization in Reasoning
+2. Adaptive Reasoning Strategies
+3. Distillation and Knowledge Transfer"
+rea-rl-reflection-aware-online-reinforcement-learning-for-efficient-large-reasoning-models.pdf,2,"Category: Efficient Reasoning Methods for Large Language Models (LLMs)
+Subcategories:
+1. Adaptive Reasoning Techniques
+2. Compression and Pruning Strategies
+3. Cooperative and Reinforcement Learning Approaches"
+frem-a-flexible-reasoning-mechanism-for-balancing-quick-and-slow-thinking-in-long-context-question-answering.pdf,0,"Category: Efficient Reasoning in Large Language Models
+Subcategories:
+1. Dynamic Reasoning Optimization
+2. Length Management and Output Efficiency
+3. Adaptive Reasoning Strategies"
+think-only-when-you-need-with-large-hybrid-reasoning-models.pdf,2,"Category: Efficient Reasoning Methods for Large Language Models (LLMs)
+Subcategories:
+1. Adaptive Reasoning Techniques
+2. Compression and Pruning Strategies
+3. Cooperative and Reinforcement Learning Approaches"
+thinking-fast-and-right-balancing-accuracy-and-reasoning-length-with-adaptive-rewards.pdf,0,"Category: Efficient Reasoning in Large Language Models
+Subcategories:
+1. Dynamic Reasoning Optimization
+2. Length Management and Output Efficiency
+3. Adaptive Reasoning Strategies"
+unlocking-efficient-long-to-short-llm-reasoning-with-model-merging.pdf,0,"Category: Efficient Reasoning in Large Language Models
+Subcategories:
+1. Dynamic Reasoning Optimization
+2. Length Management and Output Efficiency
+3. Adaptive Reasoning Strategies"
+unearthing-gems-from-stones-policy-optimization-with-negative-sample-augmentation-for-llm-reasoning.pdf,1,"Category: Long Chain-of-Thought Reasoning Methods  
+Subcategories:  
+1. Action Space Constraining and Search Strategies  
+2. Negative Sample Utilization and Policy Optimization  
+3. Context Management and Memory Efficiency"
+adastar-adaptive-data-sampling-for-training-self-taught-reasoners.pdf,2,"Category: Efficient Reasoning Methods for Large Language Models (LLMs)
+Subcategories:
+1. Adaptive Reasoning Techniques
+2. Compression and Pruning Strategies
+3. Cooperative and Reinforcement Learning Approaches"
+can-pruning-improve-reasoning-revisiting-long-cot-compression-with-capability-in-mind-for-better-reasoning.pdf,8,"Category: Reasoning Model Techniques
+Subcategories:
+1. Efficiency Optimization in Reasoning
+2. Adaptive Reasoning Strategies
+3. Distillation and Knowledge Transfer"
+arm-adaptive-reasoning-model.pdf,3,"Category: Adaptive Reasoning Models  
+Subcategories:  
+1. Efficient Reasoning Techniques  
+2. Dynamic Cognitive Allocation  
+3. Mode-Based Reasoning Optimization"
+let-llms-break-free-from-overthinking-via-self-braking-tuning.pdf,5,"Category: Reasoning Methods in Large Language Models
+
+Subcategories:
+1. Overthinking and Redundancy Mitigation
+2. Hierarchical and Adaptive Reasoning Strategies
+3. Efficiency Optimization in Reasoning Processes"
+concise-reasoning-big-gains-pruning-long-reasoning-trace-with-difficulty-aware-prompting.pdf,8,"Category: Reasoning Model Techniques
+Subcategories:
+1. Efficiency Optimization in Reasoning
+2. Adaptive Reasoning Strategies
+3. Distillation and Knowledge Transfer"
+deconstructing-long-chain-of-thought-a-structured-reasoning-optimization-framework-for-long-cot-distillation.pdf,8,"Category: Reasoning Model Techniques
+Subcategories:
+1. Efficiency Optimization in Reasoning
+2. Adaptive Reasoning Strategies
+3. Distillation and Knowledge Transfer"
+learning-to-stop-overthinking-at-test-time.pdf,0,"Category: Efficient Reasoning in Large Language Models
+Subcategories:
+1. Dynamic Reasoning Optimization
+2. Length Management and Output Efficiency
+3. Adaptive Reasoning Strategies"
+adaptive-deep-reasoning-triggering-deep-thinking-when-needed.pdf,8,"Category: Reasoning Model Techniques
+Subcategories:
+1. Efficiency Optimization in Reasoning
+2. Adaptive Reasoning Strategies
+3. Distillation and Knowledge Transfer"
+thinking-slow-fast-scaling-inference-compute-with-distilled-reasoners.pdf,8,"Category: Reasoning Model Techniques
+Subcategories:
+1. Efficiency Optimization in Reasoning
+2. Adaptive Reasoning Strategies
+3. Distillation and Knowledge Transfer"
+thought-manipulation-external-thought-can-be-efficient-for-large-reasoning-models.pdf,5,"Category: Reasoning Methods in Large Language Models
+
+Subcategories:
+1. Overthinking and Redundancy Mitigation
+2. Hierarchical and Adaptive Reasoning Strategies
+3. Efficiency Optimization in Reasoning Processes"
+distilling-llm-agent-into-small-models-with-retrieval-and-code-tools.pdf,8,"Category: Reasoning Model Techniques
+Subcategories:
+1. Efficiency Optimization in Reasoning
+2. Adaptive Reasoning Strategies
+3. Distillation and Knowledge Transfer"
+adareasoner-adaptive-reasoning-enables-more-flexible-thinking.pdf,3,"Category: Adaptive Reasoning Models  
+Subcategories:  
+1. Efficient Reasoning Techniques  
+2. Dynamic Cognitive Allocation  
+3. Mode-Based Reasoning Optimization"
+r2r-efficiently-navigating-divergent-reasoning-paths-with-small-large-model-token-routing.pdf,0,"Category: Efficient Reasoning in Large Language Models
+Subcategories:
+1. Dynamic Reasoning Optimization
+2. Length Management and Output Efficiency
+3. Adaptive Reasoning Strategies"
+flowkv-enhancing-multi-turn-conversational-coherence-in-llms-via-isolated-key-value-cache-management.pdf,4,"Category: Efficient Reasoning Methods in Large Language Models  
+Subcategories:  
+1. Token Sparsity and Selection Techniques  
+2. Adaptive Attention Mechanisms  
+3. Cache Management and Context Preservation Strategies"
+from-token-to-action-state-machine-reasoning-to-mitigate-overthinking-in-information-retrieval.pdf,8,"Category: Reasoning Model Techniques
+Subcategories:
+1. Efficiency Optimization in Reasoning
+2. Adaptive Reasoning Strategies
+3. Distillation and Knowledge Transfer"
+activation-control-for-efficiently-eliciting-long-chain-of-thought-ability-of-language-models.pdf,8,"Category: Reasoning Model Techniques
+Subcategories:
+1. Efficiency Optimization in Reasoning
+2. Adaptive Reasoning Strategies
+3. Distillation and Knowledge Transfer"
+self-give-associative-thinking-from-limited-structured-knowledge-for-enhanced-large-language-model-reasoning.pdf,0,"Category: Efficient Reasoning in Large Language Models
+Subcategories:
+1. Dynamic Reasoning Optimization
+2. Length Management and Output Efficiency
+3. Adaptive Reasoning Strategies"
+rot-enhancing-table-reasoning-with-iterative-row-wise-traversals.pdf,5,"Category: Reasoning Methods in Large Language Models
+
+Subcategories:
+1. Overthinking and Redundancy Mitigation
+2. Hierarchical and Adaptive Reasoning Strategies
+3. Efficiency Optimization in Reasoning Processes"
+verithinker-learning-to-verify-makes-reasoning-model-efficient.pdf,5,"Category: Reasoning Methods in Large Language Models
+
+Subcategories:
+1. Overthinking and Redundancy Mitigation
+2. Hierarchical and Adaptive Reasoning Strategies
+3. Efficiency Optimization in Reasoning Processes"
+missing-premise-exacerbates-overthinking-are-reasoning-models-losing-critical-thinking-skill.pdf,0,"Category: Efficient Reasoning in Large Language Models
+Subcategories:
+1. Dynamic Reasoning Optimization
+2. Length Management and Output Efficiency
+3. Adaptive Reasoning Strategies"
+two-experts-are-all-you-need-for-steering-thinking-reinforcing-cognitive-effort-in-moe-reasoning-models-without-addition.pdf,2,"Category: Efficient Reasoning Methods for Large Language Models (LLMs)
+Subcategories:
+1. Adaptive Reasoning Techniques
+2. Compression and Pruning Strategies
+3. Cooperative and Reinforcement Learning Approaches"
+thinking-short-and-right-over-thinking-long-serving-llm-reasoning-efficiently-and-accurately.pdf,0,"Category: Efficient Reasoning in Large Language Models
+Subcategories:
+1. Dynamic Reasoning Optimization
+2. Length Management and Output Efficiency
+3. Adaptive Reasoning Strategies"
+pencil-long-thoughts-with-short-memory.pdf,1,"Category: Long Chain-of-Thought Reasoning Methods  
+Subcategories:  
+1. Action Space Constraining and Search Strategies  
+2. Negative Sample Utilization and Policy Optimization  
+3. Context Management and Memory Efficiency"
+retro-search-exploring-untaken-paths-for-deeper-and-efficient-reasoning.pdf,9,"Category: Reasoning Optimization Techniques
+Subcategories:
+1. Inference Efficiency Strategies
+2. Adaptive Decomposition Methods
+3. Self-Improvement and Distillation Approaches"
+reinforced-latent-reasoning-for-llm-based-recommendation.pdf,2,"Category: Efficient Reasoning Methods for Large Language Models (LLMs)
+Subcategories:
+1. Adaptive Reasoning Techniques
+2. Compression and Pruning Strategies
+3. Cooperative and Reinforcement Learning Approaches"
+self-route-automatic-mode-switching-via-capability-estimation-for-efficient-reasoning.pdf,2,"Category: Efficient Reasoning Methods for Large Language Models (LLMs)
+Subcategories:
+1. Adaptive Reasoning Techniques
+2. Compression and Pruning Strategies
+3. Cooperative and Reinforcement Learning Approaches"
+value-guided-search-for-efficient-chain-of-thought-reasoning.pdf,5,"Category: Reasoning Methods in Large Language Models
+
+Subcategories:
+1. Overthinking and Redundancy Mitigation
+2. Hierarchical and Adaptive Reasoning Strategies
+3. Efficiency Optimization in Reasoning Processes"
+soft-thinking-unlocking-the-reasoning-potential-of-llms-in-continuous-concept-space.pdf,8,"Category: Reasoning Model Techniques
+Subcategories:
+1. Efficiency Optimization in Reasoning
+2. Adaptive Reasoning Strategies
+3. Distillation and Knowledge Transfer"
+think-twice-enhancing-llm-reasoning-by-scaling-multi-round-test-time-thinking.pdf,0,"Category: Efficient Reasoning in Large Language Models
+Subcategories:
+1. Dynamic Reasoning Optimization
+2. Length Management and Output Efficiency
+3. Adaptive Reasoning Strategies"
+thinkswitcher-when-to-think-hard-when-to-think-fast.pdf,5,"Category: Reasoning Methods in Large Language Models
+
+Subcategories:
+1. Overthinking and Redundancy Mitigation
+2. Hierarchical and Adaptive Reasoning Strategies
+3. Efficiency Optimization in Reasoning Processes"
+mapping-the-minds-of-llms-a-graph-based-analysis-of-reasoning-llm.pdf,0,"Category: Efficient Reasoning in Large Language Models
+Subcategories:
+1. Dynamic Reasoning Optimization
+2. Length Management and Output Efficiency
+3. Adaptive Reasoning Strategies"
+cothink-token-efficient-reasoning-via-instruct-models-guiding-reasoning-models.pdf,0,"Category: Efficient Reasoning in Large Language Models
+Subcategories:
+1. Dynamic Reasoning Optimization
+2. Length Management and Output Efficiency
+3. Adaptive Reasoning Strategies"
+training-language-models-to-reason-efficiently.pdf,0,"Category: Efficient Reasoning in Large Language Models
+Subcategories:
+1. Dynamic Reasoning Optimization
+2. Length Management and Output Efficiency
+3. Adaptive Reasoning Strategies"
+splitreason-learning-to-offload-reasoning.pdf,0,"Category: Efficient Reasoning in Large Language Models
+Subcategories:
+1. Dynamic Reasoning Optimization
+2. Length Management and Output Efficiency
+3. Adaptive Reasoning Strategies"
+when-can-large-reasoning-models-save-thinking-mechanistic-analysis-of-behavioral-divergence-in-reasoning.pdf,5,"Category: Reasoning Methods in Large Language Models
+
+Subcategories:
+1. Overthinking and Redundancy Mitigation
+2. Hierarchical and Adaptive Reasoning Strategies
+3. Efficiency Optimization in Reasoning Processes"
+reasoning-with-latent-thoughts-on-the-power-of-looped-transformers.pdf,0,"Category: Efficient Reasoning in Large Language Models
+Subcategories:
+1. Dynamic Reasoning Optimization
+2. Length Management and Output Efficiency
+3. Adaptive Reasoning Strategies"
+segment-policy-optimization-effective-segment-level-credit-assignment-in-rl-for-large-language-models.pdf,7,"Category: Reinforcement Learning Techniques for Reasoning in Language Models
+
+Subcategories:
+1. Reward Optimization Strategies
+2. Efficiency and Computational Cost Reduction
+3. Intermediate Reasoning Process Regulation"
+scalable-llm-math-reasoning-acceleration-with-low-rank-distillation.pdf,9,"Category: Reasoning Optimization Techniques
+Subcategories:
+1. Inference Efficiency Strategies
+2. Adaptive Decomposition Methods
+3. Self-Improvement and Distillation Approaches"
+dynamic-early-exit-in-reasoning-models.pdf,0,"Category: Efficient Reasoning in Large Language Models
+Subcategories:
+1. Dynamic Reasoning Optimization
+2. Length Management and Output Efficiency
+3. Adaptive Reasoning Strategies"
+pangu-embedded-an-efficient-dual-system-llm-reasoner-with-metacognition.pdf,3,"Category: Adaptive Reasoning Models  
+Subcategories:  
+1. Efficient Reasoning Techniques  
+2. Dynamic Cognitive Allocation  
+3. Mode-Based Reasoning Optimization"
+recall-with-reasoning-chain-of-thought-distillation-for-mamba-s-long-context-memory-and-extrapolation.pdf,1,"Category: Long Chain-of-Thought Reasoning Methods  
+Subcategories:  
+1. Action Space Constraining and Search Strategies  
+2. Negative Sample Utilization and Policy Optimization  
+3. Context Management and Memory Efficiency"
+harnessing-the-reasoning-economy-a-survey-of-efficient-reasoning-for-large-language-models.pdf,0,"Category: Efficient Reasoning in Large Language Models
+Subcategories:
+1. Dynamic Reasoning Optimization
+2. Length Management and Output Efficiency
+3. Adaptive Reasoning Strategies"
+the-quest-for-efficient-reasoning-a-data-centric-benchmark-to-cot-distillation.pdf,8,"Category: Reasoning Model Techniques
+Subcategories:
+1. Efficiency Optimization in Reasoning
+2. Adaptive Reasoning Strategies
+3. Distillation and Knowledge Transfer"
+interleaved-reasoning-for-large-language-models-via-reinforcement-learning.pdf,8,"Category: Reasoning Model Techniques
+Subcategories:
+1. Efficiency Optimization in Reasoning
+2. Adaptive Reasoning Strategies
+3. Distillation and Knowledge Transfer"
+beyond-the-last-answer-your-reasoning-trace-uncovers-more-than-you-think.pdf,0,"Category: Efficient Reasoning in Large Language Models
+Subcategories:
+1. Dynamic Reasoning Optimization
+2. Length Management and Output Efficiency
+3. Adaptive Reasoning Strategies"
+learning-to-reason-at-the-frontier-of-learnability.pdf,7,"Category: Reinforcement Learning Techniques for Reasoning in Language Models
+
+Subcategories:
+1. Reward Optimization Strategies
+2. Efficiency and Computational Cost Reduction
+3. Intermediate Reasoning Process Regulation"
+dnr-bench-benchmarking-over-reasoning-in-reasoning-llms.pdf,2,"Category: Efficient Reasoning Methods for Large Language Models (LLMs)
+Subcategories:
+1. Adaptive Reasoning Techniques
+2. Compression and Pruning Strategies
+3. Cooperative and Reinforcement Learning Approaches"
+think-bench-evaluating-thinking-efficiency-and-chain-of-thought-quality-of-large-reasoning-models.pdf,0,"Category: Efficient Reasoning in Large Language Models
+Subcategories:
+1. Dynamic Reasoning Optimization
+2. Length Management and Output Efficiency
+3. Adaptive Reasoning Strategies"
+thinker-learning-to-think-fast-and-slow.pdf,0,"Category: Efficient Reasoning in Large Language Models
+Subcategories:
+1. Dynamic Reasoning Optimization
+2. Length Management and Output Efficiency
+3. Adaptive Reasoning Strategies"
+amplify-adjacent-token-differences-enhancing-long-chain-of-thought-reasoning-with-shift-ffn.pdf,8,"Category: Reasoning Model Techniques
+Subcategories:
+1. Efficiency Optimization in Reasoning
+2. Adaptive Reasoning Strategies
+3. Distillation and Knowledge Transfer"
+concise-reasoning-via-reinforcement-learning.pdf,7,"Category: Reinforcement Learning Techniques for Reasoning in Language Models
+
+Subcategories:
+1. Reward Optimization Strategies
+2. Efficiency and Computational Cost Reduction
+3. Intermediate Reasoning Process Regulation"
+step-back-to-leap-forward-self-backtracking-for-boosting-reasoning-of-language-models.pdf,0,"Category: Efficient Reasoning in Large Language Models
+Subcategories:
+1. Dynamic Reasoning Optimization
+2. Length Management and Output Efficiency
+3. Adaptive Reasoning Strategies"
+speculative-prefill-turbocharging-ttft-with-lightweight-and-training-free-token-importance-estimation.pdf,4,"Category: Efficient Reasoning Methods in Large Language Models  
+Subcategories:  
+1. Token Sparsity and Selection Techniques  
+2. Adaptive Attention Mechanisms  
+3. Cache Management and Context Preservation Strategies"
+from-chaos-to-order-the-atomic-reasoner-framework-for-fine-grained-reasoning-in-large-language-models.pdf,2,"Category: Efficient Reasoning Methods for Large Language Models (LLMs)
+Subcategories:
+1. Adaptive Reasoning Techniques
+2. Compression and Pruning Strategies
+3. Cooperative and Reinforcement Learning Approaches"
+hawkeye-efficient-reasoning-with-model-collaboration.pdf,8,"Category: Reasoning Model Techniques
+Subcategories:
+1. Efficiency Optimization in Reasoning
+2. Adaptive Reasoning Strategies
+3. Distillation and Knowledge Transfer"
+optimizing-anytime-reasoning-via-budget-relative-policy-optimization.pdf,2,"Category: Efficient Reasoning Methods for Large Language Models (LLMs)
+Subcategories:
+1. Adaptive Reasoning Techniques
+2. Compression and Pruning Strategies
+3. Cooperative and Reinforcement Learning Approaches"
+symbolic-mixture-of-experts-adaptive-skill-based-routing-for-heterogeneous-reasoning.pdf,3,"Category: Adaptive Reasoning Models  
+Subcategories:  
+1. Efficient Reasoning Techniques  
+2. Dynamic Cognitive Allocation  
+3. Mode-Based Reasoning Optimization"
+disc-dynamic-decomposition-improves-llm-inference-scaling.pdf,9,"Category: Reasoning Optimization Techniques
+Subcategories:
+1. Inference Efficiency Strategies
+2. Adaptive Decomposition Methods
+3. Self-Improvement and Distillation Approaches"
+plato-plan-to-efficiently-decode-for-large-language-model-inference.pdf,8,"Category: Reasoning Model Techniques
+Subcategories:
+1. Efficiency Optimization in Reasoning
+2. Adaptive Reasoning Strategies
+3. Distillation and Knowledge Transfer"
+process-reward-models-that-think.pdf,6,"Category: Advanced Reasoning Techniques in AI
+
+Subcategories:
+1. Inference Optimization Methods
+2. Process Supervised Reward Models
+3. Multi-Hop Reasoning Frameworks"
+selfbudgeter-adaptive-token-allocation-for-efficient-llm-reasoning.pdf,2,"Category: Efficient Reasoning Methods for Large Language Models (LLMs)
+Subcategories:
+1. Adaptive Reasoning Techniques
+2. Compression and Pruning Strategies
+3. Cooperative and Reinforcement Learning Approaches"
+implicit-reasoning-in-transformers-is-reasoning-through-shortcuts.pdf,9,"Category: Reasoning Optimization Techniques
+Subcategories:
+1. Inference Efficiency Strategies
+2. Adaptive Decomposition Methods
+3. Self-Improvement and Distillation Approaches"
+thinkprune-pruning-long-chain-of-thought-of-llms-via-reinforcement-learning.pdf,1,"Category: Long Chain-of-Thought Reasoning Methods  
+Subcategories:  
+1. Action Space Constraining and Search Strategies  
+2. Negative Sample Utilization and Policy Optimization  
+3. Context Management and Memory Efficiency"
+fast-slow-thinking-for-large-vision-language-model-reasoning.pdf,0,"Category: Efficient Reasoning in Large Language Models
+Subcategories:
+1. Dynamic Reasoning Optimization
+2. Length Management and Output Efficiency
+3. Adaptive Reasoning Strategies"
+small-models-struggle-to-learn-from-strong-reasoners.pdf,8,"Category: Reasoning Model Techniques
+Subcategories:
+1. Efficiency Optimization in Reasoning
+2. Adaptive Reasoning Strategies
+3. Distillation and Knowledge Transfer"
+consol-sequential-probability-ratio-testing-to-find-consistent-llm-reasoning-paths-efficiently.pdf,7,"Category: Reinforcement Learning Techniques for Reasoning in Language Models
+
+Subcategories:
+1. Reward Optimization Strategies
+2. Efficiency and Computational Cost Reduction
+3. Intermediate Reasoning Process Regulation"
+thinkless-llm-learns-when-to-think.pdf,0,"Category: Efficient Reasoning in Large Language Models
+Subcategories:
+1. Dynamic Reasoning Optimization
+2. Length Management and Output Efficiency
+3. Adaptive Reasoning Strategies"
+llama-nemotron-efficient-reasoning-models.pdf,3,"Category: Adaptive Reasoning Models  
+Subcategories:  
+1. Efficient Reasoning Techniques  
+2. Dynamic Cognitive Allocation  
+3. Mode-Based Reasoning Optimization"
+seal-steerable-reasoning-calibration-of-large-language-models-for-free.pdf,5,"Category: Reasoning Methods in Large Language Models
+
+Subcategories:
+1. Overthinking and Redundancy Mitigation
+2. Hierarchical and Adaptive Reasoning Strategies
+3. Efficiency Optimization in Reasoning Processes"
+not-all-thoughts-are-generated-equal-efficient-llm-reasoning-via-multi-turn-reinforcement-learning.pdf,1,"Category: Long Chain-of-Thought Reasoning Methods  
+Subcategories:  
+1. Action Space Constraining and Search Strategies  
+2. Negative Sample Utilization and Policy Optimization  
+3. Context Management and Memory Efficiency"
+grpo-lead-a-difficulty-aware-reinforcement-learning-approach-for-concise-mathematical-reasoning-in-language-models.pdf,7,"Category: Reinforcement Learning Techniques for Reasoning in Language Models
+
+Subcategories:
+1. Reward Optimization Strategies
+2. Efficiency and Computational Cost Reduction
+3. Intermediate Reasoning Process Regulation"
+route-to-reason-adaptive-routing-for-llm-and-reasoning-strategy-selection.pdf,2,"Category: Efficient Reasoning Methods for Large Language Models (LLMs)
+Subcategories:
+1. Adaptive Reasoning Techniques
+2. Compression and Pruning Strategies
+3. Cooperative and Reinforcement Learning Approaches"
+the-overthinker-s-diet-cutting-token-calories-with-difficulty-aware-training.pdf,2,"Category: Efficient Reasoning Methods for Large Language Models (LLMs)
+Subcategories:
+1. Adaptive Reasoning Techniques
+2. Compression and Pruning Strategies
+3. Cooperative and Reinforcement Learning Approaches"
+specreason-fast-and-accurate-inference-time-compute-via-speculative-reasoning.pdf,2,"Category: Efficient Reasoning Methods for Large Language Models (LLMs)
+Subcategories:
+1. Adaptive Reasoning Techniques
+2. Compression and Pruning Strategies
+3. Cooperative and Reinforcement Learning Approaches"
+efficientllm-scalable-pruning-aware-pretraining-for-architecture-agnostic-edge-language-models.pdf,4,"Category: Efficient Reasoning Methods in Large Language Models  
+Subcategories:  
+1. Token Sparsity and Selection Techniques  
+2. Adaptive Attention Mechanisms  
+3. Cache Management and Context Preservation Strategies"
+scaling-up-test-time-compute-with-latent-reasoning-a-recurrent-depth-approach.pdf,0,"Category: Efficient Reasoning in Large Language Models
+Subcategories:
+1. Dynamic Reasoning Optimization
+2. Length Management and Output Efficiency
+3. Adaptive Reasoning Strategies"
+shorterbetter-guiding-reasoning-models-to-find-optimal-inference-length-for-efficient-reasoning.pdf,8,"Category: Reasoning Model Techniques
+Subcategories:
+1. Efficiency Optimization in Reasoning
+2. Adaptive Reasoning Strategies
+3. Distillation and Knowledge Transfer"
+effectively-controlling-reasoning-models-through-thinking-intervention.pdf,0,"Category: Efficient Reasoning in Large Language Models
+Subcategories:
+1. Dynamic Reasoning Optimization
+2. Length Management and Output Efficiency
+3. Adaptive Reasoning Strategies"
+long-short-chain-of-thought-mixture-supervised-fine-tuning-eliciting-efficient-reasoning-in-large-language-models.pdf,8,"Category: Reasoning Model Techniques
+Subcategories:
+1. Efficiency Optimization in Reasoning
+2. Adaptive Reasoning Strategies
+3. Distillation and Knowledge Transfer"
+lower-bounds-for-chain-of-thought-reasoning-in-hard-attention-transformers.pdf,8,"Category: Reasoning Model Techniques
+Subcategories:
+1. Efficiency Optimization in Reasoning
+2. Adaptive Reasoning Strategies
+3. Distillation and Knowledge Transfer"
+the-first-few-tokens-are-all-you-need-an-efficient-and-effective-unsupervised-prefix-fine-tuning-method-for-reasoning-mo.pdf,9,"Category: Reasoning Optimization Techniques
+Subcategories:
+1. Inference Efficiency Strategies
+2. Adaptive Decomposition Methods
+3. Self-Improvement and Distillation Approaches"
+reasoning-models-know-when-they-re-right-probing-hidden-states-for-self-verification.pdf,9,"Category: Reasoning Optimization Techniques
+Subcategories:
+1. Inference Efficiency Strategies
+2. Adaptive Decomposition Methods
+3. Self-Improvement and Distillation Approaches"
+adaptive-thinking-via-mode-policy-optimization-for-social-language-agents.pdf,3,"Category: Adaptive Reasoning Models  
+Subcategories:  
+1. Efficient Reasoning Techniques  
+2. Dynamic Cognitive Allocation  
+3. Mode-Based Reasoning Optimization"
+efficiently-scaling-llm-reasoning-with-certaindex.pdf,0,"Category: Efficient Reasoning in Large Language Models
+Subcategories:
+1. Dynamic Reasoning Optimization
+2. Length Management and Output Efficiency
+3. Adaptive Reasoning Strategies"
+don-t-think-longer-think-wisely-optimizing-thinking-dynamics-for-large-reasoning-models.pdf,0,"Category: Efficient Reasoning in Large Language Models
+Subcategories:
+1. Dynamic Reasoning Optimization
+2. Length Management and Output Efficiency
+3. Adaptive Reasoning Strategies"
+hapo-training-language-models-to-reason-concisely-via-history-aware-policy-optimization.pdf,7,"Category: Reinforcement Learning Techniques for Reasoning in Language Models
+
+Subcategories:
+1. Reward Optimization Strategies
+2. Efficiency and Computational Cost Reduction
+3. Intermediate Reasoning Process Regulation"
+pixelthink-towards-efficient-chain-of-pixel-reasoning.pdf,0,"Category: Efficient Reasoning in Large Language Models
+Subcategories:
+1. Dynamic Reasoning Optimization
+2. Length Management and Output Efficiency
+3. Adaptive Reasoning Strategies"
+fast-quiet-star-thinking-without-thought-tokens.pdf,5,"Category: Reasoning Methods in Large Language Models
+
+Subcategories:
+1. Overthinking and Redundancy Mitigation
+2. Hierarchical and Adaptive Reasoning Strategies
+3. Efficiency Optimization in Reasoning Processes"
+adaptivestep-automatically-dividing-reasoning-step-through-model-confidence.pdf,6,"Category: Advanced Reasoning Techniques in AI
+
+Subcategories:
+1. Inference Optimization Methods
+2. Process Supervised Reward Models
+3. Multi-Hop Reasoning Frameworks"
+walk-before-you-run-concise-llm-reasoning-via-reinforcement-learning.pdf,7,"Category: Reinforcement Learning Techniques for Reasoning in Language Models
+
+Subcategories:
+1. Reward Optimization Strategies
+2. Efficiency and Computational Cost Reduction
+3. Intermediate Reasoning Process Regulation"
+stable-reinforcement-learning-for-efficient-reasoning.pdf,7,"Category: Reinforcement Learning Techniques for Reasoning in Language Models
+
+Subcategories:
+1. Reward Optimization Strategies
+2. Efficiency and Computational Cost Reduction
+3. Intermediate Reasoning Process Regulation"
+l1-controlling-how-long-a-reasoning-model-thinks-with-reinforcement-learning.pdf,7,"Category: Reinforcement Learning Techniques for Reasoning in Language Models
+
+Subcategories:
+1. Reward Optimization Strategies
+2. Efficiency and Computational Cost Reduction
+3. Intermediate Reasoning Process Regulation"
+efficient-long-cot-reasoning-in-small-language-models.pdf,8,"Category: Reasoning Model Techniques
+Subcategories:
+1. Efficiency Optimization in Reasoning
+2. Adaptive Reasoning Strategies
+3. Distillation and Knowledge Transfer"
+putting-the-value-back-in-rl-better-test-time-scaling-by-unifying-llm-reasoners-with-verifiers.pdf,7,"Category: Reinforcement Learning Techniques for Reasoning in Language Models
+
+Subcategories:
+1. Reward Optimization Strategies
+2. Efficiency and Computational Cost Reduction
+3. Intermediate Reasoning Process Regulation"
+pretraining-language-models-to-ponder-in-continuous-space.pdf,3,"Category: Adaptive Reasoning Models  
+Subcategories:  
+1. Efficient Reasoning Techniques  
+2. Dynamic Cognitive Allocation  
+3. Mode-Based Reasoning Optimization"
+to-think-or-not-to-think-exploring-the-unthinking-vulnerability-in-large-reasoning-models.pdf,5,"Category: Reasoning Methods in Large Language Models
+
+Subcategories:
+1. Overthinking and Redundancy Mitigation
+2. Hierarchical and Adaptive Reasoning Strategies
+3. Efficiency Optimization in Reasoning Processes"
+adacot-pareto-optimal-adaptive-chain-of-thought-triggering-via-reinforcement-learning.pdf,8,"Category: Reasoning Model Techniques
+Subcategories:
+1. Efficiency Optimization in Reasoning
+2. Adaptive Reasoning Strategies
+3. Distillation and Knowledge Transfer"
+stop-overthinking-a-survey-on-efficient-reasoning-for-large-language-models.pdf,0,"Category: Efficient Reasoning in Large Language Models
+Subcategories:
+1. Dynamic Reasoning Optimization
+2. Length Management and Output Efficiency
+3. Adaptive Reasoning Strategies"
+safety-through-reasoning-an-empirical-study-of-reasoning-guardrail-models.pdf,2,"Category: Efficient Reasoning Methods for Large Language Models (LLMs)
+Subcategories:
+1. Adaptive Reasoning Techniques
+2. Compression and Pruning Strategies
+3. Cooperative and Reinforcement Learning Approaches"
+reasoning-beyond-language-a-comprehensive-survey-on-latent-chain-of-thought-reasoning.pdf,8,"Category: Reasoning Model Techniques
+Subcategories:
+1. Efficiency Optimization in Reasoning
+2. Adaptive Reasoning Strategies
+3. Distillation and Knowledge Transfer"
+trade-offs-in-large-reasoning-models-an-empirical-analysis-of-deliberative-and-adaptive-reasoning-over-foundational-capa.pdf,5,"Category: Reasoning Methods in Large Language Models
+
+Subcategories:
+1. Overthinking and Redundancy Mitigation
+2. Hierarchical and Adaptive Reasoning Strategies
+3. Efficiency Optimization in Reasoning Processes"

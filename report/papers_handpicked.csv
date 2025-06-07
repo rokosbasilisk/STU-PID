@@ -1,0 +1,1159 @@
+title,category
+Accelerating Chain-of-Thought Reasoning: When Goal-Gradient Importance Meets Dynamic Skipping,both
+Hunyuan-TurboS: Advancing Large Language Models through Mamba-Transformer Synergy and Adaptive Chain-of-Thought,both
+A Survey on Inference Engines for Large Language Models: Perspectives on Optimization and Efficiency,both
+Reasoning with OmniThought: A Large CoT Dataset with Verbosity and Cognitive Difficulty Annotations,both
+DSDrive: Distilling Large Language Model for Lightweight End-to-End Autonomous Driving with Unified Reasoning and Planning,both
+Let Me Think! A Long Chain-of-Thought Can Be Worth Exponentially Many Short Ones,both
+THINK-Bench: Evaluating Thinking Efficiency and Chain-of-Thought Quality of Large Reasoning Models,both
+"ThinkSwitcher: When to Think Hard, When to Think Fast",both
+Thought-Augmented Policy Optimization: Bridging External Guidance and Internal Capabilities,both
+Continuous Chain of Thought Enables Parallel Exploration and Reasoning,both
+DRP: Distilled Reasoning Pruning with Skill-aware Step Decomposition for Efficient Large Reasoning Models,both
+Recall with Reasoning: Chain-of-Thought Distillation for Mamba's Long-Context Memory and Extrapolation,both
+Long-Short Chain-of-Thought Mixture Supervised Fine-Tuning Eliciting Efficient Reasoning in Large Language Models,both
+RBF++: Quantifying and Optimizing Reasoning Boundaries across Measurable and Unmeasurable Capabilities for Chain-of-Thought Reasoning,both
+Causal Distillation: Transferring Structured Explanations from Large to Compact Language Models,both
+The Quest for Efficient Reasoning: A Data-Centric Benchmark to CoT Distillation,both
+Select2Reason: Efficient Instruction-Tuning Data Selection for Long-CoT Reasoning,both
+AutoL2S: Auto Long-Short Reasoning for Efficient Large Language Models,both
+Can Pruning Improve Reasoning? Revisiting Long-CoT Compression with Capability in Mind for Better Reasoning,both
+TACO: Think-Answer Consistency for Optimized Long-Chain Reasoning and Efficient Data Learning via Reinforcement Learning in LVLMs,both
+GroverGPT-2: Simulating Grover's Algorithm via Chain-of-Thought Reasoning and Quantum-Native Tokenization,both
+ConCISE: Confidence-guided Compression in Step-by-step Efficient Reasoning,both
+Think or Not? Exploring Thinking Efficiency in Large Reasoning Models via an Information-Theoretic Lens,both
+CoThink: Token-Efficient Reasoning via Instruct Models Guiding Reasoning Models,both
+Thinking Fast and Right: Balancing Accuracy and Reasoning Length with Adaptive Rewards,both
+Learning Composable Chains-of-Thought,both
+Done Is Better than Perfect: Unlocking Efficient Reasoning by Structured Multi-Turn Decomposition,both
+Reasoning Meets Personalization: Unleashing the Potential of Large Reasoning Model for Personalized Generation,both
+MilChat: Introducing Chain of Thought Reasoning and GRPO to a Multimodal Small Language Model for Remote Sensing,both
+Large Language Model-driven Security Assistant for Internet of Things via Chain-of-Thought,both
+AdaCoT: Pareto-Optimal Adaptive Chain-of-Thought Triggering via Reinforcement Learning,both
+Thinker: Learning to Think Fast and Slow,both
+Value-Guided Search for Efficient Chain-of-Thought Reasoning,both
+Distilling LLM Agent into Small Models with Retrieval and Code Tools,both
+AgentThink: A Unified Framework for Tool-Augmented Chain-of-Thought Reasoning in Vision-Language Models for Autonomous Driving,both
+Holistic Capability Preservation: Towards Compact Yet Comprehensive Reasoning Models,both
+When Reasoning Meets Compression: Benchmarking Compressed Large Reasoning Models on Complex Reasoning Tasks,both
+GRPO-LEAD: A Difficulty-Aware Reinforcement Learning Approach for Concise Mathematical Reasoning in Language Models,both
+Think When You Need: Self-Adaptive Chain-of-Thought Learning,both
+Reason Like a Radiologist: Chain-of-Thought and Reinforcement Learning for Verifiable Report Generation,both
+Synthetic Data Generation & Multi-Step RL for Reasoning & Tool Use,both
+Efficient Reasoning for LLMs through Speculative Chain-of-Thought,both
+Between Underthinking and Overthinking: An Empirical Study of Reasoning Length and correctness in LLMs,both
+Synergizing RAG and Reasoning: A Systematic Review,both
+From LLM Reasoning to Autonomous AI Agents: A Comprehensive Review,both
+Efficient Reasoning Models: A Survey,both
+Trade-offs in Large Reasoning Models: An Empirical Analysis of Deliberative and Adaptive Reasoning over Foundational Capabilities,both
+Phi-4-Mini Technical Report: Compact yet Powerful Multimodal Language Models via Mixture-of-LoRAs,both
+Adaptive Group Policy Optimization: Towards Stable Training and Token-Efficient Reasoning,both
+FReM: A Flexible Reasoning Mechanism for Balancing Quick and Slow Thinking in Long-Context Question Answering,both
+A Survey on the Optimization of Large Language Model-based Agents,both
+Integrating Chain-of-Thought for Multimodal Alignment: A Study on 3D Vision-Language Learning,both
+The First Few Tokens Are All You Need: An Efficient and Effective Unsupervised Prefix Fine-Tuning Method for Reasoning Models,both
+Grounded Chain-of-Thought for Multimodal Large Language Models,both
+OptMetaOpenFOAM: Large Language Model Driven Chain of Thought for Sensitivity Analysis and Parameter Optimization based on CFD,both
+Harnessing the Reasoning Economy: A Survey of Efficient Reasoning for Large Language Models,both
+Efficient Inference for Large Reasoning Models: A Survey,both
+CoT2Align: Cross-Chain of Thought Distillation via Optimal Transport Alignment for Language Models with Different Tokenizers,both
+Self-Training Elicits Concise Reasoning in Large Language Models,both
+"Thinking Slow, Fast: Scaling Inference Compute with Distilled Reasoners",both
+"When One LLM Drools, Multi-LLM Collaboration Rules",both
+RaCT: Ranking-aware Chain-of-Thought Optimization for LLMs,both
+RePrompt: Planning by Automatic Prompt Engineering for Large Language Models Agents,both
+Towards Better Chain-of-Thought: A Reflection on Effectiveness and Faithfulness,both
+Communication-Efficient Hybrid Language Model via Uncertainty-Aware Opportunistic and Compressed Transmission,chain_of_thought_reduction
+HeteroSpec: Leveraging Contextual Heterogeneity for Efficient Speculative Decoding,chain_of_thought_reduction
+EfficientLLM: Efficiency in Large Language Models,chain_of_thought_reduction
+ThinkLess: A Training-Free Inference-Efficient Method for Reducing Reasoning Redundancy,chain_of_thought_reduction
+PixelThink: Towards Efficient Chain-of-Pixel Reasoning,chain_of_thought_reduction
+Thinking Short and Right Over Thinking Long: Serving LLM Reasoning Efficiently and Accurately,chain_of_thought_reduction
+Efficient Long CoT Reasoning in Small Language Models,chain_of_thought_reduction
+TrimR: Verifier-based Training-Free Thinking Compression for Efficient Test-Time Scaling,chain_of_thought_reduction
+ConciseRL: Conciseness-Guided Reinforcement Learning for Efficient Reasoning Models,chain_of_thought_reduction
+The Overthinker's DIET: Cutting Token Calories with DIfficulty-AwarE Training,chain_of_thought_reduction
+"Think Silently, Think Fast: Dynamic Latent Compression of LLM Reasoning Chains",chain_of_thought_reduction
+SelfBudgeter: Adaptive Token Allocation for Efficient LLM Reasoning,chain_of_thought_reduction
+First Finish Search: Efficient Test-Time Scaling in Large Language Models,chain_of_thought_reduction
+Learn to Reason Efficiently with Adaptive Length-based Reward Shaping,chain_of_thought_reduction
+Prolonged Reasoning Is Not All You Need: Certainty-Based Adaptive Routing for Efficient LLM/MLLM Reasoning,chain_of_thought_reduction
+Let LLMs Break Free from Overthinking via Self-Braking Tuning,chain_of_thought_reduction
+LIFEBench: Evaluating Length Instruction Following in Large Language Models,chain_of_thought_reduction
+"Concise Reasoning, Big Gains: Pruning Long Reasoning Trace with Difficulty-Aware Prompting",chain_of_thought_reduction
+Reasoning Path Compression: Compressing Generation Trajectories for Efficient LLM Reasoning,chain_of_thought_reduction
+HAPO: Training Language Models to Reason Concisely via History-Aware Policy Optimization,chain_of_thought_reduction
+Thinkless: LLM Learns When to Think,chain_of_thought_reduction
+VeriFastScore: Speeding up long-form factuality evaluation,chain_of_thought_reduction
+Don't Overthink it. Preferring Shorter Thinking Chains for Improved LLM Reasoning,chain_of_thought_reduction
+Efficient Large Language Model Inference with Neural Block Linearization,chain_of_thought_reduction
+"A Token is Worth over 1,000 Tokens: Efficient Knowledge Distillation through Low-Rank Clone",chain_of_thought_reduction
+The Energy Cost of Reasoning: Analyzing Energy Usage in LLMs with Test-time Compute,chain_of_thought_reduction
+FlashThink: An Early Exit Method For Efficient Reasoning,chain_of_thought_reduction
+DASH: Input-Aware Dynamic Layer Skipping for Efficient LLM Inference with Markov Decision Policies,chain_of_thought_reduction
+Efficient Pretraining Length Scaling,chain_of_thought_reduction
+"Think Deep, Think Fast: Investigating Efficiency of Verifier-free Inference-time-scaling Methods",chain_of_thought_reduction
+Dynamic Early Exit in Reasoning Models,chain_of_thought_reduction
+ShorterBetter: Guiding Reasoning Models to Find Optimal Inference Length for Efficient Reasoning,chain_of_thought_reduction
+ThinkPrune: Pruning Long Chain-of-Thought of LLMs via Reinforcement Learning,chain_of_thought_reduction
+"70% Size, 100% Accuracy: Lossless LLM Compression for Efficient GPU Inference via Dynamic-Length Float",chain_of_thought_reduction
+Do We Truly Need So Many Samples? Multi-LLM Repeated Sampling Efficiently Scales Test-Time Compute,chain_of_thought_reduction
+ZipR1: Reinforcing Token Sparsity in MLLMs,chain_of_thought_reduction
+An Empirical Study of LLM Reasoning Ability Under Strict Output Length Constraint,chain_of_thought_reduction
+Token-Efficient Prompt Injection Attack: Provoking Cessation in LLM Reasoning via Adaptive Token Compression,chain_of_thought_reduction
+Concise Reasoning via Reinforcement Learning,chain_of_thought_reduction
+The Curse of CoT: On the Limitations of Chain-of-Thought in In-Context Learning,chain_of_thought_reduction
+xLSTM 7B: A Recurrent LLM for Fast and Efficient Inference,chain_of_thought_reduction
+PENCIL: Long Thoughts with Short Memory,chain_of_thought_reduction
+Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models,chain_of_thought_reduction
+Deconstructing Long Chain-of-Thought: A Structured Reasoning Optimization Framework for Long CoT Distillation,chain_of_thought_reduction
+DNR Bench: Benchmarking Over-Reasoning in Reasoning LLMs,chain_of_thought_reduction
+L1: Controlling How Long A Reasoning Model Thinks With Reinforcement Learning,chain_of_thought_reduction
+Collaborative Speculative Inference for Efficient LLM Inference Serving,chain_of_thought_reduction
+Unlocking Efficient Long-to-Short LLM Reasoning with Model Merging,chain_of_thought_reduction
+Speculative MoE: Communication Efficient Parallel MoE Inference with Speculative Token and Expert Pre-scheduling,chain_of_thought_reduction
+LServe: Efficient Long-sequence LLM Serving with Unified Sparse Attention,chain_of_thought_reduction
+Learning to Stop Overthinking at Test Time,chain_of_thought_reduction
+ChunkKV: Semantic-Preserving KV Cache Compression for Efficient Long-Context LLM Inference,chain_of_thought_reduction
+LIMO: Less is More for Reasoning,chain_of_thought_reduction
+EfficientLLM: Scalable Pruning-Aware Pretraining for Architecture-Agnostic Edge Language Models,chain_of_thought_reduction
+CodeI/O: Condensing Reasoning Patterns via Code Input-Output Prediction,chain_of_thought_reduction
+TokenSkip: Controllable Chain-of-Thought Compression in LLMs,chain_of_thought_reduction
+LIMR: Less is More for RL Scaling,chain_of_thought_reduction
+LightThinker: Thinking Step-by-Step Compression,chain_of_thought_reduction
+From Hours to Minutes: Lossless Acceleration of Ultra Long Sequence Generation up to 100K Tokens,chain_of_thought_reduction
+Chain of Draft: Thinking Faster by Writing Less,chain_of_thought_reduction
+When More is Less: Understanding Chain-of-Thought Length in LLMs,chain_of_thought_reduction
+CoT-Valve: Length-Compressible Chain-of-Thought Tuning,chain_of_thought_reduction
+Scaling Inference-Efficient Language Models,chain_of_thought_reduction
+Token-Budget-Aware LLM Reasoning,chain_of_thought_reduction
+Do NOT Think That Much for 2+3=? On the Overthinking of o1-Like LLMs,chain_of_thought_reduction
+SelectLLM: Query-Aware Efficient Selection Algorithm for Large Language Models,chain_of_thought_reduction
+Plato: Plan to Efficiently Decode for Large Language Model Inference,chain_of_thought_reduction
+Bring Reason to Vision: Understanding Perception and Reasoning through Model Merging,reasoning_improvement
+Building a Human-Verified Clinical Reasoning Dataset via a Human LLM Hybrid Pipeline for Trustworthy Medical AI,reasoning_improvement
+Rethinking Prompt Optimizers: From Prompt Merits to Optimization,reasoning_improvement
+RM-R1: Reward Modeling as Reasoning,reasoning_improvement
+BARREL: Boundary-Aware Reasoning for Factual and Reliable LRMs,reasoning_improvement
+"DeepEyes: Incentivizing ""Thinking with Images"" via Reinforcement Learning",reasoning_improvement
+FlowKV: Enhancing Multi-Turn Conversational Coherence in LLMs via Isolated Key-Value Cache Management,reasoning_improvement
+R-Bench: Graduate-level Multi-disciplinary Benchmarks for LLM & MLLM Complex Reasoning Evaluation,reasoning_improvement
+T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT,reasoning_improvement
+Thoughts without Thinking: Reconsidering the Explanatory Value of Chain-of-Thought Reasoning in LLMs through Agentic Pipelines,reasoning_improvement
+MentalMAC: Enhancing Large Language Models for Detecting Mental Manipulation via Multi-Task Anti-Curriculum Distillation,reasoning_improvement
+When Less Language is More: Language-Reasoning Disentanglement Makes LLMs Better Multilingual Reasoners,reasoning_improvement
+Mining Hidden Thoughts from Texts: Evaluating Continual Pretraining with Synthetic Data for LLM Reasoning,reasoning_improvement
+Not All Thoughts are Generated Equal: Efficient LLM Reasoning via Multi-Turn Reinforcement Learning,reasoning_improvement
+Class Distillation with Mahalanobis Contrast: An Efficient Training Paradigm for Pragmatic Language Understanding Tasks,reasoning_improvement
+CoT-Vid: Dynamic Chain-of-Thought Routing with Self Verification for Training-Free Video Reasoning,reasoning_improvement
+OneTwoVLA: A Unified Vision-Language-Action Model with Adaptive Reasoning,reasoning_improvement
+VeriReason: Reinforcement Learning with Testbench Feedback for Reasoning-Enhanced Verilog Generation,reasoning_improvement
+Solver-Informed RL: Grounding Large Language Models for Authentic Optimization Modeling,reasoning_improvement
+Evaluating the Logical Reasoning Abilities of Large Reasoning Models,reasoning_improvement
+SAS-Bench: A Fine-Grained Benchmark for Evaluating Short Answer Scoring with Large Language Models,reasoning_improvement
+Connecting the Dots: A Chain-of-Collaboration Prompting Framework for LLM Agents,reasoning_improvement
+GuardReasoner-VL: Safeguarding VLMs via Reinforced Reasoning,reasoning_improvement
+Natural Language Planning via Coding and Inference Scaling,reasoning_improvement
+Incentivizing Dual Process Thinking for Efficient Large Language Model Reasoning,reasoning_improvement
+Distilling the Implicit Multi-Branch Structure in LLMs' Reasoning via Reinforcement Learning,reasoning_improvement
+SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond,reasoning_improvement
+Effective and Transparent RAG: Adaptive-Reward Reinforcement Learning for Decision Traceability,reasoning_improvement
+Memorization or Reasoning? Exploring the Idiom Understanding of LLMs,reasoning_improvement
+Pixel Reasoner: Incentivizing Pixel-Space Reasoning with Curiosity-Driven Reinforcement Learning,reasoning_improvement
+Crosslingual Reasoning through Test-Time Scaling,reasoning_improvement
+CaseEdit: Enhancing Localized Commonsense Reasoning via Null-Space Constrained Knowledge Editing in Small Parameter Language Models,reasoning_improvement
+Automated Text-to-Table for Reasoning-Intensive Table QA: Pipeline Design and Benchmarking Insights,reasoning_improvement
+SituatedThinker: Grounding LLM Reasoning with Real-World through Situated Thinking,reasoning_improvement
+DeepTheorem: Advancing LLM Reasoning for Theorem Proving Through Natural Language and Reinforcement Learning,reasoning_improvement
+Beyond 'Aha!': Toward Systematic Meta-Abilities Alignment in Large Reasoning Models,reasoning_improvement
+Can Large Reasoning Models Self-Train?,reasoning_improvement
+Beyond Chemical QA: Evaluating LLM's Chemical Reasoning with Modular Chemical Operations,reasoning_improvement
+MathCoder-VL: Bridging Vision and Code for Enhanced Multimodal Mathematical Reasoning,reasoning_improvement
+"IQBench: How ""Smart'' Are Vision-Language Models? A Study with Human IQ Tests",reasoning_improvement
+VisionReasoner: Unified Visual Perception and Reasoning via Reinforcement Learning,reasoning_improvement
+Let's Verify Math Questions Step by Step,reasoning_improvement
+Feature Extraction and Steering for Enhanced Chain-of-Thought Reasoning in Language Models,reasoning_improvement
+Discovering Pathology Rationale and Token Allocation for Efficient Multimodal Pathology Reasoning,reasoning_improvement
+NeSyGeo: A Neuro-Symbolic Framework for Multimodal Geometric Reasoning Data Generation,reasoning_improvement
+MTR-Bench: A Comprehensive Benchmark for Multi-Turn Reasoning Evaluation,reasoning_improvement
+Knowledge Augmented Complex Problem Solving with Large Language Models: A Survey,reasoning_improvement
+Memorization-Compression Cycles Improve Generalization,reasoning_improvement
+Self-GIVE: Associative Thinking from Limited Structured Knowledge for Enhanced Large Language Model Reasoning,reasoning_improvement
+Accelerating RL for LLM Reasoning with Optimal Advantage Regression,reasoning_improvement
+rStar-Coder: Scaling Competitive Code Reasoning with a Large-Scale Verified Dataset,reasoning_improvement
+Learning from Algorithm Feedback: One-Shot SAT Solver Guidance with GNNs,reasoning_improvement
+$\text{R}^2\text{ec}$: Towards Large Recommender Models with Reasoning,reasoning_improvement
+Latent Principle Discovery for Language Model Self-Improvement,reasoning_improvement
+LARES: Latent Reasoning for Sequential Recommendation,reasoning_improvement
+A Theoretical Analysis of Compositional Generalization in Neural Networks: A Necessary and Sufficient Condition,reasoning_improvement
+DeepMath-Creative: A Benchmark for Evaluating Mathematical Creativity of Large Language Models,reasoning_improvement
+Do Large Language Models Excel in Complex Logical Reasoning with Formal Language?,reasoning_improvement
+Error Typing for Smarter Rewards: Improving Process Reward Models with Error-Aware Hierarchical Supervision,reasoning_improvement
+Think-J: Learning to Think for Generative LLM-as-a-Judge,reasoning_improvement
+Scent of Knowledge: Optimizing Search-Enhanced Reasoning with Information Foraging,reasoning_improvement
+Fractured Chain-of-Thought Reasoning,reasoning_improvement
+ExTrans: Multilingual Deep Reasoning Translation via Exemplar-Enhanced Reinforcement Learning,reasoning_improvement
+Code2Logic: Game-Code-Driven Data Synthesis for Enhancing VLMs General Reasoning,reasoning_improvement
+Towards eliciting latent knowledge from LLMs with mechanistic interpretability,reasoning_improvement
+Mapping the Minds of LLMs: A Graph-Based Analysis of Reasoning LLM,reasoning_improvement
+GRE Suite: Geo-localization Inference via Fine-Tuned Vision-Language Models and Enhanced Reasoning Chains,reasoning_improvement
+The Coverage Principle: A Framework for Understanding Compositional Generalization,reasoning_improvement
+System-1.5 Reasoning: Traversal in Language and Latent Spaces with Dynamic Shortcuts,reasoning_improvement
+Reasoning Beyond Language: A Comprehensive Survey on Latent Chain-of-Thought Reasoning,reasoning_improvement
+Can reasoning models comprehend mathematical problems in Chinese ancient texts? An empirical study based on data from Suanjing Shishu,reasoning_improvement
+R1-ShareVL: Incentivizing Reasoning Capability of Multimodal Large Language Models via Share-GRPO,reasoning_improvement
+Learning to Route Queries Across Knowledge Bases for Step-wise Retrieval-Augmented Reasoning,reasoning_improvement
+Temporal Sampling for Forgotten Reasoning in LLMs,reasoning_improvement
+SPA-RL: Reinforcing LLM Agents via Stepwise Progress Attribution,reasoning_improvement
+Reasoning Is Not All You Need: Examining LLMs for Multi-Turn Mental Health Conversations,reasoning_improvement
+Can Past Experience Accelerate LLM Reasoning?,reasoning_improvement
+MCP Safety Training: Learning to Refuse Falsely Benign MCP Exploits using Improved Preference Alignment,reasoning_improvement
+Attributing Response to Context: A Jensen-Shannon Divergence Driven Mechanistic Study of Context Attribution in Retrieval-Augmented Generation,reasoning_improvement
+T2I-Eval-R1: Reinforcement Learning-Driven Reasoning for Interpretable Text-to-Image Evaluation,reasoning_improvement
+Pretraining Language Models to Ponder in Continuous Space,reasoning_improvement
+Pitfalls of Rule- and Model-based Verifiers -- A Case Study on Mathematical Reasoning,reasoning_improvement
+Let's Reason Formally: Natural-Formal Hybrid Reasoning Enhances LLM's Math Capability,reasoning_improvement
+SocialMaze: A Benchmark for Evaluating Social Reasoning in Large Language Models,reasoning_improvement
+Sherlock: Self-Correcting Reasoning in Vision-Language Models,reasoning_improvement
+Self-Reflective Reinforcement Learning for Diffusion-based Image Reasoning Generation,reasoning_improvement
+Table-R1: Inference-Time Scaling for Table Reasoning,reasoning_improvement
+Don't Take the Premise for Granted: Evaluating the Premise Critique Ability of Large Language Models,reasoning_improvement
+Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence,reasoning_improvement
+Unified Multimodal Chain-of-Thought Reward Model through Reinforcement Fine-Tuning,reasoning_improvement
+A Multi-Dimensional Constraint Framework for Evaluating and Improving Instruction Following in Large Language Models,reasoning_improvement
+Scaling Reasoning can Improve Factuality in Large Language Models,reasoning_improvement
+MPS-Prover: Advancing Stepwise Theorem Proving by Multi-Perspective Search and Data Curation,reasoning_improvement
+Human-Aligned Bench: Fine-Grained Assessment of Reasoning Ability in MLLMs vs. Humans,reasoning_improvement
+Daily-Omni: Towards Audio-Visual Reasoning with Temporal Alignment across Modalities,reasoning_improvement
+"Language models can learn implicit multi-hop reasoning, but only if they have lots of training data",reasoning_improvement
+Collision- and Reachability-Aware Multi-Robot Control with Grounded LLM Planners,reasoning_improvement
+Can Large Language Models Correctly Interpret Equations with Errors?,reasoning_improvement
+Optimizing Anytime Reasoning via Budget Relative Policy Optimization,reasoning_improvement
+Seek in the Dark: Reasoning via Test-Time Instance-Level Policy Gradient in Latent Space,reasoning_improvement
+"Trust, But Verify: A Self-Verification Approach to Reinforcement Learning with Verifiable Rewards",reasoning_improvement
+Self-Route: Automatic Mode Switching via Capability Estimation for Efficient Reasoning,reasoning_improvement
+DriveRX: A Vision-Language Reasoning Model for Cross-Task Autonomous Driving,reasoning_improvement
+Beyond path selection: Better LLMs for Scientific Information Extraction with MimicSFT and Relevance and Rule-induced(R$^2$)GRPO,reasoning_improvement
+Reinforcement Learning for Out-of-Distribution Reasoning in LLMs: An Empirical Study on Diagnosis-Related Group Coding,reasoning_improvement
+Zooming from Context to Cue: Hierarchical Preference Optimization for Multi-Image MLLMs,reasoning_improvement
+Segment Policy Optimization: Effective Segment-Level Credit Assignment in RL for Large Language Models,reasoning_improvement
+Neither Stochastic Parroting nor AGI: LLMs Solve Tasks through Context-Directed Extrapolation from Training Data Priors,reasoning_improvement
+CoT Red-Handed: Stress Testing Chain-of-Thought Monitoring,reasoning_improvement
+BioReason: Incentivizing Multimodal Biological Reasoning within a DNA-LLM Model,reasoning_improvement
+Learning Like Humans: Advancing LLM Reasoning Capabilities via Adaptive Difficulty Curriculum Learning and Expert-Guided Self-Reformulation,reasoning_improvement
+R2MED: A Benchmark for Reasoning-Driven Medical Retrieval,reasoning_improvement
+DrugPilot: LLM-based Parameterized Reasoning Agent for Drug Discovery,reasoning_improvement
+Diversity-Aware Policy Optimization for Large Language Model Reasoning,reasoning_improvement
+Fusing Bidirectional Chains of Thought and Reward Mechanisms A Method for Enhancing Question-Answering Capabilities of Large Language Models for Chinese Intangible Cultural Heritage,reasoning_improvement
+Silence is Not Consensus: Disrupting Agreement Bias in Multi-Agent LLMs via Catfish Agent for Clinical Decision Making,reasoning_improvement
+TEMPURA: Temporal Event Masked Prediction and Understanding for Reasoning in Action,reasoning_improvement
+Unearthing Gems from Stones: Policy Optimization with Negative Sample Augmentation for LLM Reasoning,reasoning_improvement
+Trajectory Bellman Residual Minimization: A Simple Value-Based Method for LLM Reasoning,reasoning_improvement
+STAR-R1: Spatial TrAnsformation Reasoning by Reinforcing Multimodal LLMs,reasoning_improvement
+On the Design of KL-Regularized Policy Gradient Algorithms for LLM Reasoning,reasoning_improvement
+Decoupled Visual Interpretation and Linguistic Reasoning for Math Problem Solving,reasoning_improvement
+From Reasoning to Generalization: Knowledge-Augmented LLMs for ARC Benchmark,reasoning_improvement
+Always Tell Me The Odds: Fine-grained Conditional Probability Estimation,reasoning_improvement
+Putting the Value Back in RL: Better Test-Time Scaling by Unifying LLM Reasoners With Verifiers,reasoning_improvement
+Learning to Think: Information-Theoretic Reinforcement Fine-Tuning for LLMs,reasoning_improvement
+UNJOIN: Enhancing Multi-Table Text-to-SQL Generation via Schema Simplification,reasoning_improvement
+VTool-R1: VLMs Learn to Think with Images via Reinforcement Learning on Multimodal Tool Use,reasoning_improvement
+Towards Large Reasoning Models for Agriculture,reasoning_improvement
+LIMOPro: Reasoning Refinement for Efficient and Effective Test-time Scaling,reasoning_improvement
+Disentangling Reasoning and Knowledge in Medical Large Language Models,reasoning_improvement
+MedGUIDE: Benchmarking Clinical Decision-Making in Large Language Models,reasoning_improvement
+SLOT: Sample-specific Language Model Optimization at Test-time,reasoning_improvement
+LLM-CoT Enhanced Graph Neural Recommendation with Harmonized Group Policy Optimization,reasoning_improvement
+MMATH: A Multilingual Benchmark for Mathematical Reasoning,reasoning_improvement
+ManipLVM-R1: Reinforcement Learning for Reasoning in Embodied Manipulation with Large Vision-Language Models,reasoning_improvement
+MMMR: Benchmarking Massive Multi-Modal Reasoning Tasks,reasoning_improvement
+Advancing Multimodal Reasoning via Reinforcement Learning with Cold Start,reasoning_improvement
+AdaCtrl: Towards Adaptive and Controllable Reasoning via Difficulty-Aware Budgeting,reasoning_improvement
+GreekBarBench: A Challenging Benchmark for Free-Text Legal Reasoning and Citations,reasoning_improvement
+Enhancing Efficiency and Exploration in Reinforcement Learning for LLMs,reasoning_improvement
+Reasoning LLMs are Wandering Solution Explorers,reasoning_improvement
+Beyond Markovian: Reflective Exploration via Bayes-Adaptive RL for LLM Reasoning,reasoning_improvement
+Maximizing Confidence Alone Improves Reasoning,reasoning_improvement
+GuessArena: Guess Who I Am? A Self-Adaptive Framework for Evaluating LLMs in Domain-Specific Knowledge and Reasoning,reasoning_improvement
+Exploring the Potential of Offline RL for Reasoning in LLMs: A Preliminary Study,reasoning_improvement
+Benchmarking Spatiotemporal Reasoning in LLMs and Reasoning Models: Capabilities and Challenges,reasoning_improvement
+Why Not Act on What You Know? Unleashing Safety Potential of LLMs via Self-Aware Guard Enhancement,reasoning_improvement
+Co-PatcheR: Collaborative Software Patching with Component(s)-specific Small Reasoning Models,reasoning_improvement
+Self-reflective Uncertainties: Do LLMs Know Their Internal Answer Distribution?,reasoning_improvement
+Reinforcement Fine-Tuning Powers Reasoning Capability of Multimodal Large Language Models,reasoning_improvement
+Adaptive Deep Reasoning: Triggering Deep Thinking When Needed,reasoning_improvement
+Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO,reasoning_improvement
+SophiaVL-R1: Reinforcing MLLMs Reasoning with Thinking Reward,reasoning_improvement
+Let Androids Dream of Electric Sheep: A Human-like Image Implication Understanding and Reasoning Framework,reasoning_improvement
+Steering LLM Reasoning Through Bias-Only Adaptation,reasoning_improvement
+Generative RLHF-V: Learning Principles from Multi-modal Human Preference,reasoning_improvement
+Ground-R1: Incentivizing Grounded Visual Reasoning via Reinforcement Learning,reasoning_improvement
+FunReason: Enhancing Large Language Models' Function Calling via Self-Refinement Multiscale Loss and Automated Data Refinement,reasoning_improvement
+LLMs Get Lost In Multi-Turn Conversation,reasoning_improvement
+Soft Thinking: Unlocking the Reasoning Potential of LLMs in Continuous Concept Space,reasoning_improvement
+Large Language Models as Computable Approximations to Solomonoff Induction,reasoning_improvement
+Doc-CoB: Enhancing Multi-Modal Document Understanding with Visual Chain-of-Boxes Reasoning,reasoning_improvement
+AdaReasoner: Adaptive Reasoning Enables More Flexible Thinking,reasoning_improvement
+OCR-Reasoning Benchmark: Unveiling the True Capabilities of MLLMs in Complex Text-Rich Image Reasoning,reasoning_improvement
+PRL: Prompts from Reinforcement Learning,reasoning_improvement
+"Longer Context, Deeper Thinking: Uncovering the Role of Long-Context Ability in Reasoning",reasoning_improvement
+Curriculum Guided Reinforcement Learning for Efficient Multi Hop Retrieval Augmented Generation,reasoning_improvement
+Can MLLMs Guide Me Home? A Benchmark Study on Fine-Grained Visual Reasoning from Transit Maps,reasoning_improvement
+Socratic-PRMBench: Benchmarking Process Reward Models with Systematic Reasoning Patterns,reasoning_improvement
+VideoPath-LLaVA: Pathology Diagnostic Reasoning Through Video Instruction Tuning,reasoning_improvement
+RAIDEN-R1: Improving Role-awareness of LLMs via GRPO with Verifiable Reward,reasoning_improvement
+Pre-Act: Multi-Step Planning and Reasoning Improves Acting in LLM Agents,reasoning_improvement
+Enhance Mobile Agents Thinking Process Via Iterative Preference Learning,reasoning_improvement
+Graph-Reward-SQL: Execution-Free Reinforcement Learning for Text-to-SQL via Graph Matching and Stepwise Reward,reasoning_improvement
+Debating for Better Reasoning: An Unsupervised Multimodal Approach,reasoning_improvement
+Two Experts Are All You Need for Steering Thinking: Reinforcing Cognitive Effort in MoE Reasoning Models Without Additional Training,reasoning_improvement
+Revisiting Overthinking in Long Chain-of-Thought from the Perspective of Self-Doubt,reasoning_improvement
+GAM-Agent: Game-Theoretic and Uncertainty-Aware Collaboration for Complex Visual Reasoning,reasoning_improvement
+Qwen Look Again: Guiding Vision-Language Reasoning Models to Re-attention Visual Information,reasoning_improvement
+Data Whisperer: Efficient Data Selection for Task-Specific LLM Fine-Tuning via Few-Shot In-Context Learning,reasoning_improvement
+LogicOCR: Do Your Large Multimodal Models Excel at Logical Reasoning on Text-Rich Images?,reasoning_improvement
+Reward Reasoning Model,reasoning_improvement
+TinyV: Reducing False Negatives in Verification Improves RL for LLM Reasoning,reasoning_improvement
+Visionary-R1: Mitigating Shortcuts in Visual Reasoning with Reinforcement Learning,reasoning_improvement
+Think Only When You Need with Large Hybrid-Reasoning Models,reasoning_improvement
+Mind the Gap: Bridging Thought Leap for Improved Chain-of-Thought Tuning,reasoning_improvement
+Deciphering Trajectory-Aided LLM Reasoning: An Optimization Perspective,reasoning_improvement
+Enigmata: Scaling Logical Reasoning in Large Language Models with Synthetic Verifiable Puzzles,reasoning_improvement
+Interleaved Reasoning for Large Language Models via Reinforcement Learning,reasoning_improvement
+SMART: Self-Generating and Self-Validating Multi-Dimensional Assessment for LLMs' Mathematical Problem Solving,reasoning_improvement
+Not All Tokens Are What You Need In Thinking,reasoning_improvement
+What Makes a Good Reasoning Chain? Uncovering Structural Patterns in Long Chain-of-Thought Reasoning,reasoning_improvement
+Mixture of Sparse Attention: Content-Based Learnable Sparse Attention via Expert-Choice Routing,reasoning_improvement
+Enhancing LLMs' Clinical Reasoning with Real-World Data from a Nationwide Sepsis Registry,reasoning_improvement
+A Survey of Slow Thinking-based Reasoning LLMs using Reinforced Learning and Inference-time Scaling Law,reasoning_improvement
+When Can Large Reasoning Models Save Thinking? Mechanistic Analysis of Behavioral Divergence in Reasoning,reasoning_improvement
+StepSearch: Igniting LLMs Search Ability via Step-Wise Proximal Policy Optimization,reasoning_improvement
+RoT: Enhancing Table Reasoning with Iterative Row-Wise Traversals,reasoning_improvement
+RL Tango: Reinforcing Generator and Verifier Together for Language Reasoning,reasoning_improvement
+FOL-Pretrain: A complexity annotated corpus of first-order logic,reasoning_improvement
+G1: Teaching LLMs to Reason on Graphs with Reinforcement Learning,reasoning_improvement
+Beyond Prompt Engineering: Robust Behavior Control in LLMs via Steering Target Atoms,reasoning_improvement
+Absolute Zero: Reinforced Self-play Reasoning with Zero Data,reasoning_improvement
+VCRBench: Exploring Long-form Causal Reasoning Capabilities of Large Video Language Models,reasoning_improvement
+Learning from Peers in Reasoning Models,reasoning_improvement
+CSC-SQL: Corrective Self-Consistency in Text-to-SQL via Reinforcement Learning,reasoning_improvement
+EchoInk-R1: Exploring Audio-Visual Reasoning in Multimodal LLMs via Reinforcement Learning,reasoning_improvement
+Incentivizing Strong Reasoning from Weak Supervision,reasoning_improvement
+Guided by Gut: Efficient Test-Time Scaling with Reinforced Intrinsic Confidence,reasoning_improvement
+Search and Refine During Think: Autonomous Retrieval-Augmented Reasoning of LLMs,reasoning_improvement
+On Next-Token Prediction in LLMs: How End Goals Determine the Consistency of Decoding Algorithms,reasoning_improvement
+Patho-R1: A Multimodal Reinforcement Learning-Based Pathology Expert Reasoner,reasoning_improvement
+Visual Planning: Let's Think Only with Images,reasoning_improvement
+ReEx-SQL: Reasoning with Execution-Aware Reinforcement Learning for Text-to-SQL,reasoning_improvement
+VisualQuality-R1: Reasoning-Induced Image Quality Assessment via Reinforcement Learning to Rank,reasoning_improvement
+FormalMATH: Benchmarking Formal Mathematical Reasoning of Large Language Models,reasoning_improvement
+Learning to Rank Chain-of-Thought: An Energy-Based Approach with Outcome Supervision,reasoning_improvement
+Plan and Budget: Effective and Efficient Test-Time Scaling on Large Language Model Reasoning,reasoning_improvement
+EULER: Enhancing the Reasoning Ability of Large Language Models through Error-Induced Learning,reasoning_improvement
+R2R: Efficiently Navigating Divergent Reasoning Paths with Small-Large Model Token Routing,reasoning_improvement
+CombiBench: Benchmarking LLM Capability for Combinatorial Mathematics,reasoning_improvement
+RobotxR1: Enabling Embodied Robotic Intelligence on Large Language Models through Closed-Loop Reinforcement Learning,reasoning_improvement
+X-Reasoner: Towards Generalizable Reasoning Across Modalities and Domains,reasoning_improvement
+Shadow Wireless Intelligence: Large Language Model-Driven Reasoning in Covert Communications,reasoning_improvement
+Scalable LLM Math Reasoning Acceleration with Low-rank Distillation,reasoning_improvement
+Time-R1: Towards Comprehensive Temporal Reasoning in LLMs,reasoning_improvement
+AdaptThink: Reasoning Models Can Learn When to Think,reasoning_improvement
+HALO: Hierarchical Autonomous Logic-Oriented Orchestration for Multi-Agent LLM Systems,reasoning_improvement
+MM-PRM: Enhancing Multimodal Mathematical Reasoning with Scalable Step-Level Supervision,reasoning_improvement
+Thought calibration: Efficient and confident test-time scaling,reasoning_improvement
+Iterative Self-Incentivization Empowers Large Language Models as Agentic Searchers,reasoning_improvement
+Are Language Models Consequentialist or Deontological Moral Reasoners?,reasoning_improvement
+Reinforcing General Reasoning without Verifiers,reasoning_improvement
+AC-Reason: Towards Theory-Guided Actual Causality Reasoning with Large Language Models,reasoning_improvement
+MiMo: Unlocking the Reasoning Potential of Language Model -- From Pretraining to Posttraining,reasoning_improvement
+LLM-BABYBENCH: Understanding and Evaluating Grounded Planning and Reasoning in LLMs,reasoning_improvement
+Vad-R1: Towards Video Anomaly Reasoning via Perception-to-Cognition Chain-of-Thought,reasoning_improvement
+Point-RFT: Improving Multimodal Reasoning with Visually Grounded Reinforcement Finetuning,reasoning_improvement
+Fostering Video Reasoning via Next-Event Prediction,reasoning_improvement
+Compensating for Data with Reasoning: Low-Resource Machine Translation with LLMs,reasoning_improvement
+Image Aesthetic Reasoning: A New Benchmark for Medical Image Screening with MLLMs,reasoning_improvement
+Stable Reinforcement Learning for Efficient Reasoning,reasoning_improvement
+Unveiling the Compositional Ability Gap in Vision-Language Reasoning Model,reasoning_improvement
+"Don't ""Overthink"" Passage Reranking: Is Reasoning Truly Necessary?",reasoning_improvement
+OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning,reasoning_improvement
+Self-Reasoning Language Models: Unfold Hidden Reasoning Chains with Few Reasoning Catalyst,reasoning_improvement
+KORGym: A Dynamic Game Platform for LLM Reasoning Evaluation,reasoning_improvement
+Reinforcement Learning vs. Distillation: Understanding Accuracy and Capability in LLM Reasoning,reasoning_improvement
+Beyond the First Error: Process Reward Models for Reflective Mathematical Reasoning,reasoning_improvement
+Scalable Chain of Thoughts via Elastic Reasoning,reasoning_improvement
+Beyond Safe Answers: A Benchmark for Evaluating True Risk Awareness in Large Reasoning Models,reasoning_improvement
+REARANK: Reasoning Re-ranking Agent via Reinforcement Learning,reasoning_improvement
+The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models,reasoning_improvement
+Scaling Reasoning without Attention,reasoning_improvement
+"Decomposing Elements of Problem Solving: What ""Math"" Does RL Teach?",reasoning_improvement
+From Problem-Solving to Teaching Problem-Solving: Aligning LLMs with Pedagogy using Reinforcement Learning,reasoning_improvement
+LENS: Multi-level Evaluation of Multimodal Reasoning with Large Language Models,reasoning_improvement
+NeuSym-RAG: Hybrid Neural Symbolic Retrieval with Multiview Structuring for PDF Question Answering,reasoning_improvement
+Efficient Reasoning via Chain of Unconscious Thought,reasoning_improvement
+Divide and Conquer: Grounding LLMs as Efficient Decision-Making Agents via Offline Hierarchical Reinforcement Learning,reasoning_improvement
+Why Distillation can Outperform Zero-RL: The Role of Flexible Reasoning,reasoning_improvement
+Optimal Post-Hoc Theorizing,reasoning_improvement
+Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models,reasoning_improvement
+MUSEG: Reinforcing Video Temporal Understanding via Timestamp-Aware Multi-Segment Grounding,reasoning_improvement
+LifelongAgentBench: Evaluating LLM Agents as Lifelong Learners,reasoning_improvement
+Aux-Think: Exploring Reasoning Strategies for Data-Efficient Vision-Language Navigation,reasoning_improvement
+USTBench: Benchmarking and Dissecting Spatiotemporal Reasoning of LLMs as Urban Agents,reasoning_improvement
+MINERVA: Evaluating Complex Video Reasoning,reasoning_improvement
+DisCO: Reinforcing Large Reasoning Models with Discriminative Constrained Optimization,reasoning_improvement
+Success is in the Details: Evaluate and Enhance Details Sensitivity of Code LLMs through Counterfactuals,reasoning_improvement
+Rank-K: Test-Time Reasoning for Listwise Reranking,reasoning_improvement
+Enhancing Visual Grounding for GUI Agents via Self-Evolutionary Reinforcement Learning,reasoning_improvement
+Ineq-Comp: Benchmarking Human-Intuitive Compositional Reasoning in Automated Theorem Proving on Inequalities,reasoning_improvement
+Rethinking the Sampling Criteria in Reinforcement Learning for LLM Reasoning: A Competence-Difficulty Alignment Perspective,reasoning_improvement
+GeoGramBench: Benchmarking the Geometric Program Reasoning in Modern LLMs,reasoning_improvement
+R1-Code-Interpreter: Training LLMs to Reason with Code via Supervised and Reinforcement Learning,reasoning_improvement
+Incentivizing Multimodal Reasoning in Large Models for Direct Robot Manipulation,reasoning_improvement
+Observe-R1: Unlocking Reasoning Abilities of MLLMs with Dynamic Progressive Reinforcement Learning,reasoning_improvement
+R-TOFU: Unlearning in Large Reasoning Models,reasoning_improvement
+When to Continue Thinking: Adaptive Thinking Mode Switching for Efficient Reasoning,reasoning_improvement
+When Do LLMs Admit Their Mistakes? Understanding the Role of Model Belief in Retraction,reasoning_improvement
+Think-RM: Enabling Long-Horizon Reasoning in Generative Reward Models,reasoning_improvement
+Bridging Supervised Learning and Reinforcement Learning in Math Reasoning,reasoning_improvement
+From Token to Action: State Machine Reasoning to Mitigate Overthinking in Information Retrieval,reasoning_improvement
+Enhancing Study-Level Inference from Clinical Trial Papers via RL-based Numeric Reasoning,reasoning_improvement
+VideoRFT: Incentivizing Video Reasoning Capability in MLLMs via Reinforced Fine-Tuning,reasoning_improvement
+SGDPO: Self-Guided Direct Preference Optimization for Language Model Alignment,reasoning_improvement
+General-Reasoner: Advancing LLM Reasoning Across All Domains,reasoning_improvement
+SAFEPATH: Preventing Harmful Reasoning in Chain-of-Thought via Early Alignment,reasoning_improvement
+SATBench: Benchmarking LLMs' Logical Reasoning via Automated Puzzle Generation from SAT Formulas,reasoning_improvement
+"Arctic-Text2SQL-R1: Simple Rewards, Strong Reasoning in Text-to-SQL",reasoning_improvement
+Def-DTS: Deductive Reasoning for Open-domain Dialogue Topic Segmentation,reasoning_improvement
+Step-Wise Formal Verification for LLM-Based Mathematical Problem Solving,reasoning_improvement
+ER-REASON: A Benchmark Dataset for LLM-Based Clinical Reasoning in the Emergency Room,reasoning_improvement
+AdaSTaR: Adaptive Data Sampling for Training Self-Taught Reasoners,reasoning_improvement
+"Divide-Fuse-Conquer: Eliciting ""Aha Moments"" in Multi-Scenario Games",reasoning_improvement
+Training-Free Reasoning and Reflection in MLLMs,reasoning_improvement
+"Three Minds, One Legend: Jailbreak Large Reasoning Model with Adaptive Stacked Ciphers",reasoning_improvement
+ReflectEvo: Improving Meta Introspection of Small LLMs by Learning Self-Reflection,reasoning_improvement
+Training with Pseudo-Code for Instruction Following,reasoning_improvement
+VeriThinker: Learning to Verify Makes Reasoning Model Efficient,reasoning_improvement
+Beyond Distillation: Pushing the Limits of Medical LLM Reasoning with Minimalist Rule-Based RL,reasoning_improvement
+Reinforced Latent Reasoning for LLM-based Recommendation,reasoning_improvement
+Route to Reason: Adaptive Routing for LLM and Reasoning Strategy Selection,reasoning_improvement
+SATORI-R1: Incentivizing Multimodal Reasoning with Spatial Grounding and Verifiable Rewards,reasoning_improvement
+SeePhys: Does Seeing Help Thinking? -- Benchmarking Vision-Based Physics Reasoning,reasoning_improvement
+Surrogate Signals from Format and Length: Reinforcement Learning for Solving Mathematical Problems without Ground Truth Answers,reasoning_improvement
+"Don't Think Longer, Think Wisely: Optimizing Thinking Dynamics for Large Reasoning Models",reasoning_improvement
+MathArena: Evaluating LLMs on Uncontaminated Math Competitions,reasoning_improvement
+AAPO: Enhance the Reasoning Capabilities of LLMs with Advantage Momentum,reasoning_improvement
+Evaluating Large Language Model with Knowledge Oriented Language Specific Simple Question Answering,reasoning_improvement
+Threading the Needle: Reweaving Chain-of-Thought Reasoning to Explain Human Label Variation,reasoning_improvement
+UniRL: Self-Improving Unified Multimodal Models via Supervised and Reinforcement Learning,reasoning_improvement
+MM-Agent: LLM as Agents for Real-world Mathematical Modeling Problem,reasoning_improvement
+Warm Up Before You Train: Unlocking General Reasoning in Resource-Constrained Settings,reasoning_improvement
+Internal Bias in Reasoning Models leads to Overthinking,reasoning_improvement
+Adaptive Thinking via Mode Policy Optimization for Social Language Agents,reasoning_improvement
+Nature's Insight: A Novel Framework and Comprehensive Analysis of Agentic Reasoning Through the Lens of Neuroscience,reasoning_improvement
+Towards Safety Reasoning in LLMs: AI-agentic Deliberation for Policy-embedded CoT Data Creation,reasoning_improvement
+Reinforced Reasoning for Embodied Planning,reasoning_improvement
+ToMAP: Training Opponent-Aware LLM Persuaders with Theory of Mind,reasoning_improvement
+SATURN: SAT-based Reinforcement Learning to Unleash Language Model Reasoning,reasoning_improvement
+Amplify Adjacent Token Differences: Enhancing Long Chain-of-Thought Reasoning with Shift-FFN,reasoning_improvement
+GRIT: Teaching MLLMs to Think with Images,reasoning_improvement
+LeTS: Learning to Think-and-Search via Process-and-Outcome Reward Hybridization,reasoning_improvement
+Self-Training Large Language Models with Confident Reasoning,reasoning_improvement
+Navigate the Unknown: Enhancing LLM Reasoning with Intrinsic Motivation Guided Exploration,reasoning_improvement
+Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving,reasoning_improvement
+Self-Generated In-Context Examples Improve LLM Agents for Sequential Decision-Making Tasks,reasoning_improvement
+TabReason: A Reinforcement Learning-Enhanced Reasoning LLM for Explainable Tabular Data Prediction,reasoning_improvement
+Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO,reasoning_improvement
+FalseReject: A Resource for Improving Contextual Safety and Mitigating Over-Refusals in LLMs via Structured Reasoning,reasoning_improvement
+Is PRM Necessary? Problem-Solving RL Implicitly Induces PRM Capability in LLMs,reasoning_improvement
+DDO: Dual-Decision Optimization via Multi-Agent Collaboration for LLM-Based Medical Consultation,reasoning_improvement
+On Path to Multimodal Historical Reasoning: HistBench and HistAgent,reasoning_improvement
+Language Model Distillation: A Temporal Difference Imitation Learning Perspective,reasoning_improvement
+Omni-R1: Reinforcement Learning for Omnimodal Reasoning via Two-System Collaboration,reasoning_improvement
+Safety Through Reasoning: An Empirical Study of Reasoning Guardrail Models,reasoning_improvement
+ARM: Adaptive Reasoning Model,reasoning_improvement
+Scaling over Scaling: Exploring Test-Time Scaling Pareto in Large Reasoning Models,reasoning_improvement
+Hybrid Latent Reasoning via Reinforcement Learning,reasoning_improvement
+Effective Reinforcement Learning for Reasoning in Language Models,reasoning_improvement
+Humans Hallucinate Too: Language Models Identify and Correct Subjective Annotation Errors With Label-in-a-Haystack Prompts,reasoning_improvement
+Towards Efficient Online Tuning of VLM Agents via Counterfactual Soft Reinforcement Learning,reasoning_improvement
+J1: Incentivizing Thinking in LLM-as-a-Judge via Reinforcement Learning,reasoning_improvement
+Learning When to Think: Shaping Adaptive Reasoning in R1-Style Models via Multi-Stage RL,reasoning_improvement
+Optimal Policy Minimum Bayesian Risk,reasoning_improvement
+Beyond Templates: Dynamic Adaptation of Reasoning Demonstrations via Feasibility-Aware Exploration,reasoning_improvement
+Foundation Models for Geospatial Reasoning: Assessing Capabilities of Large Language Models in Understanding Geometries and Topological Spatial Relations,reasoning_improvement
+Token-Level Uncertainty Estimation for Large Language Model Reasoning,reasoning_improvement
+Reinforcing Multi-Turn Reasoning in LLM Agents via Turn-Level Credit Assignment,reasoning_improvement
+Search-Based Correction of Reasoning Chains for Language Models,reasoning_improvement
+Self-Evolving Curriculum for LLM Reasoning,reasoning_improvement
+Incorporating Token Usage into Prompting Strategy Evaluation,reasoning_improvement
+Step-wise Adaptive Integration of Supervised Fine-tuning and Reinforcement Learning for Task-Specific LLMs,reasoning_improvement
+DGRO: Enhancing LLM Reasoning via Exploration-Exploitation Control and Reward Variance Management,reasoning_improvement
+MindOmni: Unleashing Reasoning Generation in Vision Language Models with RGPO,reasoning_improvement
+Detection and Mitigation of Hallucination in Large Reasoning Models: A Mechanistic Perspective,reasoning_improvement
+Learning to Reason via Mixture-of-Thought for Logical Reasoning,reasoning_improvement
+Learning to Focus: Context Extraction for Efficient Code Vulnerability Detection with Language Models,reasoning_improvement
+Activation Control for Efficiently Eliciting Long Chain-of-thought Ability of Language Models,reasoning_improvement
+Reason-Align-Respond: Aligning LLM Reasoning with Knowledge Graphs for KGQA,reasoning_improvement
+QwenLong-L1: Towards Long-Context Large Reasoning Models with Reinforcement Learning,reasoning_improvement
+Fast Quiet-STaR: Thinking Without Thought Tokens,reasoning_improvement
+REMOR: Automated Peer Review Generation with LLM Reasoning and Multi-Objective Reinforcement Learning,reasoning_improvement
+Efficient Uncertainty Estimation via Distillation of Bayesian Large Language Models,reasoning_improvement
+Pedagogy-R1: Pedagogically-Aligned Reasoning Model with Balanced Educational Benchmark,reasoning_improvement
+TAG-INSTRUCT: Controlled Instruction Complexity Enhancement through Structure-based Augmentation,reasoning_improvement
+Mechanistic Fine-tuning for In-context Learning,reasoning_improvement
+Misaligning Reasoning with Answers -- A Framework for Assessing LLM CoT Robustness,reasoning_improvement
+Language Matters: How Do Multilingual Input and Reasoning Paths Affect Large Reasoning Models?,reasoning_improvement
+TIME: A Multi-level Benchmark for Temporal Reasoning of LLMs in Real-World Scenarios,reasoning_improvement
+ViC-Bench: Benchmarking Visual-Interleaved Chain-of-Thought Capability in MLLMs with Free-Style Intermediate State Representations,reasoning_improvement
+UniVG-R1: Reasoning Guided Universal Visual Grounding with Reinforcement Learning,reasoning_improvement
+"Pierce the Mists, Greet the Sky: Decipher Knowledge Overshadowing via Knowledge Circuit Analysis",reasoning_improvement
+Can Large Language Models Infer Causal Relationships from Real-World Text?,reasoning_improvement
+MME-Reasoning: A Comprehensive Benchmark for Logical Reasoning in MLLMs,reasoning_improvement
+Who Reasons in the Large Language Models?,reasoning_improvement
+Walk Before You Run! Concise LLM Reasoning via Reinforcement Learning,reasoning_improvement
+How does Transformer Learn Implicit Reasoning?,reasoning_improvement
+Llama-Nemotron: Efficient Reasoning Models,reasoning_improvement
+Kalman Filter Enhanced GRPO for Reinforcement Learning-Based Language Model Reasoning,reasoning_improvement
+"How well do LLMs reason over tabular data, really?",reasoning_improvement
+Chain-of-Thought Tokens are Computer Program Variables,reasoning_improvement
+SoftCoT++: Test-Time Scaling with Soft Chain-of-Thought Reasoning,reasoning_improvement
+ToTRL: Unlock LLM Tree-of-Thoughts Reasoning Potential through Puzzles Solving,reasoning_improvement
+LEXam: Benchmarking Legal Reasoning on 340 Law Exams,reasoning_improvement
+Which Data Attributes Stimulate Math and Code Reasoning? An Investigation via Influence Functions,reasoning_improvement
+Learning to Reason without External Rewards,reasoning_improvement
+REA-RL: Reflection-Aware Online Reinforcement Learning for Efficient Large Reasoning Models,reasoning_improvement
+An Explainable Diagnostic Framework for Neurodegenerative Dementias via Reinforcement-Optimized LLM Reasoning,reasoning_improvement
+Infi-MMR: Curriculum-based Unlocking Multimodal Reasoning via Phased Reinforcement Learning in Multimodal Small Language Models,reasoning_improvement
+Case-Based Reasoning Enhances the Predictive Power of LLMs in Drug-Drug Interaction,reasoning_improvement
+VideoReasonBench: Can MLLMs Perform Vision-Centric Complex Video Reasoning?,reasoning_improvement
+Legal Rule Induction: Towards Generalizable Principle Discovery from Analogous Judicial Precedents,reasoning_improvement
+"PhyX: Does Your Model Have the ""Wits"" for Physical Reasoning?",reasoning_improvement
+R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMs via Reinforcement Learning,reasoning_improvement
+Reinforcing Question Answering Agents with Minimalist Policy Gradient Optimization,reasoning_improvement
+NovelSeek: When Agent Becomes the Scientist -- Building Closed-Loop System from Hypothesis to Verification,reasoning_improvement
+NOVER: Incentive Training for Language Models via Verifier-Free Reinforcement Learning,reasoning_improvement
+Dynamic Sampling that Adapts: Iterative DPO for Self-Aware Mathematical Reasoning,reasoning_improvement
+SafeKey: Amplifying Aha-Moment Insights for Safety Reasoning,reasoning_improvement
+RFTF: Reinforcement Fine-tuning for Embodied Agents with Temporal Feedback,reasoning_improvement
+Agentic Robot: A Brain-Inspired Framework for Vision-Language-Action Models in Embodied Agents,reasoning_improvement
+SToLa: Self-Adaptive Touch-Language Framework with Tactile Commonsense Reasoning in Open-Ended Scenarios,reasoning_improvement
+VRAG-RL: Empower Vision-Perception-Based RAG for Visually Rich Information Understanding via Iterative Reasoning with Reinforcement Learning,reasoning_improvement
+AI Mathematician: Towards Fully Automated Frontier Mathematical Research,reasoning_improvement
+Unsupervised Post-Training for Multi-Modal LLM Reasoning via GRPO,reasoning_improvement
+Pangu Embedded: An Efficient Dual-system LLM Reasoner with Metacognition,reasoning_improvement
+ReGUIDE: Data Efficient GUI Grounding via Spatial Reasoning and Search,reasoning_improvement
+SciCUEval: A Comprehensive Dataset for Evaluating Scientific Context Understanding in Large Language Models,reasoning_improvement
+Reward-SQL: Boosting Text-to-SQL via Stepwise Reasoning and Process-Supervised Rewards,reasoning_improvement
+Ice Cream Doesn't Cause Drowning: Benchmarking LLMs Against Statistical Pitfalls in Causal Inference,reasoning_improvement
+SHARP: Synthesizing High-quality Aligned Reasoning Problems for Large Reasoning Models Reinforcement Learning,reasoning_improvement
+An Empirical Study on Reinforcement Learning for Reasoning-Search Interleaved LLM Agents,reasoning_improvement
+Deliberation on Priors: Trustworthy Reasoning of Large Language Models on Knowledge Graphs,reasoning_improvement
+Dissecting Physics Reasoning in Small Language Models: A Multi-Dimensional Analysis from an Educational Perspective,reasoning_improvement
+KTAE: A Model-Free Algorithm to Key-Tokens Advantage Estimation in Mathematical Reasoning,reasoning_improvement
+RBench-V: A Primary Assessment for Visual Reasoning Models with Multi-modal Outputs,reasoning_improvement
+Fact-R1: Towards Explainable Video Misinformation Detection with Deep Reasoning,reasoning_improvement
+PATS: Process-Level Adaptive Thinking Mode Switching,reasoning_improvement
+Hawkeye:Efficient Reasoning with Model Collaboration,reasoning_improvement
+GenPRM: Scaling Test-Time Compute of Process Reward Models via Generative Reasoning,reasoning_improvement
+OmniAD: Detect and Understand Industrial Anomaly via Multimodal Reasoning,reasoning_improvement
+Scalable Complexity Control Facilitates Reasoning Ability of LLMs,reasoning_improvement
+Improved Visual-Spatial Reasoning via R1-Zero-Like Training,reasoning_improvement
+PRM-BAS: Enhancing Multimodal Reasoning through PRM-guided Beam Annealing Search,reasoning_improvement
+FlowReasoner: Reinforcing Query-Level Meta-Agents,reasoning_improvement
+Roll the dice & look before you leap: Going beyond the creative limits of next-token prediction,reasoning_improvement
+Toward Evaluative Thinking: Meta Policy Optimization with Evolving Reward Models,reasoning_improvement
+Quantization Hurts Reasoning? An Empirical Study on Quantized Reasoning Models,reasoning_improvement
+Collab-RAG: Boosting Retrieval-Augmented Generation for Complex Question Answering via White-Box and Black-Box LLM Collaboration,reasoning_improvement
+VCR-Bench: A Comprehensive Evaluation Framework for Video Chain-of-Thought Reasoning,reasoning_improvement
+SpecReason: Fast and Accurate Inference-Time Compute via Speculative Reasoning,reasoning_improvement
+Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning,reasoning_improvement
+ReasoningV: Efficient Verilog Code Generation with Adaptive Hybrid Reasoning Model,reasoning_improvement
+Think2SQL: Reinforce LLM Reasoning Capabilities for Text2SQL,reasoning_improvement
+Reasoning Models Can Be Effective Without Thinking,reasoning_improvement
+Reasoning without Regret,reasoning_improvement
+DUMP: Automated Distribution-Level Curriculum Learning for RL-based LLM Post-training,reasoning_improvement
+DATETIME: A new benchmark to measure LLM translation and reasoning capabilities,reasoning_improvement
+Agentic Reasoning and Tool Integration for LLMs via Reinforcement Learning,reasoning_improvement
+Nemotron-CrossThink: Scaling Self-Learning beyond Math Reasoning,reasoning_improvement
+Recitation over Reasoning: How Cutting-Edge Language Models Can Fail on Elementary School-Level Reasoning Problems?,reasoning_improvement
+Finding Flawed Fictions: Evaluating Complex Reasoning in Language Models via Plot Hole Detection,reasoning_improvement
+CodeCrash: Stress Testing LLM Reasoning under Structural and Semantic Perturbations,reasoning_improvement
+MedReason: Eliciting Factual Medical Reasoning Steps in LLMs via Knowledge Graphs,reasoning_improvement
+Trust Region Preference Approximation: A simple and stable reinforcement learning algorithm for LLM reasoning,reasoning_improvement
+Online Difficulty Filtering for Reasoning Oriented Reinforcement Learning,reasoning_improvement
+VL-Rethinker: Incentivizing Self-Reflection of Vision-Language Models with Reinforcement Learning,reasoning_improvement
+LearNAT: Learning NL2SQL with AST-guided Task Decomposition for Large Language Models,reasoning_improvement
+AnesBench: Multi-Dimensional Evaluation of LLM Reasoning in Anesthesiology,reasoning_improvement
+R2Vul: Learning to Reason about Software Vulnerabilities with Reinforcement Learning and Structured Reasoning Distillation,reasoning_improvement
+RV-Syn: Rational and Verifiable Mathematical Reasoning Data Synthesis based on Structured Function Library,reasoning_improvement
+FortisAVQA and MAVEN: a Benchmark Dataset and Debiasing Framework for Robust Multimodal Reasoning,reasoning_improvement
+Do PhD-level LLMs Truly Grasp Elementary Addition? Probing Rule Learning vs. Memorization in Large Language Models,reasoning_improvement
+Reasoning Models Know When They're Right: Probing Hidden States for Self-Verification,reasoning_improvement
+S1-Bench: A Simple Benchmark for Evaluating System 1 Thinking Capability of Large Reasoning Models,reasoning_improvement
+Reinforcement Learning for Reasoning in Large Language Models with One Training Example,reasoning_improvement
+Distillation and Refinement of Reasoning in Small Language Models for Document Re-ranking,reasoning_improvement
+Supervised Optimism Correction: Be Confident When LLMs Are Sure,reasoning_improvement
+DeduCE: Deductive Consistency as a Framework to Evaluate LLM Reasoning,reasoning_improvement
+Speculative Thinking: Enhancing Small-Model Reasoning with Large Model Guidance at Inference Time,reasoning_improvement
+Tina: Tiny Reasoning Models via LoRA,reasoning_improvement
+TrustGeoGen: Scalable and Formal-Verified Data Engine for Trustworthy Multi-modal Geometric Problem Solving,reasoning_improvement
+Have Large Language Models Learned to Reason? A Characterization via 3-SAT Phase Transition,reasoning_improvement
+YaleNLP @ PerAnsSumm 2025: Multi-Perspective Integration via Mixture-of-Agents for Enhanced Healthcare QA Summarization,reasoning_improvement
+RealSafe-R1: Safety-Aligned DeepSeek-R1 without Compromising Reasoning Capability,reasoning_improvement
+CameraBench: Benchmarking Visual Reasoning in MLLMs via Photography,reasoning_improvement
+The Future of MLLM Prompting is Adaptive: A Comprehensive Experimental Evaluation of Prompt Engineering Methods for Robust Multimodal Performance,reasoning_improvement
+Deep Reasoning Translation via Reinforcement Learning,reasoning_improvement
+Even Small Reasoners Should Quote Their Sources: Introducing the Pleias-RAG Model Family,reasoning_improvement
+LLM-Empowered Embodied Agent for Memory-Augmented Task Planning in Household Robotics,reasoning_improvement
+PolyMath: Evaluating Mathematical Reasoning in Multilingual Contexts,reasoning_improvement
+Pushing the boundary on Natural Language Inference,reasoning_improvement
+Fast-Slow Thinking for Large Vision-Language Model Reasoning,reasoning_improvement
+Training Large Language Models to Reason via EM Policy Gradient,reasoning_improvement
+M2IV: Towards Efficient and Fine-grained Multimodal In-Context Learning in Large Vision-Language Models,reasoning_improvement
+Nondeterministic Polynomial-time Problem Challenge: An Ever-Scaling Reasoning Benchmark for LLMs,reasoning_improvement
+Evaluating Multi-Hop Reasoning in Large Language Models: A Chemistry-Centric Case Study,reasoning_improvement
+Prejudge-Before-Think: Enhancing Large Language Models at Test-Time by Process Prejudge Reasoning,reasoning_improvement
+DianJin-R1: Evaluating and Enhancing Financial Reasoning in Large Language Models,reasoning_improvement
+LexPam: Legal Procedure Awareness-Guided Mathematical Reasoning,reasoning_improvement
+Sensitivity Meets Sparsity: The Impact of Extremely Sparse Parameter Patterns on Theory-of-Mind of Large Language Models,reasoning_improvement
+SQL-R1: Training Natural Language to SQL Reasoning Model By Reinforcement Learning,reasoning_improvement
+BiasGuard: A Reasoning-enhanced Bias Detection Tool For Large Language Models,reasoning_improvement
+Phi-4-Mini-Reasoning: Exploring the Limits of Small Reasoning Language Models in Math,reasoning_improvement
+ChestX-Reasoner: Advancing Radiology Foundation Models with Reasoning through Step-by-Step Verification,reasoning_improvement
+Toward Efficient Exploration by Large Language Model Agents,reasoning_improvement
+Nemotron-Research-Tool-N1: Exploring Tool-Using Language Models with Reinforced Reasoning,reasoning_improvement
+Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems,reasoning_improvement
+STAR-1: Safer Alignment of Reasoning LLMs with 1K Data,reasoning_improvement
+Retro-Search: Exploring Untaken Paths for Deeper and Efficient Reasoning,reasoning_improvement
+Cognitive Debiasing Large Language Models for Decision-Making,reasoning_improvement
+Reasoning on Multiple Needles In A Haystack,reasoning_improvement
+Evaluating the Generalization Capabilities of Large Language Models on Code Reasoning,reasoning_improvement
+Efficient Reinforcement Finetuning via Adaptive Curriculum Learning,reasoning_improvement
+SFT or RL? An Early Investigation into Training R1-Like Reasoning Large Vision-Language Models,reasoning_improvement
+DeepDistill: Enhancing LLM Reasoning Capabilities via Large-Scale Difficulty-Graded Data Training,reasoning_improvement
+Beyond the Last Answer: Your Reasoning Trace Uncovers More than You Think,reasoning_improvement
+Can LLMs Grasp Implicit Cultural Values? Benchmarking LLMs' Metacognitive Cultural Intelligence with CQ-Bench,reasoning_improvement
+MDK12-Bench: A Multi-Discipline Benchmark for Evaluating Reasoning in Multimodal Large Language Models,reasoning_improvement
+Reasoning Towards Fairness: Mitigating Bias in Language Models through Reasoning-Guided Fine-Tuning,reasoning_improvement
+SoTA with Less: MCTS-Guided Sample Selection for Data-Efficient Visual Reasoning Self-Improvement,reasoning_improvement
+Climbing the Ladder of Reasoning: What LLMs Can-and Still Can't-Solve after SFT?,reasoning_improvement
+Large Language Model powered Symbolic Execution,reasoning_improvement
+Do Theory of Mind Benchmarks Need Explicit Human-like Reasoning in Language Models?,reasoning_improvement
+SpaceR: Reinforcing MLLMs in Video Spatial Reasoning,reasoning_improvement
+Reasoning LLMs for User-Aware Multimodal Conversational Agents,reasoning_improvement
+SARI: Structured Audio Reasoning via Curriculum-Guided Reinforcement Learning,reasoning_improvement
+Reasoning Physical Video Generation with Diffusion Timestep Tokens via Reinforcement Learning,reasoning_improvement
+Token-Aware Coding Flow: A Study with Nano Surge in Reasoning Model,reasoning_improvement
+m1: Unleash the Potential of Test-Time Scaling for Medical Reasoning with Large Language Models,reasoning_improvement
+DeepSeek-R1 Thoughtology: Let's think about LLM Reasoning,reasoning_improvement
+SEAL: Steerable Reasoning Calibration of Large Language Models for Free,reasoning_improvement
+A Survey of Scaling in Large Language Model Reasoning,reasoning_improvement
+Reasoning Under 1 Billion: Memory-Augmented Reinforcement Learning for Large Language Models,reasoning_improvement
+Missing Premise exacerbates Overthinking: Are Reasoning Models losing Critical Thinking Skill?,reasoning_improvement
+Not All Rollouts are Useful: Down-Sampling Rollouts in LLM Reinforcement Learning,reasoning_improvement
+The Human Robot Social Interaction (HSRI) Dataset: Benchmarking Foundational Models' Social Reasoning,reasoning_improvement
+SplitReason: Learning To Offload Reasoning,reasoning_improvement
+Effective Length Extrapolation via Dimension-Wise Positional Embeddings Manipulation,reasoning_improvement
+Guiding Reasoning in Small Language Models with LLM Assistance,reasoning_improvement
+GeoSense: Evaluating Identification and Application of Geometric Principles in Multimodal Reasoning,reasoning_improvement
+Reinforcement Learning from Human Feedback,reasoning_improvement
+The Geometry of Self-Verification in a Task-Specific Reasoning Model,reasoning_improvement
+Leveraging Reasoning Model Answers to Enhance Non-Reasoning Model Capability,reasoning_improvement
+TinyLLaVA-Video-R1: Towards Smaller LMMs for Video Reasoning,reasoning_improvement
+Process Reward Models That Think,reasoning_improvement
+Enabling Systematic Generalization in Abstract Spatial Reasoning through Meta-Learning for Compositionality,reasoning_improvement
+GPG: A Simple and Strong Reinforcement Learning Baseline for Model Reasoning,reasoning_improvement
+Could Thinking Multilingually Empower LLM Reasoning?,reasoning_improvement
+"Don't Just Translate, Agitate: Using Large Language Models as Devil's Advocates for AI Explanations",reasoning_improvement
+Embodied-R: Collaborative Framework for Activating Embodied Spatial Reasoning in Foundation Models via Reinforcement Learning,reasoning_improvement
+Investigating Large Language Models in Diagnosing Students' Cognitive Skills in Math Problem-solving,reasoning_improvement
+LAD-Reasoner: Tiny Multimodal Models are Good Reasoners for Logical Anomaly Detection,reasoning_improvement
+VLMGuard-R1: Proactive Safety Alignment for VLMs via Reasoning-Driven Prompt Optimization,reasoning_improvement
+Chain-of-Thought Textual Reasoning for Few-shot Temporal Action Localization,reasoning_improvement
+HyPerAlign: Interpretable Personalized LLM Alignment via Hypothesis Generation,reasoning_improvement
+GDI-Bench: A Benchmark for General Document Intelligence with Vision and Reasoning Decoupling,reasoning_improvement
+Reimagining Urban Science: Scaling Causal Inference with Large Language Models,reasoning_improvement
+To Backtrack or Not to Backtrack: When Sequential Search Limits Model Reasoning,reasoning_improvement
+Mathematical Capabilities of Large Language Models in Finnish Matriculation Examination,reasoning_improvement
+VisualPuzzles: Decoupling Multimodal Reasoning Evaluation from Domain Knowledge,reasoning_improvement
+Scaling Test-time Compute for Low-resource Languages: Multilingual Reasoning in LLMs,reasoning_improvement
+Lightweight Latent Verifiers for Efficient Meta-Generation Strategies,reasoning_improvement
+GenCLS++: Pushing the Boundaries of Generative Classification in LLMs Through Comprehensive SFT and RL Studies Across Diverse Datasets,reasoning_improvement
+RAGEN: Understanding Self-Evolution in LLM Agents via Multi-Turn Reinforcement Learning,reasoning_improvement
+PolicyEvol-Agent: Evolving Policy via Environment Perception and Self-Awareness with Theory of Mind,reasoning_improvement
+PHYBench: Holistic Evaluation of Physical Perception and Reasoning in Large Language Models,reasoning_improvement
+GreenMind: A Next-Generation Vietnamese Large Language Model for Structured and Logical Reasoning,reasoning_improvement
+What the HellaSwag? On the Validity of Common-Sense Reasoning Benchmarks,reasoning_improvement
+Genius: A Generalizable and Purely Unsupervised Self-Training Framework For Advanced Reasoning,reasoning_improvement
+Stabilizing Reasoning in Medical LLMs with Continued Pretraining and Reasoning Preference Optimization,reasoning_improvement
+Towards Robust Dialogue Breakdown Detection: Addressing Disruptors in Large Language Models with Self-Guided Reasoning,reasoning_improvement
+Meta-Thinking in LLMs via Multi-Agent Reinforcement Learning: A Survey,reasoning_improvement
+Improving Language Model Personas via Rationalization with Psychological Scaffolds,reasoning_improvement
+Enhancing Non-Core Language Instruction-Following in Speech LLMs via Semi-Implicit Cross-Lingual CoT Reasoning,reasoning_improvement
+PEIRCE: Unifying Material and Formal Reasoning via LLM-Driven Neuro-Symbolic Refinement,reasoning_improvement
+Towards Understanding and Improving Refusal in Compressed Models via Mechanistic Interpretability,reasoning_improvement
+SaRO: Enhancing LLM Safety through Reasoning-based Alignment,reasoning_improvement
+Reinforcing Compositional Retrieval: Retrieving Step-by-Step for Composing Informative Contexts,reasoning_improvement
+Teaching Large Language Models to Reason through Learning and Forgetting,reasoning_improvement
+MrGuard: A Multilingual Reasoning Guardrail for Universal LLM Safety,reasoning_improvement
+Bonsai: Interpretable Tree-Adaptive Grounded Reasoning,reasoning_improvement
+"Right Prediction, Wrong Reasoning: Uncovering LLM Misalignment in RA Disease Diagnosis",reasoning_improvement
+Domain-Specific Pruning of Large Mixture-of-Experts Models with Few-shot Demonstrations,reasoning_improvement
+NeedleInATable: Exploring Long-Context Capability of Large Language Models towards Long-Structured Tables,reasoning_improvement
+Interpreting Emergent Planning in Model-Free Reinforcement Learning,reasoning_improvement
+ClinicalGPT-R1: Pushing reasoning capability of generalist disease diagnosis with large language model,reasoning_improvement
+PathVLM-R1: A Reinforcement Learning-Driven Reasoning Model for Pathology Visual-Language Tasks,reasoning_improvement
+Beyond Chains of Thought: Benchmarking Latent-Space Reasoning Abilities in Large Language Models,reasoning_improvement
+Kimina-Prover Preview: Towards Large Formal Reasoning Models with Reinforcement Learning,reasoning_improvement
+Model Utility Law: Evaluating LLMs beyond Performance through Mechanism Interpretable Metric,reasoning_improvement
+Thinking Out Loud: Do Reasoning Models Know When They're Right?,reasoning_improvement
+VisuoThink: Empowering LVLM Reasoning with Multimodal Tree Search,reasoning_improvement
+NoisyRollout: Reinforcing Visual Reasoning with Data Augmentation,reasoning_improvement
+Relation-R1: Progressively Cognitive Chain-of-Thought Guided Reinforcement Learning for Unified Relation Comprehension,reasoning_improvement
+Sparks of Tabular Reasoning via Text2SQL Reinforcement Learning,reasoning_improvement
+Stop Summation: Min-Form Credit Assignment Is All Process Reward Model Needs for Reasoning,reasoning_improvement
+LR-IAD:Mask-Free Industrial Anomaly Detection with Logical Reasoning,reasoning_improvement
+SCI-Reason: A Dataset with Chain-of-Thought Rationales for Complex Multimodal Reasoning in Academic Areas,reasoning_improvement
+d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning,reasoning_improvement
+Trans-Zero: Self-Play Incentivizes Large Language Models for Multilingual Translation Without Parallel Data,reasoning_improvement
+CipherBank: Exploring the Boundary of LLM Reasoning Capabilities through Cryptography Challenges,reasoning_improvement
+Do Larger Language Models Imply Better Reasoning? A Pretraining Scaling Law for Reasoning,reasoning_improvement
+DeepSeek vs. o3-mini: How Well can Reasoning LLMs Evaluate MT and Summarization?,reasoning_improvement
+ReTool: Reinforcement Learning for Strategic Tool Use in LLMs,reasoning_improvement
+Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?,reasoning_improvement
+Learning to Attribute with Attention,reasoning_improvement
+LogicTree: Structured Proof Exploration for Coherent and Rigorous Logical Reasoning with Large Language Models,reasoning_improvement
+SPC: Evolving Self-Play Critic via Adversarial Games for LLM Reasoning,reasoning_improvement
+AIMO-2 Winning Solution: Building State-of-the-Art Mathematical Reasoning Models with OpenMathReasoning dataset,reasoning_improvement
+Neural Theorem Proving: Generating and Structuring Proofs for Formal Verification,reasoning_improvement
+AI-Slop to AI-Polish? Aligning Language Models through Edit-Based Writing Rewards and Test-time Computation,reasoning_improvement
+A Sober Look at Progress in Language Model Reasoning: Pitfalls and Paths to Reproducibility,reasoning_improvement
+REWARD CONSISTENCY: Improving Multi-Objective Alignment from a Data-Centric Perspective,reasoning_improvement
+Improving Generalization in Intent Detection: GRPO with Reward-Based Curriculum Sampling,reasoning_improvement
+"Do ""New Snow Tablets"" Contain Snow? Large Language Models Over-Rely on Names to Identify Ingredients of Chinese Drugs",reasoning_improvement
+Learning to Reason under Off-Policy Guidance,reasoning_improvement
+Efficient Single-Pass Training for Multi-Turn Reasoning,reasoning_improvement
+Text-to-Decision Agent: Offline Meta-Reinforcement Learning from Natural Language Supervision,reasoning_improvement
+TreeHop: Generate and Filter Next Query Embeddings Efficiently for Multi-hop Question Answering,reasoning_improvement
+DeepSeek-Prover-V2: Advancing Formal Mathematical Reasoning via Reinforcement Learning for Subgoal Decomposition,reasoning_improvement
+Generative Evaluation of Complex Reasoning in Large Language Models,reasoning_improvement
+Beyond Accuracy: The Role of Calibration in Self-Improving Large Language Models,reasoning_improvement
+LongPerceptualThoughts: Distilling System-2 Reasoning for System-1 Perception,reasoning_improvement
+Can Machine Learning Agents Deal with Hard Choices?,reasoning_improvement
+Critical Thinking: Which Kinds of Complexity Govern Optimal Reasoning Length?,reasoning_improvement
+OpenCodeReasoning: Advancing Data Distillation for Competitive Coding,reasoning_improvement
+Right Question is Already Half the Answer: Fully Unsupervised LLM Reasoning Incentivization,reasoning_improvement
+Leanabell-Prover: Posttraining Scaling in Formal Reasoning,reasoning_improvement
+VAPO: Efficient and Reliable Reinforcement Learning for Advanced Reasoning Tasks,reasoning_improvement
+Weight Ensembling Improves Reasoning in Language Models,reasoning_improvement
+How Instruction and Reasoning Data shape Post-Training: Data Quality through the Lens of Layer-wise Gradients,reasoning_improvement
+Improving RL Exploration for LLM Reasoning through Retrospective Replay,reasoning_improvement
+LayoutCoT: Unleashing the Deep Reasoning Potential of Large Language Models for Layout Generation,reasoning_improvement
+Improving In-Context Learning with Reasoning Distillation,reasoning_improvement
+ReZero: Enhancing LLM search ability by trying one-more-time,reasoning_improvement
+MMC: Iterative Refinement of VLM Reasoning via MCTS-based Multimodal Critique,reasoning_improvement
+Thought Manipulation: External Thought Can Be Efficient for Large Reasoning Models,reasoning_improvement
+DMind Benchmark: Toward a Holistic Assessment of LLM Capabilities across the Web3 Domain,reasoning_improvement
+Reinforced MLLM: A Survey on RL-Based Reasoning in Multimodal Large Language Models,reasoning_improvement
+What's Behind PPO's Collapse in Long-CoT? Value Optimization Holds the Secret,reasoning_improvement
+"Pensez: Less Data, Better Reasoning -- Rethinking French LLM",reasoning_improvement
+Reasoning with LLMs for Zero-Shot Vulnerability Detection,reasoning_improvement
+Language Model Uncertainty Quantification with Attention Chain,reasoning_improvement
+Exploring the Necessity of Reasoning in LLM-based Agent Scenarios,reasoning_improvement
+Reasoning-Grounded Natural Language Explanations for Language Models,reasoning_improvement
+Benchmarking Systematic Relational Reasoning with Large Language and Reasoning Models,reasoning_improvement
+Can Atomic Step Decomposition Enhance the Self-structured Reasoning of Multimodal Large Models?,reasoning_improvement
+Evaluating Mathematical Reasoning Across Large Language Models: A Fine-Grained Approach,reasoning_improvement
+Effectiveness of Zero-shot-CoT in Japanese Prompts,reasoning_improvement
+Learning richness modulates equality reasoning in neural networks,reasoning_improvement
+A Survey on Mathematical Reasoning and Optimization with Large Language Models,reasoning_improvement
+A Modular Dataset to Demonstrate LLM Abstraction Capability,reasoning_improvement
+ConSol: Sequential Probability Ratio Testing to Find Consistent LLM Reasoning Paths Efficiently,reasoning_improvement
+A Retrieval-Augmented Knowledge Mining Method with Deep Thinking LLMs for Biomedical Research and Clinical Support,reasoning_improvement
+Beyond RAG: Task-Aware KV Cache Compression for Comprehensive Knowledge Reasoning,reasoning_improvement
+Self-Evolved Preference Optimization for Enhancing Mathematical Reasoning in Small Language Models,reasoning_improvement
+MM-Eureka: Exploring the Frontiers of Multimodal Reasoning with Rule-based Reinforcement Learning,reasoning_improvement
+Chain of Functions: A Programmatic Pipeline for Fine-Grained Chart Reasoning Data,reasoning_improvement
+What Makes a Reward Model a Good Teacher? An Optimization Perspective,reasoning_improvement
+Dancing with Critiques: Enhancing LLM Reasoning with Stepwise Natural Language Self-Critique,reasoning_improvement
+Cats Confuse Reasoning LLM: Query Agnostic Adversarial Triggers for Reasoning Models,reasoning_improvement
+A Little Depth Goes a Long Way: The Expressive Power of Log-Depth Transformers,reasoning_improvement
+SPIN-Bench: How Well Do LLMs Plan Strategically and Reason Socially?,reasoning_improvement
+RAG-RL: Advancing Retrieval-Augmented Generation via RL and Curriculum Learning,reasoning_improvement
+Challenging the Boundaries of Reasoning: An Olympiad-Level Math Benchmark for Large Language Models,reasoning_improvement
+VisRL: Intention-Driven Visual Perception via Reinforced Reasoning,reasoning_improvement
+LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through Two-Stage Rule-Based RL,reasoning_improvement
+Self-Taught Self-Correction for Small Language Models,reasoning_improvement
+WinoWhat: A Parallel Corpus of Paraphrased WinoGrande Sentences with Common Sense Categorization,reasoning_improvement
+Crossing the Reward Bridge: Expanding RL with Verifiable Rewards Across Diverse Domains,reasoning_improvement
+From Chaos to Order: The Atomic Reasoner Framework for Fine-grained Reasoning in Large Language Models,reasoning_improvement
+Scientific Reasoning: Assessment of Multimodal Generative LLMs,reasoning_improvement
+All Roads Lead to Likelihood: The Value of Reinforcement Learning in Fine-Tuning,reasoning_improvement
+SegAgent: Exploring Pixel Understanding Capabilities in MLLMs by Imitating Human Annotator Trajectories,reasoning_improvement
+Med-R1: Reinforcement Learning for Generalizable Medical Reasoning in Vision-Language Models,reasoning_improvement
+Learning from Failures in Multi-Attempt Reinforcement Learning,reasoning_improvement
+Symbolic Mixture-of-Experts: Adaptive Skill-based Routing for Heterogeneous Reasoning,reasoning_improvement
+"Right Answer, Wrong Score: Uncovering the Inconsistencies of LLM Evaluation in Multiple-Choice Question Answering",reasoning_improvement
+FastCuRL: Curriculum Reinforcement Learning with Stage-wise Context Scaling for Efficient Training R1-like Reasoning Models,reasoning_improvement
+ReAgent: Reversible Multi-Agent Reasoning for Knowledge-Enhanced Multi-Hop QA,reasoning_improvement
+Thinking Machines: A Survey of LLM based Reasoning Strategies,reasoning_improvement
+Verbal Process Supervision Elicits Better Coding Agents,reasoning_improvement
+Why Stop at One Error? Benchmarking LLMs as Data Science Code Debuggers for Multi-Hop and Multi-Bug Errors,reasoning_improvement
+Audio-Reasoner: Improving Reasoning Capability in Large Audio Language Models,reasoning_improvement
+ReSo: A Reward-driven Self-organizing LLM-based Multi-Agent System for Reasoning Tasks,reasoning_improvement
+PromptCoT: Synthesizing Olympiad-level Problems for Mathematical Reasoning in Large Language Models,reasoning_improvement
+DeepReview: Improving LLM-based Paper Review with Human-like Deep Thinking Process,reasoning_improvement
+Finetuning Generative Trajectory Model with Reinforcement Learning from Human Feedback,reasoning_improvement
+Can Reasoning Models Reason about Hardware? An Agentic HLS Perspective,reasoning_improvement
+$\phi$-Decoding: Adaptive Foresight Sampling for Balanced Inference-Time Exploration and Exploitation,reasoning_improvement
+Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning,reasoning_improvement
+I Predict Therefore I Am: Is Next Token Prediction Enough to Learn Human-Interpretable Concepts from Data?,reasoning_improvement
+V-STaR: Benchmarking Video-LLMs on Video Spatio-Temporal Reasoning,reasoning_improvement
+Temporal Consistency for LLM Reasoning Process Error Identification,reasoning_improvement
+Agent models: Internalizing Chain-of-Action Generation into Reasoning models,reasoning_improvement
+Unlocking General Long Chain-of-Thought Reasoning Capabilities of Large Language Models via Representation Engineering,reasoning_improvement
+Inferring Events from Time Series using Language Models,reasoning_improvement
+Reasoning Beyond Limits: Advances and Open Problems for LLMs,reasoning_improvement
+MathFlow: Enhancing the Perceptual Flow of MLLMs for Visual Mathematical Problems,reasoning_improvement
+SG-Tailor: Inter-Object Commonsense Relationship Reasoning for Scene Graph Manipulation,reasoning_improvement
+HAIR: Hardness-Aware Inverse Reinforcement Learning with Introspective Reasoning for LLM Alignment,reasoning_improvement
+Towards Widening The Distillation Bottleneck for Reasoning Models,reasoning_improvement
+Towards Understanding Distilled Reasoning Models: A Representational Approach,reasoning_improvement
+Dedicated Feedback and Edit Models Empower Inference-Time Scaling for Open-Ended General-Domain Tasks,reasoning_improvement
+EXAONE Deep: Reasoning Enhanced Language Models,reasoning_improvement
+Can LLMs Formally Reason as Abstract Interpreters for Program Analysis?,reasoning_improvement
+Empowering Smaller Models: Tuning LLaMA and Gemma with Chain-of-Thought for Ukrainian Exam Tasks,reasoning_improvement
+Process or Result? Manipulated Ending Tokens Can Mislead Reasoning LLMs to Ignore the Correct Reasoning Steps,reasoning_improvement
+Proof or Bluff? Evaluating LLMs on 2025 USA Math Olympiad,reasoning_improvement
+Video-R1: Reinforcing Video Reasoning in MLLMs,reasoning_improvement
+Analyzable Chain-of-Musical-Thought Prompting for High-Fidelity Music Generation,reasoning_improvement
+Iterative Hypothesis Generation for Scientific Discovery with Monte Carlo Nash Equilibrium Self-Refining Trees,reasoning_improvement
+Seg-Zero: Reasoning-Chain Guided Segmentation via Cognitive Reinforcement,reasoning_improvement
+SAGE: Steering and Refining Dialog Generation with State-Action Augmentation,reasoning_improvement
+Language Models can Self-Improve at State-Value Estimation for Better Search,reasoning_improvement
+GTR: Guided Thought Reinforcement Prevents Thought Collapse in RL-based VLM Agent Training,reasoning_improvement
+ST-Think: How Multimodal Large Language Models Reason About 4D Worlds from Ego-Centric Videos,reasoning_improvement
+DeepPerception: Advancing R1-like Cognitive Visual Perception in MLLMs for Knowledge-Intensive Visual Grounding,reasoning_improvement
+Towards Reasoning Era: A Survey of Long Chain-of-Thought for Reasoning Large Language Models,reasoning_improvement
+Plan-and-Act: Improving Planning of Agents for Long-Horizon Tasks,reasoning_improvement
+"Interacting with AI Reasoning Models: Harnessing ""Thoughts"" for AI-Driven Software Engineering",reasoning_improvement
+Underlying Semantic Diffusion for Effective and Efficient In-Context Learning,reasoning_improvement
+ProtTeX: Structure-In-Context Reasoning and Editing of Proteins with Large Language Models,reasoning_improvement
+VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning,reasoning_improvement
+MetaScale: Test-Time Scaling with Evolving Meta-Thoughts,reasoning_improvement
+HoT: Highlighted Chain of Thought for Referencing Supporting Facts from Inputs,reasoning_improvement
+Superficial Self-Improved Reasoners Benefit from Model Merging,reasoning_improvement
+Insight-RAG: Enhancing LLMs with Insight-Driven Augmentation,reasoning_improvement
+SCoRE: Benchmarking Long-Chain Reasoning in Commonsense Scenarios,reasoning_improvement
+Superalignment with Dynamic Human Values,reasoning_improvement
+Reinforcement Learning for Reasoning in Small LLMs: What Works and What Doesn't,reasoning_improvement
+OThink-MR1: Stimulating multimodal generalized reasoning capabilities via dynamic reinforcement learning,reasoning_improvement
+Fin-R1: A Large Language Model for Financial Reasoning through Reinforcement Learning,reasoning_improvement
+Think or Not Think: A Study of Explicit Thinking in Rule-Based Visual Reinforcement Fine-Tuning,reasoning_improvement
+Combinatorial Optimization for All: Using LLMs to Aid Non-Experts in Improving Optimization Algorithms,reasoning_improvement
+Can Large Reasoning Models do Analogical Reasoning under Perceptual Uncertainty?,reasoning_improvement
+TxAgent: An AI Agent for Therapeutic Reasoning Across a Universe of Tools,reasoning_improvement
+RePanda: Pandas-powered Tabular Verification and Reasoning,reasoning_improvement
+MetaSpatial: Reinforcing 3D Spatial Reasoning in VLMs for the Metaverse,reasoning_improvement
+RALLRec+: Retrieval Augmented Large Language Model Recommendation with Reasoning,reasoning_improvement
+U-NIAH: Unified RAG and LLM Evaluation for Long Context Needle-In-A-Haystack,reasoning_improvement
+Rewarding Curse: Analyze and Mitigate Reward Modeling Issues for LLM Reasoning,reasoning_improvement
+3DAxisPrompt: Promoting the 3D Grounding and Reasoning in GPT-4o,reasoning_improvement
+Think Before Recommend: Unleashing the Latent Reasoning Power for Sequential Recommendation,reasoning_improvement
+Implicit Reasoning in Transformers is Reasoning through Shortcuts,reasoning_improvement
+Code-Driven Inductive Synthesis: Enhancing Reasoning Abilities of Large Language Models with Sequences,reasoning_improvement
+CrossWordBench: Evaluating the Reasoning Capabilities of LLMs and LVLMs with Controllable Puzzle Generation,reasoning_improvement
+Effectively Controlling Reasoning Models through Thinking Intervention,reasoning_improvement
+JudgeLRM: Large Reasoning Models as a Judge,reasoning_improvement
+Boosting the Generalization and Reasoning of Vision Language Models with Curriculum Reinforcement Learning,reasoning_improvement
+Quantifying the Reasoning Abilities of LLMs on Real-world Clinical Cases,reasoning_improvement
+LightPlanner: Unleashing the Reasoning Capabilities of Lightweight Large Language Models in Task Planning,reasoning_improvement
+ThinkPatterns-21k: A Systematic Study on the Impact of Thinking Patterns in LLMs,reasoning_improvement
+Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning,reasoning_improvement
+Think Like Human Developers: Harnessing Community Knowledge for Structured Code Reasoning,reasoning_improvement
+Bayesian Teaching Enables Probabilistic Reasoning in Large Language Models,reasoning_improvement
+Reinforcement Learning is all You Need,reasoning_improvement
+SciVerse: Unveiling the Knowledge Comprehension and Visual Reasoning of LMMs on Multi-modal Scientific Problems,reasoning_improvement
+Don't lie to your friends: Learning what you know from collaborative self-play,reasoning_improvement
+The Society of HiveMind: Multi-Agent Optimization of Foundation Model Swarms to Unlock the Potential of Collective Intelligence,reasoning_improvement
+VisualPRM: An Effective Process Reward Model for Multimodal Reasoning,reasoning_improvement
+"Good Actions Succeed, Bad Actions Generalize: A Case Study on Why RL Generalizes Better",reasoning_improvement
+Long Is More Important Than Difficult for Training Reasoning Models,reasoning_improvement
+Mind with Eyes: from Language Reasoning to Multimodal Reasoning,reasoning_improvement
+OmniScience: A Domain-Specialized LLM for Scientific Reasoning and Discovery,reasoning_improvement
+Think Twice: Enhancing LLM Reasoning by Scaling Multi-round Test-time Thinking,reasoning_improvement
+Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning,reasoning_improvement
+Enhancing LLM Reasoning with Iterative DPO: A Comprehensive Empirical Investigation,reasoning_improvement
+Reasoning Effort and Problem Complexity: A Scaling Analysis in LLMs,reasoning_improvement
+ExCoT: Optimizing Reasoning for Text-to-SQL with Execution Feedback,reasoning_improvement
+Medical Reasoning in LLMs: An In-Depth Analysis of DeepSeek R1,reasoning_improvement
+Browsing Lost Unformed Recollections: A Benchmark for Tip-of-the-Tongue Search and Reasoning,reasoning_improvement
+Innate Reasoning is Not Enough: In-Context Learning Enhances Reasoning Large Language Models with Less Overthinking,reasoning_improvement
+1.4 Million Open-Source Distilled Reasoning Dataset to Empower Large Language Model Training,reasoning_improvement
+Scaling Evaluation-time Compute with Reasoning Models as Process Evaluators,reasoning_improvement
+DAST: Difficulty-Adaptive Slow-Thinking for Large Reasoning Models,reasoning_improvement
+RLDBF: Enhancing LLMs Via Reinforcement Learning With DataBase FeedBack,reasoning_improvement
+Enhancing LLM Reliability via Explicit Knowledge Boundary Modeling,reasoning_improvement
+An Efficient and Precise Training Data Construction Framework for Process-supervised Reward Model in Mathematical Reasoning,reasoning_improvement
+OR-LLM-Agent: Automating Modeling and Solving of Operations Research Optimization Problem with Reasoning Large Language Model,reasoning_improvement
+Policy Frameworks for Transparent Chain-of-Thought Reasoning in Large Language Models,reasoning_improvement
+MARS: A Multi-Agent Framework Incorporating Socratic Guidance for Automated Prompt Optimization,reasoning_improvement
+Optimizing Language Models for Inference Time Objectives using Reinforcement Learning,reasoning_improvement
+MastermindEval: A Simple But Scalable Reasoning Benchmark,reasoning_improvement
+ReMA: Learning to Meta-think for LLMs with Multi-Agent Reinforcement Learning,reasoning_improvement
+ReaRAG: Knowledge-guided Reasoning Enhances Factuality of Large Reasoning Models with Iterative Retrieval Augmented Generation,reasoning_improvement
+PHYSICS: Benchmarking Foundation Models on University-Level Physics Problem Solving,reasoning_improvement
+LINGOLY-TOO: Disentangling Reasoning from Knowledge with Templatised Orthographic Obfuscation,reasoning_improvement
+R1-VL: Learning to Reason with Multimodal Large Language Models via Step-wise Group Relative Policy Optimization,reasoning_improvement
+Uncertainty-Guided Chain-of-Thought for Code Generation with LLMs,reasoning_improvement
+AlphaSpace: Enabling Robotic Actions through Semantic Tokenization and Symbolic Reasoning,reasoning_improvement
+Reasoning to Learn from Latent Thoughts,reasoning_improvement
+R-PRM: Reasoning-Driven Process Reward Modeling,reasoning_improvement
+Learning to Reason for Long-Form Story Generation,reasoning_improvement
+The Reasoning-Memorization Interplay in Language Models Is Mediated by a Single Direction,reasoning_improvement
+L0-Reasoning Bench: Evaluating Procedural Correctness in Language Models via Simple Program Execution,reasoning_improvement
+CrowdVLM-R1: Expanding R1 Ability to Vision Language Model for Crowd Counting using Fuzzy Group Relative Policy Reward,reasoning_improvement
+Reasoning-SQL: Reinforcement Learning with SQL Tailored Partial Rewards for Reasoning-Enhanced Text-to-SQL,reasoning_improvement
+Evolutionary Prompt Optimization Discovers Emergent Multimodal Reasoning Strategies in Vision-Language Models,reasoning_improvement
+CPPO: Accelerating the Training of Group Relative Policy Optimization-Based Reasoning Models,reasoning_improvement
+"Thinking Longer, Not Larger: Enhancing Software Engineering Agents via Scaling Test-Time Compute",reasoning_improvement
+RARE: Retrieval-Augmented Reasoning Modeling,reasoning_improvement
+Discovering Knowledge Deficiencies of Language Models on Massive Knowledge Base,reasoning_improvement
+Wider or Deeper? Scaling LLM Inference-Time Compute with Adaptive Branching Tree Search,reasoning_improvement
+Rank-R1: Enhancing Reasoning in LLM-based Document Rerankers via Reinforcement Learning,reasoning_improvement
+Praxis-VLM: Vision-Grounded Decision Making via Text-Driven Reinforcement Learning,reasoning_improvement
+Training Domain Draft Models for Speculative Decoding: Best Practices and Insights,reasoning_improvement
+Pseudo-Relevance Feedback Can Improve Zero-Shot LLM-Based Dense Retrieval,reasoning_improvement
+MetaLadder: Ascending Mathematical Solution Quality via Analogical-Problem Reasoning Transfer,reasoning_improvement
+Does Chain-of-Thought Reasoning Help Mobile GUI Agent? An Empirical Study,reasoning_improvement
+I Have Covered All the Bases Here: Interpreting Reasoning Features in Large Language Models via Sparse Autoencoders,reasoning_improvement
+MedAgent-Pro: Towards Evidence-based Multi-modal Medical Diagnosis via Reasoning Agentic Workflow,reasoning_improvement
+Classical Planning with LLM-Generated Heuristics: Challenging the State of the Art with Python Code,reasoning_improvement
+Boosting MLLM Reasoning with Text-Debiased Hint-GRPO,reasoning_improvement
+Entropy-guided sequence weighting for efficient exploration in RL-based LLM fine-tuning,reasoning_improvement
+Can DeepSeek Reason Like a Surgeon? An Empirical Evaluation for Vision-Language Understanding in Robotic-Assisted Surgery,reasoning_improvement
+When 'YES' Meets 'BUT': Can Large Models Comprehend Contradictory Humor Through Comparative Reasoning?,reasoning_improvement
+Aurelia: Test-time Reasoning Distillation in Audio-Visual LLMs,reasoning_improvement
+Satori: Reinforcement Learning with Chain-of-Action-Thought Enhances LLM Reasoning via Autoregressive Search,reasoning_improvement
+Speculative Prefill: Turbocharging TTFT with Lightweight and Training-Free Token Importance Estimation,reasoning_improvement
+Enhancing Auto-regressive Chain-of-Thought through Loop-Aligned Reasoning,reasoning_improvement
+The Lookahead Limitation: Why Multi-Operand Addition is Hard for LLMs,reasoning_improvement
+Policy-to-Language: Train LLMs to Explain Decisions with Flow-Matching Generated Rewards,reasoning_improvement
+On the logical skills of large language models: evaluations using arbitrarily complex first-order logic problems,reasoning_improvement
+AdaptiveStep: Automatically Dividing Reasoning Step through Model Confidence,reasoning_improvement
+Reasoning with Reinforced Functional Token Tuning,reasoning_improvement
+Improving Multi-turn Task Completion in Task-Oriented Dialog Systems via Prompt Chaining and Fine-Grained Feedback,reasoning_improvement
+MM-Verify: Enhancing Multimodal Reasoning with Chain-of-Thought Verification,reasoning_improvement
+LogiDynamics: Unraveling the Dynamics of Logical Inference in Large Language Model Reasoning,reasoning_improvement
+Learning to Reason at the Frontier of Learnability,reasoning_improvement
+Evaluating the Paperclip Maximizer: Are RL-Based Language Models More Likely to Pursue Instrumental Goals?,reasoning_improvement
+Evaluating Step-by-step Reasoning Traces: A Survey,reasoning_improvement
+QLASS: Boosting Language Agent Inference via Q-Guided Stepwise Search,reasoning_improvement
+Are Rules Meant to be Broken? Understanding Multilingual Moral Reasoning as a Computational Pipeline with UniMoral,reasoning_improvement
+Theoretical Physics Benchmark (TPBench) -- a Dataset and Study of AI Reasoning Capabilities in Theoretical Physics,reasoning_improvement
+Collective Reasoning Among LLMs A Framework for Answer Validation Without Ground Truth,reasoning_improvement
+Reflection-Window Decoding: Text Generation with Selective Refinement,reasoning_improvement
+Evaluating o1-Like LLMs: Unlocking Reasoning for Translation through Comprehensive Analysis,reasoning_improvement
+Uncertainty-Aware Step-wise Verification with Generative Reward Models,reasoning_improvement
+ExpliCa: Evaluating Explicit Causal Reasoning in Large Language Models,reasoning_improvement
+Child vs. machine language learning: Can the logical structure of human language unleash LLMs?,reasoning_improvement
+Scalable Best-of-N Selection for Large Language Models via Self-Certainty,reasoning_improvement
+R1-T1: Fully Incentivizing Translation Capability in LLMs via Reasoning Learning,reasoning_improvement
+Scoring Verifiers: Evaluating Synthetic Verification for Code and Reasoning,reasoning_improvement
+Is That Your Final Answer? Test-Time Scaling Improves Selective Question Answering,reasoning_improvement
+Problem-Solving Logic Guided Curriculum In-Context Learning for LLMs Complex Reasoning,reasoning_improvement
+Enhancing Cross-Tokenizer Knowledge Distillation with Contextual Dynamical Mapping,reasoning_improvement
+Distill Not Only Data but Also Rewards: Can Smaller Language Models Surpass Larger Ones?,reasoning_improvement
+Med-RLVR: Emerging Medical Reasoning from a 3B base model via reinforcement Learning,reasoning_improvement
+Evaluating System 1 vs. 2 Reasoning Approaches for Zero-Shot Time Series Forecasting: A Benchmark and Insights,reasoning_improvement
+AlphaMaze: Enhancing Large Language Models' Spatial Intelligence via GRPO,reasoning_improvement
+Confidence Improves Self-Consistency in LLMs,reasoning_improvement
+O1 Embedder: Let Retrievers Think Before Action,reasoning_improvement
+Goedel-Prover: A Frontier Model for Open-Source Automated Theorem Proving,reasoning_improvement
+Small Models Struggle to Learn from Strong Reasoners,reasoning_improvement
+A Study on Leveraging Search and Self-Feedback for Agent Reasoning,reasoning_improvement
+Measuring Faithfulness of Chains of Thought by Unlearning Reasoning Steps,reasoning_improvement
+Can Large Language Models Detect Errors in Long Chain-of-Thought Reasoning?,reasoning_improvement
+Isolating Language-Coding from Problem-Solving: Benchmarking LLMs with PseudoEval,reasoning_improvement
+MATH-Perturb: Benchmarking LLMs' Math Reasoning Abilities against Hard Perturbations,reasoning_improvement
+NAVER: A Neuro-Symbolic Compositional Automaton for Visual Grounding with Explicit Logic Reasoning,reasoning_improvement
+Leveraging Reasoning with Guidelines to Elicit and Utilize Knowledge for Enhancing Safety Alignment,reasoning_improvement
+Chain-of-Thought Matters: Improving Long-Context Language Models with Reasoning Path Supervision,reasoning_improvement
+ReasonFlux: Hierarchical LLM Reasoning via Scaling Thought Templates,reasoning_improvement
+Medicine on the Edge: Comparative Performance Analysis of On-Device LLMs for Clinical Reasoning,reasoning_improvement
+Adapting Language-Specific LLMs to a Reasoning Model in One Day via Model Merging -- An Open Recipe,reasoning_improvement
+CRANE: Reasoning with constrained LLM generation,reasoning_improvement
+Do We Need to Verify Step by Step? Rethinking Process Supervision from a Theoretical Perspective,reasoning_improvement
+A-MEM: Agentic Memory for LLM Agents,reasoning_improvement
+To Think or Not to Think: Exploring the Unthinking Vulnerability in Large Reasoning Models,reasoning_improvement
+The Self-Improvement Paradox: Can Language Models Bootstrap Reasoning Capabilities without External Scaffolding?,reasoning_improvement
+SPPD: Self-training with Process Preference Learning Using Dynamic Value Margin,reasoning_improvement
+Agentic Reward Modeling: Integrating Human Preferences with Verifiable Correctness Signals for Reliable Reward Systems,reasoning_improvement
+General Reasoning Requires Learning to Reason from the Get-go,reasoning_improvement
+None of the Others: a General Technique to Distinguish Reasoning from Memorization in Multiple-Choice LLM Evaluation Benchmarks,reasoning_improvement
+S$^2$R: Teaching LLMs to Self-verify and Self-correct via Reinforcement Learning,reasoning_improvement
+Patterns Over Principles: The Fragility of Inductive Reasoning in LLMs under Noisy Observations,reasoning_improvement
+ThinkBench: Dynamic Out-of-Distribution Evaluation for Robust LLM Reasoning,reasoning_improvement
+DocPuzzle: A Process-Aware Benchmark for Evaluating Realistic Long-Context Reasoning Capabilities,reasoning_improvement
+Can LLMs Explain Themselves Counterfactually?,reasoning_improvement
+$Q\sharp$: Provably Optimal Distributional RL for LLM Post-Training,reasoning_improvement
+FANformer: Improving Large Language Models Through Effective Periodicity Modeling,reasoning_improvement
+LLM Post-Training: A Deep Dive into Reasoning Large Language Models,reasoning_improvement
+Automating Mathematical Proof Generation Using Large Language Model Agents and Knowledge Graphs,reasoning_improvement
+ACECODER: Acing Coder RL via Automated Test-Case Synthesis,reasoning_improvement
+Lower Bounds for Chain-of-Thought Reasoning in Hard-Attention Transformers,reasoning_improvement
+NoLiMa: Long-Context Evaluation Beyond Literal Matching,reasoning_improvement
+Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach,reasoning_improvement
+Towards Foundational Models for Dynamical System Reconstruction: Hierarchical Meta-Learning via Mixture of Experts,reasoning_improvement
+GSM-Infinite: How Do Your LLMs Behave over Infinitely Increasing Context Length and Reasoning Complexity?,reasoning_improvement
+LLMs Can Teach Themselves to Better Predict the Future,reasoning_improvement
+RefineCoder: Iterative Improving of Large Language Models via Adaptive Critique Refinement for Code Generation,reasoning_improvement
+EPO: Explicit Policy Optimization for Strategic Reasoning in LLMs via Reinforcement Learning,reasoning_improvement
+SafeChain: Safety of Language Models with Long Chain-of-Thought Reasoning Capabilities,reasoning_improvement
+VersaPRM: Multi-Domain Process Reward Model via Synthetic Reasoning Data,reasoning_improvement
+Focused-DPO: Enhancing Code Generation Through Focused Preference Optimization on Error-Prone Points,reasoning_improvement
+Building A Proof-Oriented Programmer That Is 64% Better Than GPT-4o Under Data Scarcity,reasoning_improvement
+DISC: Dynamic Decomposition Improves LLM Inference Scaling,reasoning_improvement
+Beyond Pattern Recognition: Probing Mental Representations of LMs,reasoning_improvement
+Enhancing Depression Detection with Chain-of-Thought Prompting: From Emotion to Reasoning Using Large Language Models,reasoning_improvement
+Rethinking Fine-Tuning when Scaling Test-Time Compute: Limiting Confidence Improves Mathematical Reasoning,reasoning_improvement
+STAIR: Improving Safety Alignment with Introspective Reasoning,reasoning_improvement
+Reasoning-to-Defend: Safety-Aware Reasoning Can Defend Large Language Models from Jailbreaking,reasoning_improvement
+NaturalReasoning: Reasoning in the Wild with 2.8M Challenging Questions,reasoning_improvement
+Training Language Models to Reason Efficiently,reasoning_improvement
+Unveiling the Mechanisms of Explicit CoT Training: How CoT Enhances Reasoning Generalization,reasoning_improvement
+MathConstruct: Challenging LLM Reasoning with Constructive Proofs,reasoning_improvement
+À la recherche du sens perdu: your favourite LLM might have more to say than you can understand,reasoning_improvement
+UGPhysics: A Comprehensive Benchmark for Undergraduate Physics Reasoning with Large Language Models,reasoning_improvement
+Step Back to Leap Forward: Self-Backtracking for Boosting Reasoning of Language Models,reasoning_improvement
+Can 1B LLM Surpass 405B LLM? Rethinking Compute-Optimal Test-Time Scaling,reasoning_improvement
+CoT-UQ: Improving Response-wise Uncertainty Quantification in LLMs with Chain-of-Thought,reasoning_improvement
+FINEREASON: Evaluating and Improving LLMs' Deliberate Reasoning through Reflective Puzzle Solving,reasoning_improvement
+Beyond Single-Task: Robust Multi-Task Length Generalization for LLMs,reasoning_improvement
+Training a Generally Curious Agent,reasoning_improvement
+LR$^2$Bench: Evaluating Long-chain Reflective Reasoning Capabilities of Large Language Models via Constraint Satisfaction Problems,reasoning_improvement
+PEA: Enhancing LLM Performance on Computational-Reasoning Tasks,reasoning_improvement
+Zero-Shot Belief: A Hard Problem for LLMs,reasoning_improvement
+Unlocking the Potential of Generative AI through Neuro-Symbolic Architectures: Benefits and Limitations,reasoning_improvement
+MathFimer: Enhancing Mathematical Reasoning by Expanding Reasoning Steps through Fill-in-the-Middle Task,reasoning_improvement
+Linguistic Generalizability of Test-Time Scaling in Mathematical Reasoning,reasoning_improvement
+Reasoning with Latent Thoughts: On the Power of Looped Transformers,reasoning_improvement
+Improving Value-based Process Verifier via Structural Prior Injection,reasoning_improvement
+From System 1 to System 2: A Survey of Reasoning Large Language Models,reasoning_improvement
+Game-Theoretic Regularized Self-Play Alignment of Large Language Models,reasoning_improvement
+How Do LLMs Perform Two-Hop Reasoning in Context?,reasoning_improvement
+MedRAX: Medical Reasoning Agent for Chest X-ray,reasoning_improvement
+Twilight: Adaptive Attention Sparsity with Hierarchical Top-$p$ Pruning,reasoning_improvement
+PhysReason: A Comprehensive Benchmark towards Physics-Based Reasoning,reasoning_improvement
+Atom of Thoughts for Markov LLM Test-Time Scaling,reasoning_improvement
+Diverse Inference and Verification for Advanced Reasoning,reasoning_improvement
+Dynamic Chain-of-Thought: Towards Adaptive Deep Reasoning,reasoning_improvement
+Self-rewarding correction for mathematical reasoning,reasoning_improvement
+CodeSteer: Symbolic-Augmented Language Models via Code/Text Guidance,reasoning_improvement
+CoS: Chain-of-Shot Prompting for Long Video Understanding,reasoning_improvement
+Towards Reasoning Ability of Small Language Models,reasoning_improvement
+Can Language Models Falsify? Evaluating Algorithmic Reasoning with Counterexample Creation,reasoning_improvement
+Baichuan-M1: Pushing the Medical Capability of Large Language Models,reasoning_improvement
+HopRAG: Multi-Hop Reasoning for Logic-Aware Retrieval-Augmented Generation,reasoning_improvement
+Multi-Step Alignment as Markov Games: An Optimistic Online Gradient Descent Approach with Convergence Guarantees,reasoning_improvement
+Stepwise Informativeness Search for Efficient and Effective LLM Reasoning,reasoning_improvement
+Unveiling the Key Factors for Distilling Chain-of-Thought Reasoning,reasoning_improvement
+Advancing Reasoning in Large Language Models: Promising Methods and Approaches,reasoning_improvement
+Mathematical Reasoning in Large Language Models: Assessing Logical and Arithmetic Errors across Wide Numerical Ranges,reasoning_improvement
+SIFT: Grounding LLM Reasoning in Contexts via Stickers,reasoning_improvement
+Reinforcement Learning for Long-Horizon Interactive LLM Agents,reasoning_improvement
+Al-Khwarizmi: Discovering Physical Laws with Foundation Models,reasoning_improvement
+BOLT: Bootstrap Long Chain-of-Thought in Language Models without Distillation,reasoning_improvement
+Beyond Seen Data: Improving KBQA Generalization Through Schema-Guided Logical Form Generation,reasoning_improvement
+CER: Confidence Enhanced Reasoning in LLMs,reasoning_improvement
+MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning,reasoning_improvement
+RuozhiBench: Evaluating LLMs with Logical Fallacies and Misleading Premises,reasoning_improvement
+Fino1: On the Transferability of Reasoning Enhanced LLMs to Finance,reasoning_improvement
+SoRFT: Issue Resolving with Subtask-oriented Reinforced Fine-Tuning,reasoning_improvement
+SiriuS: Self-improving Multi-agent Systems via Bootstrapped Reasoning,reasoning_improvement
+Facilitating Long Context Understanding via Supervised Chain-of-Thought Reasoning,reasoning_improvement
+Enhancing Domain-Specific Retrieval-Augmented Generation: Synthetic Data Generation and Evaluation using Reasoning Models,reasoning_improvement
+"If Multi-Agent Debate is the Answer, What is the Question?",reasoning_improvement
+Inference-Time Computations for LLM Reasoning and Planning: A Benchmark and Insights,reasoning_improvement
+Reasoning and the Trusting Behavior of DeepSeek and GPT: An Experiment Revealing Hidden Fault Lines in Large Language Models,reasoning_improvement
+RoseRAG: Robust Retrieval-augmented Generation with Small-scale LLMs via Margin-aware Preference Optimization,reasoning_improvement
+Exposing Numeracy Gaps: A Benchmark to Evaluate Fundamental Numerical Abilities in Large Language Models,reasoning_improvement
+Leveraging Constrained Monte Carlo Tree Search to Generate Reliable Long Chain-of-Thought for Mathematical Reasoning,reasoning_improvement
+PhD Knowledge Not Required: A Reasoning Challenge for Large Language Models,reasoning_improvement
+Typhoon T1: An Open Thai Reasoning Model,reasoning_improvement
+Every Expert Matters: Towards Effective Knowledge Distillation for Mixture-of-Experts Language Models,reasoning_improvement
+PhantomWiki: On-Demand Datasets for Reasoning and Retrieval Evaluation,reasoning_improvement
+Verbalized Bayesian Persuasion,reasoning_improvement
+A Survey on Feedback-based Multi-step Reasoning for Large Language Models on Mathematics,reasoning_improvement
+Hypothesis-Driven Theory-of-Mind Reasoning for Large Language Models,reasoning_improvement
+Leveraging Dual Process Theory in Language Agent Framework for Real-time Simultaneous Human-AI Collaboration,reasoning_improvement
+Multimodal Inconsistency Reasoning (MMIR): A New Benchmark for Multimodal Reasoning Models,reasoning_improvement
+Self-Taught Agentic Long Context Understanding,reasoning_improvement
+Large Language Model Strategic Reasoning Evaluation through Behavioral Game Theory,reasoning_improvement
+InfiR : Crafting Effective Small Language Models and Multimodal Small Language Models in Reasoning,reasoning_improvement
+Large Language Models and Mathematical Reasoning Failures,reasoning_improvement
+Table-Critic: A Multi-Agent Framework for Collaborative Criticism and Refinement in Table Reasoning,reasoning_improvement
+Zero-shot Large Language Models for Long Clinical Text Summarization with Temporal Reasoning,reasoning_improvement
+BoostStep: Boosting mathematical capability of Large Language Models via improved single-step reasoning,reasoning_improvement
+From Informal to Formal -- Incorporating and Evaluating LLMs on Natural Language Requirements to Verifiable Formal Proofs,reasoning_improvement
+Citrus: Leveraging Expert Cognitive Pathways in a Medical Language Model for Advanced Medical Decision Support,reasoning_improvement
+SoS1: O1 and R1-Like Reasoning LLMs are Sum-of-Square Solvers,reasoning_improvement
+Critique Fine-Tuning: Learning to Critique is More Effective than Learning to Imitate,reasoning_improvement
+HackerRank-ASTRA: Evaluating Correctness & Consistency of Large Language Models on cross-domain multi-file project problems,reasoning_improvement
+GuardReasoner: Towards Reasoning-based LLM Safeguards,reasoning_improvement
+Test-Time Compute: from System-1 Thinking to System-2 Thinking,reasoning_improvement
+xJailbreak: Representation Space Guided Reinforcement Learning for Interpretable LLM Jailbreaking,reasoning_improvement
+Disentangling Exploration of Large Language Models by Optimal Exploitation,reasoning_improvement
+Softplus Attention with Re-weighting Boosts Length Extrapolation in Large Language Models,reasoning_improvement
+Think Smarter not Harder: Adaptive Reasoning with Inference Aware Optimization,reasoning_improvement
+The Essence of Contextual Understanding in Theory of Mind: A Study on Question Answering with Story Characters,reasoning_improvement
+Multimodal LLMs Can Reason about Aesthetics in Zero-Shot,reasoning_improvement
+Chain of Grounded Objectives: Bridging Process and Goal-oriented Prompting for Code Generation,reasoning_improvement
+Reward-aware Preference Optimization: A Unified Mathematical Framework for Model Alignment,reasoning_improvement
+STP: Self-play LLM Theorem Provers with Iterative Conjecturing and Proving,reasoning_improvement
+URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics,reasoning_improvement
+ADAM: An AI Reasoning and Bioinformatics Model for Alzheimer's Disease Detection and Microbiome-Clinical Data Integration,reasoning_improvement
+Rethinking External Slow-Thinking: From Snowball Errors to Probability of Correct Reasoning,reasoning_improvement
+MedXpertQA: Benchmarking Expert-Level Medical Reasoning and Understanding,reasoning_improvement
+A Cognitive Paradigm Approach to Probe the Perception-Reasoning Interface in VLMs,reasoning_improvement
+LiveIdeaBench: Evaluating LLMs' Divergent Thinking for Scientific Idea Generation with Minimal Context,reasoning_improvement
+DRT: Deep Reasoning Translation via Long Chain-of-Thought,reasoning_improvement
+Efficiently Scaling LLM Reasoning with Certaindex,reasoning_improvement
+MALT: Improving Reasoning with Multi-Agent LLM Training,reasoning_improvement
+"A Survey of Mathematical Reasoning in the Era of Multimodal Large Language Model: Benchmark, Method & Challenges",reasoning_improvement
+SpecFuse: Ensembling Large Language Models via Next-Segment Prediction,reasoning_improvement
+InfAlign: Inference-aware language model alignment,reasoning_improvement
+Demonstration Selection for In-Context Learning via Reinforcement Learning,reasoning_improvement
+Can Input Attributions Interpret the Inductive Reasoning Process in In-Context Learning?,reasoning_improvement
+Planning vs Reasoning: Ablations to Test Capabilities of LoRA layers,reasoning_improvement
+Enhancing Answer Reliability Through Inter-Model Consensus of Large Language Models,reasoning_improvement
+Theorem-Validated Reverse Chain-of-Thought Problem Generation for Geometric Reasoning,reasoning_improvement
+Graph of Records: Boosting Retrieval Augmented Generation for Long-context Summarization with Graphs,reasoning_improvement
+Can Large Language Models Invent Algorithms to Improve Themselves?: Algorithm Discovery for Recursive Self-Improvement through Reinforcement Learning,reasoning_improvement
+SuperCorrect: Advancing Small LLM Reasoning with Thought Template Distillation and Self-Correction,reasoning_improvement
+Beyond Exact Match: Semantically Reassessing Event Extraction by Large Language Models,reasoning_improvement
+Latent Space Chain-of-Embedding Enables Output-free LLM Self-Evaluation,reasoning_improvement
+TMGBench: A Systematic Game Benchmark for Evaluating Strategic Reasoning Abilities of LLMs,reasoning_improvement
+MaCTG: Multi-Agent Collaborative Thought Graph for Automatic Programming,reasoning_improvement
+Can Transformers Reason Logically? A Study in SAT Solving,reasoning_improvement
+GIVE: Structured Reasoning of Large Language Models with Knowledge Graph Inspired Veracity Extrapolation,reasoning_improvement
+Centaur: a foundation model of human cognition,reasoning_improvement
+Step Guided Reasoning: Improving Mathematical Reasoning using Guidance Generation and Step Reasoning,reasoning_improvement
+Holistic Reasoning with Long-Context LMs: A Benchmark for Database Operations on Massive Textual Data,reasoning_improvement
+Unleashing LLM Reasoning Capability via Scalable Question Synthesis from Scratch,reasoning_improvement
+Electrocardiogram-Language Model for Few-Shot Question Answering with Meta Learning,reasoning_improvement
+The Role of Deductive and Inductive Reasoning in Large Language Models,reasoning_improvement
+Bridging Stepwise Lab-Informed Pretraining and Knowledge-Guided Learning for Diagnostic Reasoning,reasoning_improvement
+Generalists vs. Specialists: Evaluating LLMs on Highly-Constrained Biophysical Sequence Optimization Tasks,reasoning_improvement
+Autonomous Evaluation of LLMs for Truth Maintenance and Reasoning Tasks,reasoning_improvement
+Learning from Committee: Reasoning Distillation from a Mixture of Teachers with Peer-Review,reasoning_improvement
+MathGAP: Out-of-Distribution Evaluation on Problems with Arbitrarily Complex Proofs,reasoning_improvement
+SpecEval: Evaluating Code Comprehension in Large Language Models via Program Specifications,reasoning_improvement
+What Should We Engineer in Prompts? Training Humans in Requirement-Driven LLM Use,reasoning_improvement
+NeedleBench: Can LLMs Do Retrieval and Reasoning in Information-Dense Context?,reasoning_improvement
+Why LLMs Are Bad at Synthetic Table Generation (and what to do about it),reasoning_improvement
+LLMs as Models for Analogical Reasoning,reasoning_improvement
+Asymptotic theory of in-context learning by linear attention,reasoning_improvement
+Large Language Models Are Struggle to Cope with Unreasonability in Math Problems,reasoning_improvement
+FormulaReasoning: A Dataset for Formula-Based Numerical Reasoning,reasoning_improvement
+Look Before You Decide: Prompting Active Deduction of MLLMs for Assumptive Reasoning,reasoning_improvement
+GLoRE: Evaluating Logical Reasoning of Large Language Models,reasoning_improvement

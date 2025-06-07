@@ -1,2 +1,3 @@
 .ipynb_notebooks/
 notebooks/.ipynb_checkpoints/
+*.pdf

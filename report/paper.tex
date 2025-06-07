@@ -12,7 +12,7 @@
 % Page margins for arXiv
 \usepackage[margin=1in]{geometry}
 
-\title{RASPID: Reasoning-Aware Steering with PID Control for Efficient Language Model Generation}
+\title{RASPID: Redundancy-Aware Steering with PID Control for Efficient Language Model Generation}
 
 \author{
 Anonymous Authors\\
@@ -40,7 +40,7 @@ Consider a simple mathematical question like ``What is 1 + 1?'' A reasoning-capa
 
 Current approaches to addressing this problem fall into two main categories: prompt engineering techniques that attempt to encourage brevity through instructions, and static activation steering methods that apply fixed interventions. However, prompt engineering has proven ineffective at the deep behavioral level required for meaningful token reduction, while static steering methods lack the adaptability needed for dynamic reasoning scenarios.
 
-We propose RASPID (Reasoning-Aware Steering with PID control), a novel approach that addresses these limitations through three key innovations:
+We propose RASPID (Redundancy-Aware Steering with PID control), a novel approach that addresses these limitations through three key innovations:
 
 \begin{enumerate}
 \item \textbf{Dynamic Redundancy Detection}: A chunk-level classifier that identifies redundant vs. useful reasoning in real-time during generation
