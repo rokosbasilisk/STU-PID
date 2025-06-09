@@ -1,0 +1,2456 @@
+Intelligent segmentation of Chinese address elements combining textual and spatial semantic features
+From archives to AI: Residential property data across three decades in Brunei Darussalam
+RM-R1: Reward Modeling as Reasoning
+Quantitative Analysis of Performance Drop in DeepSeek Model Quantization
+DeepSeek vs. ChatGPT vs. Claude: A comparative study for scientific computing and scientific machine learning tasks
+Fine-tuning a large language model for automating computational fluid dynamics simulations
+R-Bench: Graduate-level Multi-disciplinary Benchmarks for LLM & MLLM Complex Reasoning Evaluation
+T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT
+Thoughts without Thinking: Reconsidering the Explanatory Value of Chain-of-Thought Reasoning in LLMs through Agentic Pipelines
+LAMeD: LLM-generated Annotations for Memory Leak Detection
+Technical Report: Evaluating Goal Drift in Language Model Agents
+Program Semantic Inequivalence Game with Large Language Models
+Building a Human-Verified Clinical Reasoning Dataset via a Human LLM Hybrid Pipeline for Trustworthy Medical AI
+Towards Multi-Agent Reasoning Systems for Collaborative Expertise Delegation: An Exploratory Design Study
+When repeats drive the vocabulary: a Byte-Pair Encoding analysis of T2T primate genomes
+Large Language Model Driven Development of Turbulence Models
+Patterns and Mechanisms of Contrastive Activation Engineering
+Evaluating LLM Metrics Through Real-World Capabilities
+CEC-Zero: Chinese Error Correction Solution Based on LLM
+Aitomia: Your Intelligent Assistant for AI-Driven Atomistic and Quantum Chemical Simulations
+DanceGRPO: Unleashing GRPO on Visual Generation
+Accelerating Chain-of-Thought Reasoning: When Goal-Gradient Importance Meets Dynamic Skipping
+Tests as Prompt: A Test-Driven-Development Benchmark for LLM Code Generation
+BARREL: Boundary-Aware Reasoning for Factual and Reliable LRMs
+Social Sycophancy: A Broader Understanding of LLM Sycophancy
+DeepEyes: Incentivizing "Thinking with Images" via Reinforcement Learning
+Exploring Causes of Representational Similarity in Machine Learning Models
+Context-Free Synthetic Data Mitigates Forgetting
+Multilingual Test-Time Scaling via Initial Thought Transfer
+FlowKV: Enhancing Multi-Turn Conversational Coherence in LLMs via Isolated Key-Value Cache Management
+Hunyuan-TurboS: Advancing Large Language Models through Mamba-Transformer Synergy and Adaptive Chain-of-Thought
+MentalMAC: Enhancing Large Language Models for Detecting Mental Manipulation via Multi-Task Anti-Curriculum Distillation
+When Less Language is More: Language-Reasoning Disentanglement Makes LLMs Better Multilingual Reasoners
+NL-Debugging: Exploiting Natural Language as an Intermediate Representation for Code Debugging
+Mitigating Cyber Risk in the Age of Open-Weight LLMs: Policy Gaps and Technical Realities
+de Gregorio, Alfonso
+Memory-Efficient LLM Training by Various-Grained Low-Rank Projection of Gradients
+Multi-Agent System for Comprehensive Soccer Understanding
+RoboOS: A Hierarchical Embodied Framework for Cross-Embodiment and Multi-Agent Collaboration
+Bring Reason to Vision: Understanding Perception and Reasoning through Model Merging
+ChronoSteer: Bridging Large Language Model and Time Series Foundation Model via Synthetic Data
+ServeGen: Workload Characterization and Generation of Large Language Model Serving in Production
+Rethinking Prompt Optimizers: From Prompt Merits to Optimization
+Sample Complexity of Distributionally Robust Average-Reward Reinforcement Learning
+DIF: A Framework for Benchmarking and Verifying Implicit Bias in LLMs
+Mining Hidden Thoughts from Texts: Evaluating Continual Pretraining with Synthetic Data for LLM Reasoning
+Not All Thoughts are Generated Equal: Efficient LLM Reasoning via Multi-Turn Reinforcement Learning
+Class Distillation with Mahalanobis Contrast: An Efficient Training Paradigm for Pragmatic Language Understanding Tasks
+CoT-Vid: Dynamic Chain-of-Thought Routing with Self Verification for Training-Free Video Reasoning
+On Membership Inference Attacks in Knowledge Distillation
+Video-SafetyBench: A Benchmark for Safety Evaluation of Video LVLMs
+Arrow: Adaptive Scheduling Mechanisms for Disaggregated LLM Inference Architecture
+Communication-Efficient Hybrid Language Model via Uncertainty-Aware Opportunistic and Compressed Transmission
+OneTwoVLA: A Unified Vision-Language-Action Model with Adaptive Reasoning
+VeriReason: Reinforcement Learning with Testbench Feedback for Reasoning-Enhanced Verilog Generation
+Solver-Informed RL: Grounding Large Language Models for Authentic Optimization Modeling
+Evaluating the Logical Reasoning Abilities of Large Reasoning Models
+When AI Co-Scientists Fail: SPOT-a Benchmark for Automated Verification of Scientific Research
+A Survey on Inference Engines for Large Language Models: Perspectives on Optimization and Efficiency
+AutoPatch: Multi-Agent Framework for Patching Real-World CVE Vulnerabilities
+Crosslingual Reasoning through Test-Time Scaling
+DSDrive: Distilling Large Language Model for Lightweight End-to-End Autonomous Driving with Unified Reasoning and Planning
+Reasoning Models Don't Always Say What They Think
+Quantum State Preparation via Large-Language-Model-Driven Evolution
+REMEDI: Relative Feature Enhanced Meta-Learning with Distillation for Imbalanced Prediction
+SAS-Bench: A Fine-Grained Benchmark for Evaluating Short Answer Scoring with Large Language Models
+Multilingual Machine Translation with Quantum Encoder Decoder Attention-based Convolutional Variational Circuits
+Connecting the Dots: A Chain-of-Collaboration Prompting Framework for LLM Agents
+Reasoning with OmniThought: A Large CoT Dataset with Verbosity and Cognitive Difficulty Annotations
+GuardReasoner-VL: Safeguarding VLMs via Reinforced Reasoning
+InfantAgent-Next: A Multimodal Generalist Agent for Automated Computer Interaction
+EffiBench-X: A Multi-Language Benchmark for Measuring Efficiency of LLM-Generated Code
+Walking the Tightrope: Disentangling Beneficial and Detrimental Drifts in Non-Stationary Custom-Tuning
+Natural Language Planning via Coding and Inference Scaling
+HeteroSpec: Leveraging Contextual Heterogeneity for Efficient Speculative Decoding
+Effective and Transparent RAG: Adaptive-Reward Reinforcement Learning for Decision Traceability
+Memorization or Reasoning? Exploring the Idiom Understanding of LLMs
+Pixel Reasoner: Incentivizing Pixel-Space Reasoning with Curiosity-Driven Reinforcement Learning
+LightRouter: Towards Efficient LLM Collaboration with Minimal Overhead
+NTIRE 2025 challenge on Text to Image Generation Model Quality Assessment
+Incentivizing Dual Process Thinking for Efficient Large Language Model Reasoning
+Raw2Drive: Reinforcement Learning with Aligned World Models for End-to-End Autonomous Driving (in CARLA v2)
+Distilling the Implicit Multi-Branch Structure in LLMs' Reasoning via Reinforcement Learning
+SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond
+EuroCon: Benchmarking Parliament Deliberation for Political Consensus Finding
+CaseEdit: Enhancing Localized Commonsense Reasoning via Null-Space Constrained Knowledge Editing in Small Parameter Language Models
+Automated Text-to-Table for Reasoning-Intensive Table QA: Pipeline Design and Benchmarking Insights
+TCP: a Benchmark for Temporal Constraint-Based Planning
+SituatedThinker: Grounding LLM Reasoning with Real-World through Situated Thinking
+Let Me Think! A Long Chain-of-Thought Can Be Worth Exponentially Many Short Ones
+VIRAL: Vision-grounded Integration for Reward design And Learning
+On-Policy RL with Optimal Reward Baseline
+DeepTheorem: Advancing LLM Reasoning for Theorem Proving Through Natural Language and Reinforcement Learning
+ZeroGUI: Automating Online GUI Learning at Zero Human Cost
+Beyond 'Aha!': Toward Systematic Meta-Abilities Alignment in Large Reasoning Models
+MathCoder-VL: Bridging Vision and Code for Enhanced Multimodal Mathematical Reasoning
+Parallel Scaling Law for Language Models
+Table-R1: Region-based Reinforcement Learning for Table Understanding
+IQBench: How "Smart'' Are Vision-Language Models? A Study with Human IQ Tests
+VisionReasoner: Unified Visual Perception and Reasoning via Reinforcement Learning
+Model Merging in Pre-training of Large Language Models
+O$^2$-Searcher: A Searching-based Agent Model for Open-Domain Open-Ended Question Answering
+ManuSearch: Democratizing Deep Search in Large Language Models with a Transparent and Open Multi-Agent Framework
+Few-Shot Learning from Gigapixel Images via Hierarchical Vision-Language Alignment and Modeling
+AutoJudger: An Agent-Driven Framework for Efficient Benchmarking of MLLMs
+Can Large Reasoning Models Self-Train?
+Beyond Chemical QA: Evaluating LLM's Chemical Reasoning with Modular Chemical Operations
+THINK-Bench: Evaluating Thinking Efficiency and Chain-of-Thought Quality of Large Reasoning Models
+Vid2World: Crafting Video Diffusion Models to Interactive World Models
+ThinkSwitcher: When to Think Hard, When to Think Fast
+EfficientLLM: Efficiency in Large Language Models
+Let's Verify Math Questions Step by Step
+Is Your Prompt Safe? Investigating Prompt Injection Attacks Against Open-Source LLMs
+ThinkLess: A Training-Free Inference-Efficient Method for Reducing Reasoning Redundancy
+Feature Extraction and Steering for Enhanced Chain-of-Thought Reasoning in Language Models
+Discovering Pathology Rationale and Token Allocation for Efficient Multimodal Pathology Reasoning
+Toward Open Earth Science as Fast and Accessible as Natural Language
+Thought-Augmented Policy Optimization: Bridging External Guidance and Internal Capabilities
+Be Careful When Fine-tuning On Open-Source LLMs: Your Fine-tuning Data Could Be Secretly Stolen!
+Beyond Keywords: Evaluating Large Language Model Classification of Nuanced Ableism
+Accelerating RL for LLM Reasoning with Optimal Advantage Regression
+Trans-EnV: A Framework for Evaluating the Linguistic Robustness of LLMs Against English Varieties
+Embodied AI with Foundation Models for Mobile Service Robots: A Systematic Review
+Large Language Models for IT Automation Tasks: Are We There Yet?
+rStar-Coder: Scaling Competitive Code Reasoning with a Large-Scale Verified Dataset
+Are Reasoning Models More Prone to Hallucination?
+Continuous Chain of Thought Enables Parallel Exploration and Reasoning
+NeSyGeo: A Neuro-Symbolic Framework for Multimodal Geometric Reasoning Data Generation
+MTR-Bench: A Comprehensive Benchmark for Multi-Turn Reasoning Evaluation
+Generalizing Large Language Model Usability Across Resource-Constrained
+Tsai, Yun-Da
+Knowledge Augmented Complex Problem Solving with Large Language Models: A Survey
+Memorization-Compression Cycles Improve Generalization
+Yu, Fangyuan
+Self-GIVE: Associative Thinking from Limited Structured Knowledge for Enhanced Large Language Model Reasoning
+Language Specific Knowledge: Do Models Know Better in X than in English?
+Learning from Algorithm Feedback: One-Shot SAT Solver Guidance with GNNs
+$\text{R}^2\text{ec}$: Towards Large Recommender Models with Reasoning
+Latent Principle Discovery for Language Model Self-Improvement
+LARES: Latent Reasoning for Sequential Recommendation
+X-MAS: Towards Building Multi-Agent Systems with Heterogeneous LLMs
+Do Large Language Models Excel in Complex Logical Reasoning with Formal Language?
+MPO: Multilingual Safety Alignment via Reward Gap Optimization
+Error Typing for Smarter Rewards: Improving Process Reward Models with Error-Aware Hierarchical Supervision
+Chain-of-Thought for Autonomous Driving: A Comprehensive Survey and Future Prospects
+Compliance-to-Code: Enhancing Financial Compliance Checking via Code Generation
+A Theoretical Analysis of Compositional Generalization in Neural Networks: A Necessary and Sufficient Condition
+Li, Yuanpeng
+Flow-GRPO: Training Flow Matching Models via Online RL
+DeepMath-Creative: A Benchmark for Evaluating Mathematical Creativity of Large Language Models
+Scent of Knowledge: Optimizing Search-Enhanced Reasoning with Information Foraging
+Qwen3 Technical Report
+Fractured Chain-of-Thought Reasoning
+ExTrans: Multilingual Deep Reasoning Translation via Exemplar-Enhanced Reinforcement Learning
+Robust LLM Fingerprinting via Domain-Specific Watermarks
+Reasoning Beyond Language: A Comprehensive Survey on Latent Chain-of-Thought Reasoning
+Can reasoning models comprehend mathematical problems in Chinese ancient texts? An empirical study based on data from Suanjing Shishu
+R1-ShareVL: Incentivizing Reasoning Capability of Multimodal Large Language Models via Share-GRPO
+DeepRec: Towards a Deep Dive Into the Item Space with Large Language Model Based Recommendation
+Learning to Route Queries Across Knowledge Bases for Step-wise Retrieval-Augmented Reasoning
+NurValues: Real-World Nursing Values Evaluation for Large Language Models in Clinical Context
+SecReEvalBench: A Multi-turned Security Resilience Evaluation Benchmark for Large Language Models
+DRP: Distilled Reasoning Pruning with Skill-aware Step Decomposition for Efficient Large Reasoning Models
+Think-J: Learning to Think for Generative LLM-as-a-Judge
+Interpretable Traces, Unexpected Outcomes: Investigating the Disconnect in Trace-Based Knowledge Distillation
+Code2Logic: Game-Code-Driven Data Synthesis for Enhancing VLMs General Reasoning
+The Hallucination Tax of Reinforcement Finetuning
+Towards eliciting latent knowledge from LLMs with mechanistic interpretability
+Mapping the Minds of LLMs: A Graph-Based Analysis of Reasoning LLM
+WirelessMathBench: A Mathematical Modeling Benchmark for LLMs in Wireless Communications
+SlangDIT: Benchmarking LLMs in Interpretative Slang Translation
+Large Language Models in the Task of Automatic Validation of Text Classifier Predictions
+Tsymbalov, Aleksandr
+System-1.5 Reasoning: Traversal in Language and Latent Spaces with Dynamic Shortcuts
+Benchmarking and Rethinking Knowledge Editing for Large Language Models
+Do Large Language Models (Really) Need Statistical Foundations?
+Shifting AI Efficiency From Model-Centric to Data-Centric Compression
+GRE Suite: Geo-localization Inference via Fine-Tuned Vision-Language Models and Enhanced Reasoning Chains
+Evaluating Text Creativity across Diverse Domains: A Dataset and Large Language Model Evaluator
+The Coverage Principle: A Framework for Understanding Compositional Generalization
+Risk-aware Direct Preference Optimization under Nested Risk Measure
+Temporal Sampling for Forgotten Reasoning in LLMs
+Open-Det: An Efficient Learning Framework for Open-Ended Detection
+SPA-RL: Reinforcing LLM Agents via Stepwise Progress Attribution
+Reasoning Is Not All You Need: Examining LLMs for Multi-Turn Mental Health Conversations
+Can Past Experience Accelerate LLM Reasoning?
+HCQA-1.5 @ Ego4D EgoSchema Challenge 2025
+Silencer: From Discovery to Mitigation of Self-Bias in LLM-as-Benchmark-Generator
+MCP Safety Training: Learning to Refuse Falsely Benign MCP Exploits using Improved Preference Alignment
+Halloran, John
+Lossless Compression of Large Language Model-Generated Text via Next-Token Prediction
+The Tower of Babel Revisited: Multilingual Jailbreak Prompts on Closed-Source Large Language Models
+EduBench: A Comprehensive Benchmarking Dataset for Evaluating Large Language Models in Diverse Educational Scenarios
+Attributing Response to Context: A Jensen-Shannon Divergence Driven Mechanistic Study of Context Attribution in Retrieval-Augmented Generation
+SridBench: Benchmark of Scientific Research Illustration Drawing of Image Generation Model
+Characterizing Bias: Benchmarking Large Language Models in Simplified versus Traditional Chinese
+WebDancer: Towards Autonomous Information Seeking Agency
+Sherlock: Self-Correcting Reasoning in Vision-Language Models
+Self-Reflective Reinforcement Learning for Diffusion-based Image Reasoning Generation
+Table-R1: Inference-Time Scaling for Table Reasoning
+Towards A Generalist Code Embedding Model Based On Massive Data Synthesis
+IDEAL: Data Equilibrium Adaptation for Multi-Capability Language Model Alignment
+Efficient Agent Training for Computer Use
+T2I-Eval-R1: Reinforcement Learning-Driven Reasoning for Interpretable Text-to-Image Evaluation
+Semantic segmentation with reward
+Daily-Omni: Towards Audio-Visual Reasoning with Temporal Alignment across Modalities
+Language models can learn implicit multi-hop reasoning, but only if they have lots of training data
+Towards Analyzing and Understanding the Limitations of VAPO: A Theoretical Perspective
+Collision- and Reachability-Aware Multi-Robot Control with Grounded LLM Planners
+Ctrl-DNA: Controllable Cell-Type-Specific Regulatory DNA Design via Constrained RL
+Pretraining Language Models to Ponder in Continuous Space
+Let's Predict Sentence by Sentence
+Pitfalls of Rule- and Model-based Verifiers -- A Case Study on Mathematical Reasoning
+Let's Reason Formally: Natural-Formal Hybrid Reasoning Enhances LLM's Math Capability
+SocialMaze: A Benchmark for Evaluating Social Reasoning in Large Language Models
+Don't Take the Premise for Granted: Evaluating the Premise Critique Ability of Large Language Models
+ML-Agent: Reinforcing LLM Agents for Autonomous Machine Learning Engineering
+PixelThink: Towards Efficient Chain-of-Pixel Reasoning
+Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence
+Unified Multimodal Chain-of-Thought Reward Model through Reinforcement Fine-Tuning
+Recall with Reasoning: Chain-of-Thought Distillation for Mamba's Long-Context Memory and Extrapolation
+LogisticsVLN: Vision-Language Navigation For Low-Altitude Terminal Delivery Based on Agentic UAVs
+Long-Short Chain-of-Thought Mixture Supervised Fine-Tuning Eliciting Efficient Reasoning in Large Language Models
+Omni-R1: Do You Really Need Audio to Fine-Tune Your Audio LLM?
+A Multi-Dimensional Constraint Framework for Evaluating and Improving Instruction Following in Large Language Models
+WavReward: Spoken Dialogue Models With Generalist Reward Evaluators
+Let the Trial Begin: A Mock-Court Approach to Vulnerability Detection using LLM-Based Agents
+Scaling Reasoning can Improve Factuality in Large Language Models
+MPS-Prover: Advancing Stepwise Theorem Proving by Multi-Perspective Search and Data Curation
+Human-Aligned Bench: Fine-Grained Assessment of Reasoning Ability in MLLMs vs. Humans
+Can Large Language Models Correctly Interpret Equations with Errors?
+Group-in-Group Policy Optimization for LLM Agent Training
+J4R: Learning to Judge with Equivalent Initial State Group Relative Policy Optimization
+Optimizing Anytime Reasoning via Budget Relative Policy Optimization
+SeedBench: A Multi-task Benchmark for Evaluating Large Language Models in Seed Science
+RBF++: Quantifying and Optimizing Reasoning Boundaries across Measurable and Unmeasurable Capabilities for Chain-of-Thought Reasoning
+Seek in the Dark: Reasoning via Test-Time Instance-Level Policy Gradient in Latent Space
+Trust, But Verify: A Self-Verification Approach to Reinforcement Learning with Verifiable Rewards
+GUARD: Generation-time LLM Unlearning via Adaptive Restriction and Detection
+Thinking Short and Right Over Thinking Long: Serving LLM Reasoning Efficiently and Accurately
+Self-Route: Automatic Mode Switching via Capability Estimation for Efficient Reasoning
+DriveRX: A Vision-Language Reasoning Model for Cross-Task Autonomous Driving
+Beyond path selection: Better LLMs for Scientific Information Extraction with MimicSFT and Relevance and Rule-induced(R$^2$)GRPO
+Adaptive Detoxification: Safeguarding General Capabilities of LLMs through Toxicity-Aware Knowledge Editing
+Reinforcement Learning for Out-of-Distribution Reasoning in LLMs: An Empirical Study on Diagnosis-Related Group Coding
+Caption This, Reason That: VLMs Caught in the Middle
+From Large AI Models to Agentic AI: A Tutorial on Future Intelligent Communications
+Skywork Open Reasoner 1 Technical Report
+Zooming from Context to Cue: Hierarchical Preference Optimization for Multi-Image MLLMs
+Segment Policy Optimization: Effective Segment-Level Credit Assignment in RL for Large Language Models
+Neither Stochastic Parroting nor AGI: LLMs Solve Tasks through Context-Directed Extrapolation from Training Data Priors
+VAU-R1: Advancing Video Anomaly Understanding via Reinforcement Fine-Tuning
+CoT Red-Handed: Stress Testing Chain-of-Thought Monitoring
+BioReason: Incentivizing Multimodal Biological Reasoning within a DNA-LLM Model
+A Mathematical Framework for AI-Human Integration in Work
+Diversity-Aware Policy Optimization for Large Language Model Reasoning
+Large Means Left: Political Bias in Large Language Models Increases with Their Number of Parameters
+Practical Reasoning Interruption Attacks on Reasoning Large Language Models
+BioProBench: Comprehensive Dataset and Benchmark in Biological Protocol Understanding and Reasoning
+Fusing Bidirectional Chains of Thought and Reward Mechanisms A Method for Enhancing Question-Answering Capabilities of Large Language Models for Chinese Intangible Cultural Heritage
+Learning Like Humans: Advancing LLM Reasoning Capabilities via Adaptive Difficulty Curriculum Learning and Expert-Guided Self-Reformulation
+LLM-based Prompt Ensemble for Reliable Medical Entity Recognition from EHRs
+R2MED: A Benchmark for Reasoning-Driven Medical Retrieval
+RLVR-World: Training World Models with Reinforcement Learning
+DrugPilot: LLM-based Parameterized Reasoning Agent for Drug Discovery
+Unearthing Gems from Stones: Policy Optimization with Negative Sample Augmentation for LLM Reasoning
+Trajectory Bellman Residual Minimization: A Simple Value-Based Method for LLM Reasoning
+VARD: Efficient and Dense Fine-Tuning for Diffusion Models with Value-based RL
+HCRMP: A LLM-Hinted Contextual Reinforcement Learning Framework for Autonomous Driving
+STAR-R1: Spatial TrAnsformation Reasoning by Reinforcing Multimodal LLMs
+Keep Security! Benchmarking Security Policy Preservation in Large Language Model Contexts Against Indirect Attacks in Question Answering
+InfoDeepSeek: Benchmarking Agentic Information Seeking for Retrieval-Augmented Generation
+MMaDA: Multimodal Large Diffusion Language Models
+GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents
+L-MTP: Leap Multi-Token Prediction Beyond Adjacent Context for Large Language Models
+On the Design of KL-Regularized Policy Gradient Algorithms for LLM Reasoning
+Discovering Forbidden Topics in Language Models
+Decoupled Visual Interpretation and Linguistic Reasoning for Math Problem Solving
+From Reasoning to Generalization: Knowledge-Augmented LLMs for ARC Benchmark
+A Survey on the Application of Large Language Models in Scenario-Based Testing of Automated Driving Systems
+UNJOIN: Enhancing Multi-Table Text-to-SQL Generation via Schema Simplification
+VTool-R1: VLMs Learn to Think with Images via Reinforcement Learning on Multimodal Tool Use
+Causal Distillation: Transferring Structured Explanations from Large to Compact Language Models
+Towards Large Reasoning Models for Agriculture
+LIMOPro: Reasoning Refinement for Efficient and Effective Test-time Scaling
+Align and Surpass Human Camouflaged Perception: Visual Refocus Reinforcement Fine-Tuning
+Silence is Not Consensus: Disrupting Agreement Bias in Multi-Agent LLMs via Catfish Agent for Clinical Decision Making
+Expert Survey: AI Reliability & Security Research Priorities
+SIMCOPILOT: Evaluating Large Language Models for Copilot-Style Code Generation
+TEMPURA: Temporal Event Masked Prediction and Understanding for Reasoning in Action
+Always Tell Me The Odds: Fine-grained Conditional Probability Estimation
+Reliably Bounding False Positives: A Zero-Shot Machine-Generated Text Detection Framework via Multiscaled Conformal Prediction
+Putting the Value Back in RL: Better Test-Time Scaling by Unifying LLM Reasoners With Verifiers
+Learning to Think: Information-Theoretic Reinforcement Fine-Tuning for LLMs
+A Data Synthesis Method Driven by Large Language Models for Proactive Mining of Implicit User Intentions in Tourism
+Disentangling Reasoning and Knowledge in Medical Large Language Models
+MedGUIDE: Benchmarking Clinical Decision-Making in Large Language Models
+SLOT: Sample-specific Language Model Optimization at Test-time
+LLM-CoT Enhanced Graph Neural Recommendation with Harmonized Group Policy Optimization
+Disambiguation in Conversational Question Answering in the Era of LLM: A Survey
+AppealCase: A Dataset and Benchmark for Civil Case Appeal Scenarios
+ManipLVM-R1: Reinforcement Learning for Reasoning in Embodied Manipulation with Large Vision-Language Models
+MMMR: Benchmarking Massive Multi-Modal Reasoning Tasks
+University of Indonesia at SemEval-2025 Task 11: Evaluating State-of-the-Art Encoders for Multi-Label Emotion Detection
+Is (Selective) Round-To-Nearest Quantization All You Need?
+Kogan, Alex
+Benchmarking Retrieval-Augmented Multimomal Generation for Document Question Answering
+Select2Reason: Efficient Instruction-Tuning Data Selection for Long-CoT Reasoning
+GreekBarBench: A Challenging Benchmark for Free-Text Legal Reasoning and Citations
+Enhancing Efficiency and Exploration in Reinforcement Learning for LLMs
+Autocomp: LLM-Driven Code Optimization for Tensor Accelerators
+The Quest for Efficient Reasoning: A Data-Centric Benchmark to CoT Distillation
+MMATH: A Multilingual Benchmark for Mathematical Reasoning
+MetaMind: Modeling Human Social Thoughts with Metacognitive Multi-Agent Systems
+TrajMoE: Spatially-Aware Mixture of Experts for Unified Human Mobility Modeling
+When Ethics and Payoffs Diverge: LLM Agents in Morally Charged Social Dilemmas
+Does Representation Intervention Really Identify Desired Concepts and Elicit Alignment?
+Co-PatcheR: Collaborative Software Patching with Component(s)-specific Small Reasoning Models
+LLaDA 1.5: Variance-Reduced Preference Optimization for Large Language Diffusion Models
+Self-reflective Uncertainties: Do LLMs Know Their Internal Answer Distribution?
+Reasoning LLMs are Wandering Solution Explorers
+Beyond Markovian: Reflective Exploration via Bayes-Adaptive RL for LLM Reasoning
+Maximizing Confidence Alone Improves Reasoning
+GuessArena: Guess Who I Am? A Self-Adaptive Framework for Evaluating LLMs in Domain-Specific Knowledge and Reasoning
+AutoL2S: Auto Long-Short Reasoning for Efficient Large Language Models
+Advancing Multimodal Reasoning via Reinforcement Learning with Cold Start
+Judging Quality Across Languages: A Multilingual Approach to Pretraining Data Filtering with Language Models
+Defining Foundation Models for Computational Science: A Call for Clarity and Rigor
+AdaCtrl: Towards Adaptive and Controllable Reasoning via Difficulty-Aware Budgeting
+On the Effect of Negative Gradient in Group Relative Deep Reinforcement Optimization
+Exploring the Potential of Offline RL for Reasoning in LLMs: A Preliminary Study
+Think in Safety: Unveiling and Mitigating Safety Alignment Collapse in Multimodal Large Reasoning Model
+UniEval: Unified Holistic Evaluation for Unified Multimodal Understanding and Generation
+The Evolving Landscape of Generative Large Language Models and Traditional Natural Language Processing in Medicine
+Benchmarking Spatiotemporal Reasoning in LLMs and Reasoning Models: Capabilities and Challenges
+Improving Assembly Code Performance with Large Language Models via Reinforcement Learning
+Why Not Act on What You Know? Unleashing Safety Potential of LLMs via Self-Aware Guard Enhancement
+Reward Inside the Model: A Lightweight Hidden-State Reward Model for LLM's Best-of-N sampling
+On-Policy Optimization with Group Equivalent Preference for Multi-Programming Language Understanding
+UIShift: Enhancing VLM-based GUI Agents through Self-supervised Reinforcement Learning
+Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO
+SophiaVL-R1: Reinforcing MLLMs Reasoning with Thinking Reward
+Let Androids Dream of Electric Sheep: A Human-like Image Implication Understanding and Reasoning Framework
+A Comprehensive Evaluation of Contemporary ML-Based Solvers for Combinatorial Optimization
+P2P: Automated Paper-to-Poster Generation and Fine-Grained Benchmark
+ARB: A Comprehensive Arabic Multimodal Reasoning Benchmark
+RRTL: Red Teaming Reasoning Large Language Models in Tool Learning
+Soft Thinking: Unlocking the Reasoning Potential of LLMs in Continuous Concept Space
+Large Language Models as Computable Approximations to Solomonoff Induction
+Doc-CoB: Enhancing Multi-Modal Document Understanding with Visual Chain-of-Boxes Reasoning
+Steering LLM Reasoning Through Bias-Only Adaptation
+Efficient Long CoT Reasoning in Small Language Models
+PM-KVQ: Progressive Mixed-precision KV Cache Quantization for Long-CoT LLMs
+Generative RLHF-V: Learning Principles from Multi-modal Human Preference
+VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning
+$μ$-MoE: Test-Time Pruning as Micro-Grained Mixture-of-Experts
+Reinforcement Fine-Tuning Powers Reasoning Capability of Multimodal Large Language Models
+SeRL: Self-Play Reinforcement Learning for Large Language Models with Limited Data
+Fundamental Limits of Game-Theoretic LLM Alignment: Smith Consistency and Preference Matching
+Adaptive Deep Reasoning: Triggering Deep Thinking When Needed
+Ground-R1: Incentivizing Grounded Visual Reasoning via Reinforcement Learning
+FunReason: Enhancing Large Language Models' Function Calling via Self-Refinement Multiscale Loss and Automated Data Refinement
+RICO: Improving Accuracy and Completeness in Image Recaptioning via Visual Reconstruction
+MEDAL: A Framework for Benchmarking LLMs as Multilingual Open-Domain Chatbots and Dialogue Evaluators
+LLMs Get Lost In Multi-Turn Conversation
+Implementing Long Text Style Transfer with LLMs through Dual-Layered Sentence and Paragraph Structure Extraction and Mapping
+Evaluating the Effectiveness of Black-Box Prompt Optimization as the Scale of LLMs Continues to Grow
+Toward Embodied AGI: A Review of Embodied AI and the Road Ahead
+PRL: Prompts from Reinforcement Learning
+Can Pruning Improve Reasoning? Revisiting Long-CoT Compression with Capability in Mind for Better Reasoning
+Table Foundation Models: on knowledge pre-training for tabular learning
+TransBench: Benchmarking Machine Translation for Industrial-Scale Applications
+s3: You Don't Need That Much Data to Train a Search Agent via RL
+Visual Agentic Reinforcement Fine-Tuning
+MindVote: How LLMs Predict Human Decision-Making in Social Media Polls
+TrimR: Verifier-based Training-Free Thinking Compression for Efficient Test-Time Scaling
+ConciseRL: Conciseness-Guided Reinforcement Learning for Efficient Reasoning Models
+AdaReasoner: Adaptive Reasoning Enables More Flexible Thinking
+DailyQA: A Benchmark to Evaluate Web Retrieval Augmented LLMs Based on Capturing Real-World Changes
+OCR-Reasoning Benchmark: Unveiling the True Capabilities of MLLMs in Complex Text-Rich Image Reasoning
+Longer Context, Deeper Thinking: Uncovering the Role of Long-Context Ability in Reasoning
+Curriculum Guided Reinforcement Learning for Efficient Multi Hop Retrieval Augmented Generation
+Can MLLMs Guide Me Home? A Benchmark Study on Fine-Grained Visual Reasoning from Transit Maps
+The Overthinker's DIET: Cutting Token Calories with DIfficulty-AwarE Training
+Hierarchical Retrieval with Evidence Curation for Open-Domain Financial Question Answering on Standardized Documents
+VisualToolAgent (VisTA): A Reinforcement Learning Framework for Visual Tool Selection
+What Changed? Detecting and Evaluating Instruction-Guided Image Edits with Multimodal Large Language Models
+TACO: Think-Answer Consistency for Optimized Long-Chain Reasoning and Efficient Data Learning via Reinforcement Learning in LVLMs
+EmoBench-UA: A Benchmark Dataset for Emotion Detection in Ukrainian
+Socratic-PRMBench: Benchmarking Process Reward Models with Systematic Reasoning Patterns
+Revisiting Overthinking in Long Chain-of-Thought from the Perspective of Self-Doubt
+GAM-Agent: Game-Theoretic and Uncertainty-Aware Collaboration for Complex Visual Reasoning
+Adversarial Semantic and Label Perturbation Attack for Pedestrian Attribute Recognition
+Qwen Look Again: Guiding Vision-Language Reasoning Models to Re-attention Visual Information
+Proximalized Preference Optimization for Diverse Feedback Types: A Decomposed Perspective on DPO
+Optimization Problem Solving Can Transition to Evolutionary Agentic Workflows
+VideoPath-LLaVA: Pathology Diagnostic Reasoning Through Video Instruction Tuning
+RAIDEN-R1: Improving Role-awareness of LLMs via GRPO with Verifiable Reward
+Pre-Act: Multi-Step Planning and Reasoning Improves Acting in LLM Agents
+UFO-RL: Uncertainty-Focused Optimization for Efficient Reinforcement Learning Data Selection
+ChemPile: A 250GB Diverse and Curated Dataset for Chemical Foundation Models
+Enhance Mobile Agents Thinking Process Via Iterative Preference Learning
+Graph-Reward-SQL: Execution-Free Reinforcement Learning for Text-to-SQL via Graph Matching and Stepwise Reward
+HBO: Hierarchical Balancing Optimization for Fine-Tuning Large Language Models
+R1dacted: Investigating Local Censorship in DeepSeek's R1 Language Model
+Data Whisperer: Efficient Data Selection for Task-Specific LLM Fine-Tuning via Few-Shot In-Context Learning
+LogicOCR: Do Your Large Multimodal Models Excel at Logical Reasoning on Text-Rich Images?
+Reward Reasoning Model
+TinyV: Reducing False Negatives in Verification Improves RL for LLM Reasoning
+Visionary-R1: Mitigating Shortcuts in Visual Reasoning with Reinforcement Learning
+Debating for Better Reasoning: An Unsupervised Multimodal Approach
+EasyMath: A 0-shot Math Benchmark for SLMs
+Two Experts Are All You Need for Steering Thinking: Reinforcing Cognitive Effort in MoE Reasoning Models Without Additional Training
+Addressing the Challenges of Planning Language Generation
+UniGen: Enhanced Training & Test-Time Strategies for Unified Multimodal Understanding and Generation
+Think Only When You Need with Large Hybrid-Reasoning Models
+Emerging Properties in Unified Multimodal Pretraining
+Mind the Gap: Bridging Thought Leap for Improved Chain-of-Thought Tuning
+Think Silently, Think Fast: Dynamic Latent Compression of LLM Reasoning Chains
+SSR-Zero: Simple Self-Rewarding Reinforcement Learning for Machine Translation
+MIDB: Multilingual Instruction Data Booster for Enhancing Multilingual Instruction Synthesis
+SMART: Self-Generating and Self-Validating Multi-Dimensional Assessment for LLMs' Mathematical Problem Solving
+Not All Tokens Are What You Need In Thinking
+The Real Barrier to LLM Agent Usability is Agentic ROI
+DoctorAgent-RL: A Multi-Agent Collaborative Reinforcement Learning System for Multi-Turn Clinical Dialogue
+Deciphering Trajectory-Aided LLM Reasoning: An Optimization Perspective
+A Snapshot of Influence: A Local Data Attribution Framework for Online Reinforcement Learning
+Faster and Better LLMs via Latency-Aware Test-Time Scaling
+Enigmata: Scaling Logical Reasoning in Large Language Models with Synthetic Verifiable Puzzles
+Interleaved Reasoning for Large Language Models via Reinforcement Learning
+What Makes a Good Reasoning Chain? Uncovering Structural Patterns in Long Chain-of-Thought Reasoning
+Satori-SWE: Evolutionary Test-Time Scaling for Sample-Efficient Software Engineering
+Mixture of Sparse Attention: Content-Based Learnable Sparse Attention via Expert-Choice Routing
+Enhancing LLMs' Clinical Reasoning with Real-World Data from a Nationwide Sepsis Registry
+A Survey of Slow Thinking-based Reasoning LLMs using Reinforced Learning and Inference-time Scaling Law
+FormalMATH: Benchmarking Formal Mathematical Reasoning of Large Language Models
+Replay to Remember (R2R): An Efficient Uncertainty-driven Unsupervised Continual Learning Framework Using Generative Replay
+Towards Artificial Intelligence Research Assistant for Expert-Involved Learning
+GroverGPT-2: Simulating Grover's Algorithm via Chain-of-Thought Reasoning and Quantum-Native Tokenization
+ConCISE: Confidence-guided Compression in Step-by-step Efficient Reasoning
+Absolute Zero: Reinforced Self-play Reasoning with Zero Data
+VCRBench: Exploring Long-form Causal Reasoning Capabilities of Large Video Language Models
+Learning from Peers in Reasoning Models
+Fixing 7,400 Bugs for 1$: Cheap Crash-Site Program Repair
+CSC-SQL: Corrective Self-Consistency in Text-to-SQL via Reinforcement Learning
+When Can Large Reasoning Models Save Thinking? Mechanistic Analysis of Behavioral Divergence in Reasoning
+StepSearch: Igniting LLMs Search Ability via Step-Wise Proximal Policy Optimization
+Web-Shepherd: Advancing PRMs for Reinforcing Web Agents
+RoT: Enhancing Table Reasoning with Iterative Row-Wise Traversals
+RL Tango: Reinforcing Generator and Verifier Together for Language Reasoning
+FOL-Pretrain: A complexity annotated corpus of first-order logic
+G1: Teaching LLMs to Reason on Graphs with Reinforcement Learning
+Advertising in AI systems: Society must be vigilant
+How Well Do Large Reasoning Models Translate? A Comprehensive Evaluation for Multi-Domain Machine Translation
+Beyond Prompt Engineering: Robust Behavior Control in LLMs via Steering Target Atoms
+Pangu Light: Weight Re-Initialization for Pruning and Accelerating LLMs
+PMOA-TTS: Introducing the PubMed Open Access Textual Times Series Corpus
+Incentivizing Strong Reasoning from Weak Supervision
+Guided by Gut: Efficient Test-Time Scaling with Reinforced Intrinsic Confidence
+Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents
+AGENTFUZZER: Generic Black-Box Fuzzing for Indirect Prompt Injection against LLM Agents
+Faster MoE LLM Inference for Extremely Large Models
+EchoInk-R1: Exploring Audio-Visual Reasoning in Multimodal LLMs via Reinforcement Learning
+Neural Brain: A Neuroscience-inspired Framework for Embodied Agents
+Large Language Models for Computer-Aided Design: A Survey
+On Next-Token Prediction in LLMs: How End Goals Determine the Consistency of Decoding Algorithms
+XtraGPT: LLMs for Human-AI Collaboration on Controllable Academic Paper Revision
+Patho-R1: A Multimodal Reinforcement Learning-Based Pathology Expert Reasoner
+EmotionHallucer: Evaluating Emotion Hallucinations in Multimodal Large Language Models
+Visual Planning: Let's Think Only with Images
+CARES: Comprehensive Evaluation of Safety and Adversarial Robustness in Medical LLMs
+SelfBudgeter: Adaptive Token Allocation for Efficient LLM Reasoning
+Search and Refine During Think: Autonomous Retrieval-Augmented Reasoning of LLMs
+PromptPrism: A Linguistically-Inspired Taxonomy for Prompts
+AD-AGENT: A Multi-agent Framework for End-to-end Anomaly Detection
+ReEx-SQL: Reasoning with Execution-Aware Reinforcement Learning for Text-to-SQL
+FlightGPT: Towards Generalizable and Interpretable UAV Vision-and-Language Navigation with Vision-Language Models
+PLAICraft: Large-Scale Time-Aligned Vision-Speech-Action Dataset for Embodied AI
+Rethinking Predictive Modeling for LLM Routing: When Simple kNN Beats Complex Learned Routers
+VisualQuality-R1: Reasoning-Induced Image Quality Assessment via Reinforcement Learning to Rank
+DISCO Balances the Scales: Adaptive Domain- and Difficulty-Aware Reinforcement Learning on Imbalanced Data
+Traveling Across Languages: Benchmarking Cross-Lingual Consistency in Multimodal LLMs
+Learning to Rank Chain-of-Thought: An Energy-Based Approach with Outcome Supervision
+ARPO:End-to-End Policy Optimization for GUI Agents with Experience Replay
+MASLab: A Unified and Comprehensive Codebase for LLM-based Multi-Agent Systems
+Plan and Budget: Effective and Efficient Test-Time Scaling on Large Language Model Reasoning
+EULER: Enhancing the Reasoning Ability of Large Language Models through Error-Induced Learning
+R2R: Efficiently Navigating Divergent Reasoning Paths with Small-Large Model Token Routing
+CombiBench: Benchmarking LLM Capability for Combinatorial Mathematics
+RobotxR1: Enabling Embodied Robotic Intelligence on Large Language Models through Closed-Loop Reinforcement Learning
+X-Reasoner: Towards Generalizable Reasoning Across Modalities and Domains
+Shadow Wireless Intelligence: Large Language Model-Driven Reasoning in Covert Communications
+Advancing and Benchmarking Personalized Tool Invocation for LLMs
+LLM-Flock: Decentralized Multi-Robot Flocking via Large Language Models and Influence-Based Consensus
+Scaling Laws for Speculative Decoding
+Scalable LLM Math Reasoning Acceleration with Low-rank Distillation
+Time-R1: Towards Comprehensive Temporal Reasoning in LLMs
+AdaptThink: Reasoning Models Can Learn When to Think
+HALO: Hierarchical Autonomous Logic-Oriented Orchestration for Multi-Agent LLM Systems
+MM-PRM: Enhancing Multimodal Mathematical Reasoning with Scalable Step-Level Supervision
+Logic Jailbreak: Efficiently Unlocking LLM Safety Restrictions Through Formal Logical Expression
+Think or Not? Exploring Thinking Efficiency in Large Reasoning Models via an Information-Theoretic Lens
+Understanding and Mitigating Overrefusal in LLMs from an Unveiling Perspective of Safety Decision Boundary
+Thought calibration: Efficient and confident test-time scaling
+Iterative Self-Incentivization Empowers Large Language Models as Agentic Searchers
+Vad-R1: Towards Video Anomaly Reasoning via Perception-to-Cognition Chain-of-Thought
+The Avengers: A Simple Recipe for Uniting Smaller Language Models to Challenge Proprietary Giants
+Point-RFT: Improving Multimodal Reasoning with Visually Grounded Reinforcement Finetuning
+Scaling External Knowledge Input Beyond Context Windows of LLMs via Multi-Agent Collaboration
+CoThink: Token-Efficient Reasoning via Instruct Models Guiding Reasoning Models
+Are Language Models Consequentialist or Deontological Moral Reasoners?
+ChemHAS: Hierarchical Agent Stacking for Enhancing Chemistry Tools
+Hardware-Efficient Attention for Fast Decoding
+Reinforcing General Reasoning without Verifiers
+Rethinking the Unsolvable: When In-Context Search Meets Test-Time Scaling
+Fostering Video Reasoning via Next-Event Prediction
+Compensating for Data with Reasoning: Low-Resource Machine Translation with LLMs
+Image Aesthetic Reasoning: A New Benchmark for Medical Image Screening with MLLMs
+VideoHallu: Evaluating and Mitigating Multi-modal Hallucinations on Synthetic Video Understanding
+FlowDubber: Movie Dubbing with LLM-based Semantic-aware Learning and Flow Matching based Voice Enhancing
+Towards Artificial General or Personalized Intelligence? A Survey on Foundation Models for Personalized Federated Intelligence
+PhysLLM: Harnessing Large Language Models for Cross-Modal Remote Physiological Sensing
+AC-Reason: Towards Theory-Guided Actual Causality Reasoning with Large Language Models
+MiMo: Unlocking the Reasoning Potential of Language Model -- From Pretraining to Posttraining
+LLM-BABYBENCH: Understanding and Evaluating Grounded Planning and Reasoning in LLMs
+CorBenchX: Large-Scale Chest X-Ray Error Dataset and Vision-Language Model Benchmark for Report Error Correction
+Don't "Overthink" Passage Reranking: Is Reasoning Truly Necessary?
+ABHINAYA -- A System for Speech Emotion Recognition In Naturalistic Conditions Challenge
+Deep Video Discovery: Agentic Search with Tool Use for Long-form Video Understanding
+Thinking Fast and Right: Balancing Accuracy and Reasoning Length with Adaptive Rewards
+Stable Reinforcement Learning for Efficient Reasoning
+Lost in the Haystack: Smaller Needles are More Difficult for LLMs to Find
+First Finish Search: Efficient Test-Time Scaling in Large Language Models
+NSNQuant: A Double Normalization Approach for Calibration-Free Low-Bit Vector Quantization of KV Cache
+Fann or Flop: A Multigenre, Multiera Benchmark for Arabic Poetry Understanding in LLMs
+ELDeR: Getting Efficient LLMs through Data-Driven Regularized Layer-wise Pruning
+ALPS: Attention Localization and Pruning Strategy for Efficient Alignment of Large Language Models
+Unveiling the Compositional Ability Gap in Vision-Language Reasoning Model
+Large Language Models for Planning: A Comprehensive and Systematic Survey
+VisCRA: A Visual Chain Reasoning Attack for Jailbreaking Multimodal Large Language Models
+Towards Video to Piano Music Generation with Chain-of-Perform Support Benchmarks
+Beyond Safe Answers: A Benchmark for Evaluating True Risk Awareness in Large Reasoning Models
+Done Is Better than Perfect: Unlocking Efficient Reasoning by Structured Multi-Turn Decomposition
+REARANK: Reasoning Re-ranking Agent via Reinforcement Learning
+What Can RL Bring to VLA Generalization? An Empirical Study
+CP-Router: An Uncertainty-Aware Router Between LLM and LRM
+The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models
+Training Language Models to Generate Quality Code with Program Analysis Feedback
+Scaling Reasoning without Attention
+Decomposing Elements of Problem Solving: What "Math" Does RL Teach?
+SAM-R1: Leveraging SAM for Reward Feedback in Multimodal Segmentation via Reinforcement Learning
+Pre-Training Curriculum for Multi-Token Prediction in Language Models
+Learning Composable Chains-of-Thought
+Scalable Chain of Thoughts via Elastic Reasoning
+RICo: Refined In-Context Contribution for Automatic Instruction-Tuning Data Selection
+Multi-modal Synthetic Data Training and Model Collapse: Insights from VLMs and Diffusion Models
+OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning
+Can Large Language Models Really Recognize Your Name?
+Void in Language Models
+Shemiranifar, Mani
+Self-Reasoning Language Models: Unfold Hidden Reasoning Chains with Few Reasoning Catalyst
+KORGym: A Dynamic Game Platform for LLM Reasoning Evaluation
+Reinforcement Learning vs. Distillation: Understanding Accuracy and Capability in LLM Reasoning
+Beyond the First Error: Process Reward Models for Reflective Mathematical Reasoning
+Exploring the Limits of Vision-Language-Action Manipulations in Cross-task Generalization
+Teaching Language Models to Evolve with Users: Dynamic Profile Modeling for Personalized Alignment
+From Problem-Solving to Teaching Problem-Solving: Aligning LLMs with Pedagogy using Reinforcement Learning
+Learn to Reason Efficiently with Adaptive Length-based Reward Shaping
+LENS: Multi-level Evaluation of Multimodal Reasoning with Large Language Models
+UniErase: Unlearning Token as a Universal Erasure Primitive for Language Models
+Subtle Risks, Critical Failures: A Framework for Diagnosing Physical Safety of LLMs for Embodied Decision Making
+NeuSym-RAG: Hybrid Neural Symbolic Retrieval with Multiview Structuring for PDF Question Answering
+Efficient Reasoning via Chain of Unconscious Thought
+Judging with Many Minds: Do More Perspectives Mean Less Prejudice?
+Divide and Conquer: Grounding LLMs as Efficient Decision-Making Agents via Offline Hierarchical Reinforcement Learning
+LeCoDe: A Benchmark Dataset for Interactive Legal Consultation Dialogue Evaluation
+DISCOVER: Automated Curricula for Sparse-Reward Reinforcement Learning
+Why Distillation can Outperform Zero-RL: The Role of Flexible Reasoning
+Automating eHMI Action Design with LLMs for Automated Vehicle Communication
+Rendering-Aware Reinforcement Learning for Vector Graphics Generation
+MUSEG: Reinforcing Video Temporal Understanding via Timestamp-Aware Multi-Segment Grounding
+Large Language Models as AI Agents for Digital Atoms and Molecules: Catalyzing a New Era in Computational Biophysics
+Retrieval-augmented in-context learning for multimodal large language models in disease classification
+ABKD: Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via $α$-$β$-Divergence
+Resist Platform-Controlled AI Agents and Champion User-Centric Agent Advocates
+Optimal Post-Hoc Theorizing
+Chen, Andrew Y.
+Towards Automated Situation Awareness: A RAG-Based Framework for Peacebuilding Reports
+IN-RIL: Interleaved Reinforcement and Imitation Learning for Policy Fine-Tuning
+Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models
+Position Paper: Bounded Alignment: What (Not) To Expect From AGI Agents
+Minai, Ali A.
+LifelongAgentBench: Evaluating LLM Agents as Lifelong Learners
+J1: Exploring Simple Test-Time Scaling for LLM-as-a-Judge
+Aux-Think: Exploring Reasoning Strategies for Data-Efficient Vision-Language Navigation
+DisCO: Reinforcing Large Reasoning Models with Discriminative Constrained Optimization
+Success is in the Details: Evaluate and Enhance Details Sensitivity of Code LLMs through Counterfactuals
+Rank-K: Test-Time Reasoning for Listwise Reranking
+Enhancing Visual Grounding for GUI Agents via Self-Evolutionary Reinforcement Learning
+MedAgentBoard: Benchmarking Multi-Agent Collaboration with Conventional Methods for Diverse Medical Tasks
+Seek-CAD: A Self-refined Generative Modeling for 3D Parametric CAD Using Local Inference via DeepSeek
+CIKT: A Collaborative and Iterative Knowledge Tracing Framework with Large Language Models
+Reasoning Meets Personalization: Unleashing the Potential of Large Reasoning Model for Personalized Generation
+PreMoe: Lightening MoEs on Constrained Memory by Expert Pruning and Retrieval
+USTBench: Benchmarking and Dissecting Spatiotemporal Reasoning of LLMs as Urban Agents
+SafeMVDrive: Multi-view Safety-Critical Driving Video Synthesis in the Real World Domain
+Rethinking the Sampling Criteria in Reinforcement Learning for LLM Reasoning: A Competence-Difficulty Alignment Perspective
+GeoGramBench: Benchmarking the Geometric Program Reasoning in Modern LLMs
+EVADE: Multimodal Benchmark for Evasive Content Detection in E-Commerce Applications
+R1-Code-Interpreter: Training LLMs to Reason with Code via Supervised and Reinforcement Learning
+SOSBENCH: Benchmarking Safety Alignment on Scientific Knowledge
+On the generalization of language models from in-context learning and finetuning: a controlled study
+MINERVA: Evaluating Complex Video Reasoning
+Sandcastles in the Storm: Revisiting the (Im)possibility of Strong Watermarking
+Token Communication-Driven Multimodal Large Models in Resource-Constrained Multiuser Networks
+Re$^2$: A Consistency-ensured Dataset for Full-stage Peer Review and Multi-turn Rebuttal Discussions
+MilChat: Introducing Chain of Thought Reasoning and GRPO to a Multimodal Small Language Model for Remote Sensing
+A Survey of Attacks on Large Language Models
+Ineq-Comp: Benchmarking Human-Intuitive Compositional Reasoning in Automated Theorem Proving on Inequalities
+Scalable Strategies for Continual Learning with Replay
+Hickok, Truman
+Incentivizing Multimodal Reasoning in Large Models for Direct Robot Manipulation
+Observe-R1: Unlocking Reasoning Abilities of MLLMs with Dynamic Progressive Reinforcement Learning
+WebNovelBench: Placing LLM Novelists on the Web Novel Distribution
+Multicrossmodal Automated Agent for Integrating Diverse Materials Science Data
+R-TOFU: Unlearning in Large Reasoning Models
+Prolonged Reasoning Is Not All You Need: Certainty-Based Adaptive Routing for Efficient LLM/MLLM Reasoning
+Your Language Model Can Secretly Write Like Humans: Contrastive Paraphrase Attacks on LLM-Generated Text Detectors
+lmgame-Bench: How Good are LLMs at Playing Games?
+When to Continue Thinking: Adaptive Thinking Mode Switching for Efficient Reasoning
+WebAgent-R1: Training Web Agents via End-to-End Multi-Turn Reinforcement Learning
+When Do LLMs Admit Their Mistakes? Understanding the Role of Model Belief in Retraction
+Think-RM: Enabling Long-Horizon Reasoning in Generative Reward Models
+Co-Reinforcement Learning for Unified Multimodal Understanding and Generation
+H2:Towards Efficient Large-Scale LLM Training on Hyper-Heterogeneous Cluster over 1,000 Chips
+Scaling Image and Video Generation via Test-Time Evolutionary Search
+Bridging Supervised Learning and Reinforcement Learning in Math Reasoning
+Towards Revealing the Effectiveness of Small-Scale Fine-tuning in R1-style Reinforcement Learning
+Outcome-based Reinforcement Learning to Predict the Future
+ProgRM: Build Better GUI Agents with Progress Rewards
+Arctic-Text2SQL-R1: Simple Rewards, Strong Reasoning in Text-to-SQL
+Def-DTS: Deductive Reasoning for Open-domain Dialogue Topic Segmentation
+Step-Wise Formal Verification for LLM-Based Mathematical Problem Solving
+Mustafar: Promoting Unstructured Sparsity for KV Cache Pruning in LLM Inference
+ER-REASON: A Benchmark Dataset for LLM-Based Clinical Reasoning in the Emergency Room
+From Token to Action: State Machine Reasoning to Mitigate Overthinking in Information Retrieval
+Enhancing Study-Level Inference from Clinical Trial Papers via RL-based Numeric Reasoning
+MenTeR: A fully-automated Multi-agenT workflow for end-to-end RF/Analog Circuits Netlist Design
+Helping Large Language Models Protect Themselves: An Enhanced Filtering and Summarization System
+Sailing AI by the Stars: A Survey of Learning from Rewards in Post-Training and Test-Time Scaling of Large Language Models
+Wu, Xiaobao
+Large Language Model-driven Security Assistant for Internet of Things via Chain-of-Thought
+Dialz: A Python Toolkit for Steering Vectors
+AKD : Adversarial Knowledge Distillation For Large Language Models Alignment on Coding tasks
+Seed1.5-VL Technical Report
+Measuring General Intelligence with Generated Games
+VideoRFT: Incentivizing Video Reasoning Capability in MLLMs via Reinforced Fine-Tuning
+SGDPO: Self-Guided Direct Preference Optimization for Language Model Alignment
+Learning to Play Like Humans: A Framework for LLM Adaptation in Interactive Fiction Games
+AdaCoT: Pareto-Optimal Adaptive Chain-of-Thought Triggering via Reinforcement Learning
+General-Reasoner: Advancing LLM Reasoning Across All Domains
+Let LLMs Break Free from Overthinking via Self-Braking Tuning
+SAFEPATH: Preventing Harmful Reasoning in Chain-of-Thought via Early Alignment
+SATBench: Benchmarking LLMs' Logical Reasoning via Automated Puzzle Generation from SAT Formulas
+ContextAgent: Context-Aware Proactive LLM Agents with Open-World Sensory Perceptions
+LIFEBench: Evaluating Length Instruction Following in Large Language Models
+AdaSTaR: Adaptive Data Sampling for Training Self-Taught Reasoners
+Divide-Fuse-Conquer: Eliciting "Aha Moments" in Multi-Scenario Games
+Training-Free Reasoning and Reflection in MLLMs
+Three Minds, One Legend: Jailbreak Large Reasoning Model with Adaptive Stacked Ciphers
+Offline Guarded Safe Reinforcement Learning for Medical Treatment Optimization Strategies
+ReflectEvo: Improving Meta Introspection of Small LLMs by Learning Self-Reflection
+Training with Pseudo-Code for Instruction Following
+VeriThinker: Learning to Verify Makes Reasoning Model Efficient
+Beyond Distillation: Pushing the Limits of Medical LLM Reasoning with Minimalist Rule-Based RL
+Counting Cycles with Deepseek
+Are Large Language Models Reliable AI Scientists? Assessing Reverse-Engineering of Black-Box Systems
+Reinforced Latent Reasoning for LLM-based Recommendation
+Route to Reason: Adaptive Routing for LLM and Reasoning Strategy Selection
+SATORI-R1: Incentivizing Multimodal Reasoning with Spatial Grounding and Verifiable Rewards
+MT$^{3}$: Scaling MLLM-based Text Image Machine Translation via Multi-Task Reinforcement Learning
+Decoupling Spatio-Temporal Prediction: When Lightweight Large Models Meet Adaptive Hypergraphs
+Concise Reasoning, Big Gains: Pruning Long Reasoning Trace with Difficulty-Aware Prompting
+SeePhys: Does Seeing Help Thinking? -- Benchmarking Vision-Based Physics Reasoning
+Surrogate Signals from Format and Length: Reinforcement Learning for Solving Mathematical Problems without Ground Truth Answers
+Style2Code: A Style-Controllable Code Generation Framework with Dual-Modal Contrastive Representation Learning
+A Provable Approach for End-to-End Safe Reinforcement Learning
+Don't Think Longer, Think Wisely: Optimizing Thinking Dynamics for Large Reasoning Models
+Test-Time Scaling with Repeated Sampling Improves Multilingual Text Generation
+MathArena: Evaluating LLMs on Uncontaminated Math Competitions
+Threading the Needle: Reweaving Chain-of-Thought Reasoning to Explain Human Label Variation
+UniRL: Self-Improving Unified Multimodal Models via Supervised and Reinforcement Learning
+Afterburner: Reinforcement Learning Facilitates Self-Improving Code Efficiency Optimization
+Open Challenges in Multi-Agent Security: Towards Secure Systems of Interacting AI Agents
+Schroeder de Witt, Christian
+Adaptive Thinking via Mode Policy Optimization for Social Language Agents
+Leveraging LLMs to Automate Energy-Aware Refactoring of Parallel Scientific Codes
+Ultra-FineWeb: Efficient Data Filtering and Verification for High-Quality LLM Training Data
+Nature's Insight: A Novel Framework and Comprehensive Analysis of Agentic Reasoning Through the Lens of Neuroscience
+CellTypeAgent: Trustworthy cell type annotation with Large Language Models
+CoIn: Counting the Invisible Reasoning Tokens in Commercial Opaque LLM APIs
+MM-Agent: LLM as Agents for Real-world Mathematical Modeling Problem
+Warm Up Before You Train: Unlocking General Reasoning in Resource-Constrained Settings
+Reasoning Path Compression: Compressing Generation Trajectories for Efficient LLM Reasoning
+Prior Prompt Engineering for Reinforcement Fine-Tuning
+Truth or Twist? Optimal Model Selection for Reliable Label Flipping Evaluation in LLM-based Counterfactuals
+Toward Effective Reinforcement Learning Fine-Tuning for Medical VQA in Vision-Language Models
+Process vs. Outcome Reward: Which is Better for Agentic RAG Reinforcement Learning
+AAPO: Enhance the Reasoning Capabilities of LLMs with Advantage Momentum
+Evaluating Large Language Model with Knowledge Oriented Language Specific Simple Question Answering
+Recursive Offloading for LLM Serving in Multi-tier Networks
+AdamS: Momentum Itself Can Be A Normalizer for LLM Pretraining and Post-training
+Internal Bias in Reasoning Models leads to Overthinking
+ReCopilot: Reverse Engineering Copilot in Binary Analysis
+Chain-of-Thought Poisoning Attacks against R1-based Retrieval-Augmented Generation Systems
+SATURN: SAT-based Reinforcement Learning to Unleash Language Model Reasoning
+Amplify Adjacent Token Differences: Enhancing Long Chain-of-Thought Reasoning with Shift-FFN
+VISTA: Vision-Language Inference for Training-Free Stock Time-Series Analysis
+Thinker: Learning to Think Fast and Slow
+Breaking the Ceiling: Exploring the Potential of Jailbreak Attacks through Expanding Strategy Space
+Towards Safety Reasoning in LLMs: AI-agentic Deliberation for Policy-embedded CoT Data Creation
+Reinforced Reasoning for Embodied Planning
+Scaling Offline RL via Efficient and Expressive Shortcut Models
+ToMAP: Training Opponent-Aware LLM Persuaders with Theory of Mind
+Mitigating Deceptive Alignment via Self-Monitoring
+LLMPrism: Black-box Performance Diagnosis for Production LLM Training Platforms
+Value Portrait: Understanding Values of LLMs with Human-aligned Benchmark
+Adaptive Stress Testing Black-Box LLM Planners
+Insights into DeepSeek-V3: Scaling Challenges and Reflections on Hardware for AI Architectures
+Teach2Eval: An Indirect Evaluation Method for LLM by Judging How It Teaches
+SEED-GRPO: Semantic Entropy Enhanced GRPO for Uncertainty-Aware Policy Optimization
+LOVE: Benchmarking and Evaluating Text-to-Video Generation and Video-to-Text Interpretation
+TinyRS-R1: Compact Multimodal Language Model for Remote Sensing
+GRIT: Teaching MLLMs to Think with Images
+LeTS: Learning to Think-and-Search via Process-and-Outcome Reward Hybridization
+Self-Training Large Language Models with Confident Reasoning
+Towards Evaluating Proactive Risk Awareness of Multimodal Language Models
+Value-Guided Search for Efficient Chain-of-Thought Reasoning
+Chain-of-Lure: A Synthetic Narrative-Driven Approach to Compromise Large Language Models
+Navigate the Unknown: Enhancing LLM Reasoning with Intrinsic Motivation Guided Exploration
+UI-Genie: A Self-Improving Approach for Iteratively Boosting MLLM-based Mobile GUI Agents
+Think Before You Diffuse: LLMs-Guided Physics-Aware Video Generation
+TabReason: A Reinforcement Learning-Enhanced Reasoning LLM for Explainable Tabular Data Prediction
+Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO
+Uncovering Bottlenecks and Optimizing Scientific Lab Workflows with Cycle Time Reduction Agents
+Fehlis, Yao
+OpenReview Should be Protected and Leveraged as a Community Asset for Research in the Era of Large Language Models
+Revisiting Group Relative Policy Optimization: Insights into On-Policy and Off-Policy Training
+Self-Generated In-Context Examples Improve LLM Agents for Sequential Decision-Making Tasks
+100 Days After DeepSeek-R1: A Survey on Replication Studies and More Directions for Reasoning Language Models
+CodeMixBench: Evaluating Large Language Models on Code Generation with Code-Mixed Prompts
+QualBench: Benchmarking Chinese LLMs with Localized Professional Qualifications for Vertical Domain Evaluation
+LLM-Augmented Chemical Synthesis and Design Decision Programs
+CellVerse: Do Large Language Models Really Understand Cell Biology?
+Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving
+FalseReject: A Resource for Improving Contextual Safety and Mitigating Over-Refusals in LLMs via Structured Reasoning
+BLEUBERI: BLEU is a surprisingly effective reward for instruction following
+HAPO: Training Language Models to Reason Concisely via History-Aware Policy Optimization
+Is PRM Necessary? Problem-Solving RL Implicitly Induces PRM Capability in LLMs
+Thinkless: LLM Learns When to Think
+R3: Robust Rubric-Agnostic Reward Models
+Hybrid Latent Reasoning via Reinforcement Learning
+Business as Rulesual: A Benchmark and Framework for Business Rule Flow Modeling with LLMs
+Dynamic Risk Assessments for Offensive Cybersecurity Agents
+Benchmarking Poisoning Attacks against Retrieval-Augmented Generation
+DDO: Dual-Decision Optimization via Multi-Agent Collaboration for LLM-Based Medical Consultation
+A Survey of LLM $\times$ DATA
+SCRum-9: Multilingual Stance Classification over Rumours on Social Media
+Capability-Based Scaling Laws for LLM Red-Teaming
+On Path to Multimodal Historical Reasoning: HistBench and HistAgent
+Language Model Distillation: A Temporal Difference Imitation Learning Perspective
+Omni-R1: Reinforcement Learning for Omnimodal Reasoning via Two-System Collaboration
+Safety Through Reasoning: An Empirical Study of Reasoning Guardrail Models
+ARM: Adaptive Reasoning Model
+Scaling over Scaling: Exploring Test-Time Scaling Pareto in Large Reasoning Models
+Lifelong Safety Alignment for Language Models
+Do LLMs have a Gender (Entropy) Bias?
+CRMArena-Pro: Holistic Assessment of LLM Agents Across Diverse Business Scenarios and Interactions
+Personalized Safety in LLMs: A Benchmark and A Planning-Based Agent Approach
+Personalisation or Prejudice? Addressing Geographic Bias in Hate Speech Detection using Debias Tuning in Large Language Models
+Towards Efficient Online Tuning of VLM Agents via Counterfactual Soft Reinforcement Learning
+Towards Embodiment Scaling Laws in Robot Locomotion
+WebGen-Bench: Evaluating LLMs on Generating Interactive and Functional Websites from Scratch
+Comparing Exploration-Exploitation Strategies of LLMs and Humans: Insights from Standard Multi-armed Bandit Tasks
+Analysing Safety Risks in LLMs Fine-Tuned with Pseudo-Malicious Cyber Security Data
+Token-Level Uncertainty Estimation for Large Language Model Reasoning
+Reinforcing Multi-Turn Reasoning in LLM Agents via Turn-Level Credit Assignment
+Search-Based Correction of Reasoning Chains for Language Models
+Self-Evolving Curriculum for LLM Reasoning
+Incorporating Token Usage into Prompting Strategy Evaluation
+Effective Reinforcement Learning for Reasoning in Language Models
+Humans Hallucinate Too: Language Models Identify and Correct Subjective Annotation Errors With Label-in-a-Haystack Prompts
+VeriFastScore: Speeding up long-form factuality evaluation
+Reasoning Model is Stubborn: Diagnosing Instruction Overriding in Reasoning Models
+Towards Robust Evaluation of STEM Education: Leveraging MLLMs in Project-Based Learning
+SWE-Dev: Evaluating and Training Autonomous Feature-Driven Software Development
+Foundation Models for Geospatial Reasoning: Assessing Capabilities of Large Language Models in Understanding Geometries and Topological Spatial Relations
+ExeSQL: Self-Taught Text-to-SQL Models with Execution-Driven Bootstrapping for SQL Dialects
+SALMONN-omni: A Standalone Speech LLM without Codec Injection for Full-duplex Conversation
+SELF: Self-Extend the Context Length With Logistic Growth Function
+LLM Access Shield: Domain-Specific LLM Framework for Privacy Policy Compliance
+Optimal Policy Minimum Bayesian Risk
+EasyDistill: A Comprehensive Toolkit for Effective Knowledge Distillation of Large Language Models
+SWE-rebench: An Automated Pipeline for Task Collection and Decontaminated Evaluation of Software Engineering Agents
+Beyond Templates: Dynamic Adaptation of Reasoning Demonstrations via Feasibility-Aware Exploration
+Can Language Models Understand Social Behavior in Clinical Conversations?
+Symbol-based entity marker highlighting for enhanced text mining in materials science with generative AI
+FloE: On-the-Fly MoE Inference on Memory-constrained GPU
+J1: Incentivizing Thinking in LLM-as-a-Judge via Reinforcement Learning
+Learning When to Think: Shaping Adaptive Reasoning in R1-Style Models via Multi-Stage RL
+PsyMem: Fine-grained psychological alignment and Explicit Memory Control for Advanced Role-Playing LLMs
+Step-wise Adaptive Integration of Supervised Fine-tuning and Reinforcement Learning for Task-Specific LLMs
+DGRO: Enhancing LLM Reasoning via Exploration-Exploitation Control and Reward Variance Management
+MindOmni: Unleashing Reasoning Generation in Vision Language Models with RGPO
+Detection and Mitigation of Hallucination in Large Reasoning Models: A Mechanistic Perspective
+TIME: A Multi-level Benchmark for Temporal Reasoning of LLMs in Real-World Scenarios
+Optimizing Retrieval Augmented Generation for Object Constraint Language
+ViC-Bench: Benchmarking Visual-Interleaved Chain-of-Thought Capability in MLLMs with Free-Style Intermediate State Representations
+UniVG-R1: Reasoning Guided Universal Visual Grounding with Reinforcement Learning
+Pierce the Mists, Greet the Sky: Decipher Knowledge Overshadowing via Knowledge Circuit Analysis
+Local Mixtures of Experts: Essentially Free Test-Time Training via Model Merging
+Mechanistic Fine-tuning for In-context Learning
+Emotional Supporters often Use Multiple Strategies in a Single Turn
+Misaligning Reasoning with Answers -- A Framework for Assessing LLM CoT Robustness
+Language Matters: How Do Multilingual Input and Reasoning Paths Affect Large Reasoning Models?
+Learning to Reason via Mixture-of-Thought for Logical Reasoning
+Distilling LLM Agent into Small Models with Retrieval and Code Tools
+Learning to Focus: Context Extraction for Efficient Code Vulnerability Detection with Language Models
+Activation Control for Efficiently Eliciting Long Chain-of-thought Ability of Language Models
+Reason-Align-Respond: Aligning LLM Reasoning with Knowledge Graphs for KGQA
+Chain-of-Thought Tokens are Computer Program Variables
+DRA-GRPO: Exploring Diversity-Aware Reward Adjustment for R1-Zero-Like Training of Large Language Models
+Contextual Phenotyping of Pediatric Sepsis Cohort Using Large Language Models
+SoftCoT++: Test-Time Scaling with Soft Chain-of-Thought Reasoning
+HessFormer: Hessians at Foundation Scale
+Granziol, Diego
+Reinforcement Learning Finetunes Small Subnetworks in Large Language Models
+REMOR: Automated Peer Review Generation with LLM Reasoning and Multi-Objective Reinforcement Learning
+Rethinking Optimal Verification Granularity for Compute-Efficient Test-Time Scaling
+Efficient Uncertainty Estimation via Distillation of Bayesian Large Language Models
+Automated scientific minimization of regret
+QwenLong-L1: Towards Long-Context Large Reasoning Models with Reinforcement Learning
+Don't Overthink it. Preferring Shorter Thinking Chains for Improved LLM Reasoning
+Fast Quiet-STaR: Thinking Without Thought Tokens
+Rethinking Agent Design: From Top-Down Workflows to Bottom-Up Skill Evolution
+Behavior Injection: Preparing Language Models for Reinforcement Learning
+Pedagogy-R1: Pedagogically-Aligned Reasoning Model with Balanced Educational Benchmark
+Exploring the Vulnerability of the Content Moderation Guardrail in Large Language Models via Intent Manipulation
+TAG-INSTRUCT: Controlled Instruction Complexity Enhancement through Structure-based Augmentation
+Invisible Tokens, Visible Bills: The Urgent Need to Audit Hidden Operations in Opaque LLM Services
+$C^3$-Bench: The Things Real Disturbing LLM based Agent in Multi-Tasking
+Can Large Language Models Infer Causal Relationships from Real-World Text?
+LLM-QFL: Distilling Large Language Model for Quantum Federated Learning
+Efficient Large Language Model Inference with Neural Block Linearization
+TAT-R1: Terminology-Aware Translation with Reinforcement Learning and Word Alignment
+MME-Reasoning: A Comprehensive Benchmark for Logical Reasoning in MLLMs
+Who Reasons in the Large Language Models?
+Walk Before You Run! Concise LLM Reasoning via Reinforcement Learning
+How does Transformer Learn Implicit Reasoning?
+Llama-Nemotron: Efficient Reasoning Models
+Kalman Filter Enhanced GRPO for Reinforcement Learning-Based Language Model Reasoning
+How well do LLMs reason over tabular data, really?
+Assessing the Chemical Intelligence of Large Language Models
+AGI-Elo: How Far Are We From Mastering A Task?
+A Token is Worth over 1,000 Tokens: Efficient Knowledge Distillation through Low-Rank Clone
+Shadow-FT: Tuning Instruct via Base
+ToTRL: Unlock LLM Tree-of-Thoughts Reasoning Potential through Puzzles Solving
+Do Not Let Low-Probability Tokens Over-Dominate in RL for LLMs
+LEXam: Benchmarking Legal Reasoning on 340 Law Exams
+FLASH-D: FlashAttention with Hidden Softmax Division
+Activation-Guided Consensus Merging for Large Language Models
+Legal Rule Induction: Towards Generalizable Principle Discovery from Analogous Judicial Precedents
+Scaling Laws for State Dynamics in Large Language Models
+Can Large Language Models Understand Internet Buzzwords Through User-Generated Content
+The Energy Cost of Reasoning: Analyzing Energy Usage in LLMs with Test-time Compute
+NOVER: Incentive Training for Language Models via Verifier-Free Reinforcement Learning
+Dynamic Sampling that Adapts: Iterative DPO for Self-Aware Mathematical Reasoning
+Children's Mental Models of AI Reasoning: Implications for AI Literacy Education
+OpenEthics: A Comprehensive Ethical Evaluation of Open-Source Generative Large Language Models
+SafeKey: Amplifying Aha-Moment Insights for Safety Reasoning
+PhyX: Does Your Model Have the "Wits" for Physical Reasoning?
+R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMs via Reinforcement Learning
+T2I-ConBench: Text-to-Image Benchmark for Continual Post-training
+Reinforcing Question Answering Agents with Minimalist Policy Gradient Optimization
+NovelSeek: When Agent Becomes the Scientist -- Building Closed-Loop System from Hypothesis to Verification
+AGENTIF: Benchmarking Instruction Following of Large Language Models in Agentic Scenarios
+Interactive Post-Training for Vision-Language-Action Models
+DanmakuTPPBench: A Multi-modal Benchmark for Temporal Point Process Modeling and Understanding
+RFTF: Reinforcement Fine-tuning for Embodied Agents with Temporal Feedback
+CoTGuard: Using Chain-of-Thought Triggering for Copyright Protection in Multi-Agent LLM Systems
+Which Data Attributes Stimulate Math and Code Reasoning? An Investigation via Influence Functions
+Learning to Reason without External Rewards
+REA-RL: Reflection-Aware Online Reinforcement Learning for Efficient Large Reasoning Models
+An Explainable Diagnostic Framework for Neurodegenerative Dementias via Reinforcement-Optimized LLM Reasoning
+Speculative Decoding Meets Quantization: Compatibility Evaluation and Hierarchical Framework Design
+VRAG-RL: Empower Vision-Perception-Based RAG for Visually Rich Information Understanding via Iterative Reasoning with Reinforcement Learning
+AI Mathematician: Towards Fully Automated Frontier Mathematical Research
+Unsupervised Post-Training for Multi-Modal LLM Reasoning via GRPO
+Pangu Embedded: An Efficient Dual-system LLM Reasoner with Metacognition
+Can Large Language Models Trigger a Paradigm Shift in Travel Behavior Modeling? Experiences with Modeling Travel Satisfaction
+Infi-MMR: Curriculum-based Unlocking Multimodal Reasoning via Phased Reinforcement Learning in Multimodal Small Language Models
+DIP-R1: Deep Inspection and Perception with RL Looking Through and Understanding Complex Scenes
+Case-Based Reasoning Enhances the Predictive Power of LLMs in Drug-Drug Interaction
+VideoReasonBench: Can MLLMs Perform Vision-Centric Complex Video Reasoning?
+EL4NER: Ensemble Learning for Named Entity Recognition via Multiple Small-Parameter Large Language Models
+Agentic Robot: A Brain-Inspired Framework for Vision-Language-Action Models in Embodied Agents
+Benchmarking LLMs' Swarm intelligence
+SToLa: Self-Adaptive Touch-Language Framework with Tactile Commonsense Reasoning in Open-Ended Scenarios
+Architectural Precedents for General Agents using Large Language Models
+Superposition Yields Robust Neural Scaling
+When Thinking Fails: The Pitfalls of Reasoning for Instruction-Following in LLMs
+ALAS: A Stateful Multi-LLM Agent Framework for Disruption-Aware Planning
+EpiLLM: Unlocking the Potential of Large Language Models in Epidemic Forecasting
+How Should We Enhance the Safety of Large Reasoning Models: An Empirical Study
+Leveraging Large Language Models for Command Injection Vulnerability Analysis in Python: An Empirical Study on Popular Open-Source Projects
+ReGUIDE: Data Efficient GUI Grounding via Spatial Reasoning and Search
+Harnessing Caption Detailness for Data-Efficient Text-to-Image Generation
+SciCUEval: A Comprehensive Dataset for Evaluating Scientific Context Understanding in Large Language Models
+SEPS: A Separability Measure for Robust Unlearning in LLMs
+How Can I Publish My LLM Benchmark Without Giving the True Answers Away?
+Learning to Choose or Choosing to Learn: Best-of-N vs. Supervised Fine-Tuning for Bit String Generation
+PD$^3$: A Project Duplication Detection Framework via Adapted Multi-Agent Debate
+DASH: Input-Aware Dynamic Layer Skipping for Efficient LLM Inference with Markov Decision Policies
+T$^2$: An Adaptive Test-Time Scaling Strategy for Contextual Question Answering
+Dissecting Physics Reasoning in Small Language Models: A Multi-Dimensional Analysis from an Educational Perspective
+Reward-SQL: Boosting Text-to-SQL via Stepwise Reasoning and Process-Supervised Rewards
+Not that Groove: Zero-Shot Symbolic Music Editing
+Audio Turing Test: Benchmarking the Human-likeness of Large Language Model-based Text-to-Speech Systems in Chinese
+RL in Name Only? Analyzing the Structural Assumptions in RL post-training for LLMs
+Ice Cream Doesn't Cause Drowning: Benchmarking LLMs Against Statistical Pitfalls in Causal Inference
+FlashThink: An Early Exit Method For Efficient Reasoning
+Beyond Semantics: The Unreasonable Effectiveness of Reasonless Intermediate Tokens
+SHARP: Synthesizing High-quality Aligned Reasoning Problems for Large Reasoning Models Reinforcement Learning
+An Empirical Study on Reinforcement Learning for Reasoning-Search Interleaved LLM Agents
+Pass@K Policy Optimization: Solving Harder Reinforcement Learning Problems
+X-WebAgentBench: A Multilingual Interactive Web Benchmark for Evaluating Global Agentic System
+Deliberation on Priors: Trustworthy Reasoning of Large Language Models on Knowledge Graphs
+AgentThink: A Unified Framework for Tool-Augmented Chain-of-Thought Reasoning in Vision-Language Models for Autonomous Driving
+Frankentext: Stitching random text fragments into long-form narratives
+One RL to See Them All: Visual Triple Unified Reinforcement Learning
+KTAE: A Model-Free Algorithm to Key-Tokens Advantage Estimation in Mathematical Reasoning
+RBench-V: A Primary Assessment for Visual Reasoning Models with Multi-modal Outputs
+Fact-R1: Towards Explainable Video Misinformation Detection with Deep Reasoning
+LaViDa: A Large Diffusion Language Model for Multimodal Understanding
+UFT: Unifying Supervised and Reinforcement Fine-Tuning
+OrgAccess: A Benchmark for Role Based Access Control in Organization Scale LLMs
+CODE-DITING: A Reasoning-Based Metric for Functional Alignment in Code Evaluation
+PATS: Process-Level Adaptive Thinking Mode Switching
+Knoll: Creating a Knowledge Ecosystem for Large Language Models
+Jailbreak Distillation: Renewable Safety Benchmarking
+OmniAD: Detect and Understand Industrial Anomaly via Multimodal Reasoning
+Accelerating RLHF Training with Reward Variance Increase
+Scalable Complexity Control Facilitates Reasoning Ability of LLMs
+Foundation Models in Agriculture: A Comprehensive Review
+Improved Visual-Spatial Reasoning via R1-Zero-Like Training
+VNJPTranslate: A comprehensive pipeline for Vietnamese-Japanese translation
+GraphMaster: Automated Graph Synthesis via LLM Agents in Data-Limited Environments
+Hawkeye:Efficient Reasoning with Model Collaboration
+GenPRM: Scaling Test-Time Compute of Process Reward Models via Generative Reasoning
+Holistic Capability Preservation: Towards Compact Yet Comprehensive Reasoning Models
+PRM-BAS: Enhancing Multimodal Reasoning through PRM-guided Beam Annealing Search
+Can LLMs Generate Tabular Summaries of Science Papers? Rethinking the Evaluation Protocol
+FlowReasoner: Reinforcing Query-Level Meta-Agents
+Leveraging Language Models for Automated Patient Record Linkage
+Roll the dice & look before you leap: Going beyond the creative limits of next-token prediction
+Private Federated Learning using Preference-Optimized Synthetic Data
+BadMoE: Backdooring Mixture-of-Experts LLMs via Optimizing Routing Triggers and Infecting Dormant Experts
+Toward Evaluative Thinking: Meta Policy Optimization with Evolving Reward Models
+GenTorrent: Scaling Large Language Model Serving with An Overley Network
+Phi-4-reasoning Technical Report
+When Reasoning Meets Compression: Benchmarking Compressed Large Reasoning Models on Complex Reasoning Tasks
+Quantization Hurts Reasoning? An Empirical Study on Quantized Reasoning Models
+Collab-RAG: Boosting Retrieval-Augmented Generation for Complex Question Answering via White-Box and Black-Box LLM Collaboration
+Token Level Routing Inference System for Edge Devices
+VCR-Bench: A Comprehensive Evaluation Framework for Video Chain-of-Thought Reasoning
+SpecReason: Fast and Accurate Inference-Time Compute via Speculative Reasoning
+Echo Chamber: RL Post-training Amplifies Behaviors Learned in Pretraining
+GRPO-LEAD: A Difficulty-Aware Reinforcement Learning Approach for Concise Mathematical Reasoning in Language Models
+Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning
+PestMA: LLM-based Multi-Agent System for Informed Pest Management
+Reasoning Models Can Be Effective Without Thinking
+Reasoning without Regret
+Chitra, Tarun
+DUMP: Automated Distribution-Level Curriculum Learning for RL-based LLM Post-training
+Evaluating the Diversity and Quality of LLM Generated Content
+ReasoningV: Efficient Verilog Code Generation with Adaptive Hybrid Reasoning Model
+Efficient Pretraining Length Scaling
+VLM as Policy: Common-Law Content Moderation Framework for Short Video Platform
+Contemplative Wisdom for Superalignment
+Think2SQL: Reinforce LLM Reasoning Capabilities for Text2SQL
+DATETIME: A new benchmark to measure LLM translation and reasoning capabilities
+Energy Considerations of Large Language Model Inference and Efficiency Optimizations
+Contextures: The Mechanism of Representation Learning
+Zhai, Runtian
+Agentic Reasoning and Tool Integration for LLMs via Reinforcement Learning
+Robustly identifying concepts introduced during chat fine-tuning using crosscoders
+Short-PHD: Detecting Short LLM-generated Text with Topological Data Analysis After Off-topic Content Insertion
+TheBlueScrubs-v1, a comprehensive curated medical dataset derived from the internet
+Multi-Mission Tool Bench: Assessing the Robustness of LLM based Agents through Related and Dynamic Missions
+Multimodal Fusion and Vision-Language Models: A Survey for Robot Vision
+ProbRes: Probabilistic Jump Diffusion for Open-World Egocentric Activity Recognition
+Do LLM Evaluators Prefer Themselves for a Reason?
+OmniCaptioner: One Captioner to Rule Them All
+Automating quantum feature map design via large language models
+ControlNET: A Firewall for RAG-based LLM System
+Integrating Large Language Models for Automated Structural Analysis
+Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces!
+Finding Flawed Fictions: Evaluating Complex Reasoning in Language Models via Plot Hole Detection
+CodeCrash: Stress Testing LLM Reasoning under Structural and Semantic Perturbations
+Meta-rater: A Multi-dimensional Data Selection Method for Pre-training Language Models
+Nemotron-CrossThink: Scaling Self-Learning beyond Math Reasoning
+Context-Enhanced Vulnerability Detection Based on Large Language Model
+IberBench: LLM Evaluation on Iberian Languages
+Z1: Efficient Test-time Scaling with Code
+Recitation over Reasoning: How Cutting-Edge Language Models Can Fail on Elementary School-Level Reasoning Problems?
+MedReason: Eliciting Factual Medical Reasoning Steps in LLMs via Knowledge Graphs
+Trust Region Preference Approximation: A simple and stable reinforcement learning algorithm for LLM reasoning
+A Multimedia Analytics Model for the Foundation Model Era
+Towards Effective EU E-Participation: The Development of AskThePublic
+Online Difficulty Filtering for Reasoning Oriented Reinforcement Learning
+Adversarial Training of Reward Models
+VL-Rethinker: Incentivizing Self-Reflection of Vision-Language Models with Reinforcement Learning
+BenchQC -- Scalable and modular benchmarking of industrial quantum computing applications
+LearNAT: Learning NL2SQL with AST-guided Task Decomposition for Large Language Models
+AnesBench: Multi-Dimensional Evaluation of LLM Reasoning in Anesthesiology
+F5R-TTS: Improving Flow-Matching based Text-to-Speech with Group Relative Policy Optimization
+Understanding Aha Moments: from External Observations to Internal Mechanisms
+LLM Library Learning Fails: A LEGO-Prover Case Study
+scAgent: Universal Single-Cell Annotation via a LLM Agent
+R2Vul: Learning to Reason about Software Vulnerabilities with Reinforcement Learning and Structured Reasoning Distillation
+LagKV: Lag-Relative Information of the KV Cache Tells Which Tokens Are Important
+Schemex: Interactive Structural Abstraction from Examples with Contrastive Refinement
+The Role of Open-Source LLMs in Shaping the Future of GeoAI
+LawFlow : Collecting and Simulating Lawyers' Thought Processes
+Schneider, Johannes
+Think When You Need: Self-Adaptive Chain-of-Thought Learning
+Do PhD-level LLMs Truly Grasp Elementary Addition? Probing Rule Learning vs. Memorization in Large Language Models
+Reasoning Models Know When They're Right: Probing Hidden States for Self-Verification
+FingER: Content Aware Fine-grained Evaluation with Reasoning for AI-Generated Videos
+S1-Bench: A Simple Benchmark for Evaluating System 1 Thinking Capability of Large Reasoning Models
+Heimdall: test-time scaling on the generative verification
+Exploring Persona-dependent LLM Alignment for the Moral Machine Experiment
+Think Deep, Think Fast: Investigating Efficiency of Verifier-free Inference-time-scaling Methods
+ToolRL: Reward is All Tool Learning Needs
+Reinforcement Learning for Reasoning in Large Language Models with One Training Example
+RV-Syn: Rational and Verifiable Mathematical Reasoning Data Synthesis based on Structured Function Library
+CodeFlowBench: A Multi-turn, Iterative Benchmark for Complex Code Generation
+Command A: An Enterprise-Ready Large Language Model
+Team Cohere; :; Aakanksha and 227 more
+FortisAVQA and MAVEN: a Benchmark Dataset and Debiasing Framework for Robust Multimodal Reasoning
+Affordable AI Assistants with Knowledge Graph of Thoughts
+Have Large Language Models Learned to Reason? A Characterization via 3-SAT Phase Transition
+YaleNLP @ PerAnsSumm 2025: Multi-Perspective Integration via Mixture-of-Agents for Enhanced Healthcare QA Summarization
+Among Us: A Sandbox for Measuring and Detecting Agentic Deception
+Astrometric Parallax Measurements with JWST for Localization of Near-Earth Objects
+Distillation and Refinement of Reasoning in Small Language Models for Document Re-ranking
+Supervised Optimism Correction: Be Confident When LLMs Are Sure
+DeduCE: Deductive Consistency as a Framework to Evaluate LLM Reasoning
+Wangni, Jianqiao
+SocioVerse: A World Model for Social Simulation Powered by LLM Agents and A Pool of 10 Million Real-World Users
+RealSafe-R1: Safety-Aligned DeepSeek-R1 without Compromising Reasoning Capability
+CameraBench: Benchmarking Visual Reasoning in MLLMs via Photography
+The Future of MLLM Prompting is Adaptive: A Comprehensive Experimental Evaluation of Prompt Engineering Methods for Robust Multimodal Performance
+Deep Reasoning Translation via Reinforcement Learning
+CM3AE: A Unified RGB Frame and Event-Voxel/-Frame Pre-training Framework
+Speculative Thinking: Enhancing Small-Model Reasoning with Large Model Guidance at Inference Time
+Tina: Tiny Reasoning Models via LoRA
+TrustGeoGen: Scalable and Formal-Verified Data Engine for Trustworthy Multi-modal Geometric Problem Solving
+FinDER: Financial Dataset for Question Answering and Evaluating Retrieval-Augmented Generation
+Dynamic Early Exit in Reasoning Models
+PolyMath: Evaluating Mathematical Reasoning in Multilingual Contexts
+Pushing the boundary on Natural Language Inference
+Reason Like a Radiologist: Chain-of-Thought and Reinforcement Learning for Verifiable Report Generation
+Fast-Slow Thinking for Large Vision-Language Model Reasoning
+Training Large Language Models to Reason via EM Policy Gradient
+Xu, Tianbing
+GVPO: Group Variance Policy Optimization for Large Language Model Post-Training
+BiasGuard: A Reasoning-enhanced Bias Detection Tool For Large Language Models
+Confidence in Large Language Model Evaluation: A Bayesian Approach to Limited-Sample Challenges
+Phi-4-Mini-Reasoning: Exploring the Limits of Small Reasoning Language Models in Math
+Covert Prompt Transmission for Secure Large Language Model Services
+Multilingual and Multi-Accent Jailbreaking of Audio LLMs
+T1: Tool-integrated Self-verification for Test-time Compute Scaling in Small Language Models
+Weak-for-Strong: Training Weak Meta-Agent to Harness Strong Executors
+Foundation Models for Software Engineering of Cyber-Physical Systems: the Road Ahead
+Synthetic Data Generation & Multi-Step RL for Reasoning & Tool Use
+M2IV: Towards Efficient and Fine-grained Multimodal In-Context Learning in Large Vision-Language Models
+ELT-Bench: An End-to-End Benchmark for Evaluating AI Agents on ELT Pipelines
+Nondeterministic Polynomial-time Problem Challenge: An Ever-Scaling Reasoning Benchmark for LLMs
+Evaluating Multi-Hop Reasoning in Large Language Models: A Chemistry-Centric Case Study
+DRAGON: Distributional Rewards Optimize Diffusion Generative Models
+Even Small Reasoners Should Quote Their Sources: Introducing the Pleias-RAG Model Family
+Doxing via the Lens: Revealing Privacy Leakage in Image Geolocation for Agentic Multi-Modal Large Reasoning Model
+ShorterBetter: Guiding Reasoning Models to Find Optimal Inference Length for Efficient Reasoning
+LLM-Empowered Embodied Agent for Memory-Augmented Task Planning in Household Robotics
+LexPam: Legal Procedure Awareness-Guided Mathematical Reasoning
+CrystalFormer-RL: Reinforcement Fine-Tuning for Materials Design
+Multi-SWE-bench: A Multilingual Benchmark for Issue Resolving
+Sensitivity Meets Sparsity: The Impact of Extremely Sparse Parameter Patterns on Theory-of-Mind of Large Language Models
+Geo-OLM: Enabling Sustainable Earth Observation Studies with Cost-Efficient Open Language Models & State-Driven Workflows
+COIG-P: A High-Quality and Large-Scale Chinese Preference Dataset for Alignment with Human Values
+Playpen: An Environment for Exploring Learning Through Conversational Interaction
+SQL-R1: Training Natural Language to SQL Reasoning Model By Reinforcement Learning
+Unveiling Challenges for LLMs in Enterprise Data Engineering
+LangCoop: Collaborative Driving with Language
+Prejudge-Before-Think: Enhancing Large Language Models at Test-Time by Process Prejudge Reasoning
+DianJin-R1: Evaluating and Enhancing Financial Reasoning in Large Language Models
+L3: DIMM-PIM Integrated Architecture and Coordination for Scalable Long-Context LLM Inference
+Efficient Reasoning for LLMs through Speculative Chain-of-Thought
+AegisLLM: Scaling Agentic Systems for Self-Reflective Defense in LLM Security
+ChestX-Reasoner: Advancing Radiology Foundation Models with Reasoning through Step-by-Step Verification
+Toward Efficient Exploration by Large Language Model Agents
+Nemotron-Research-Tool-N1: Exploring Tool-Using Language Models with Reinforced Reasoning
+Between Underthinking and Overthinking: An Empirical Study of Reasoning Length and correctness in LLMs
+Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems
+Large Language Model powered Symbolic Execution
+Adaptive Rectification Sampling for Test-Time Compute Scaling
+Do Theory of Mind Benchmarks Need Explicit Human-like Reasoning in Language Models?
+SpaceR: Reinforcing MLLMs in Video Spatial Reasoning
+Reasoning LLMs for User-Aware Multimodal Conversational Agents
+ThinkPrune: Pruning Long Chain-of-Thought of LLMs via Reinforcement Learning
+STAR-1: Safer Alignment of Reasoning LLMs with 1K Data
+Retro-Search: Exploring Untaken Paths for Deeper and Efficient Reasoning
+Cognitive Debiasing Large Language Models for Decision-Making
+Reasoning on Multiple Needles In A Haystack
+Wang, Yidong
+GlotEval: A Test Suite for Massively Multilingual Evaluation of Large Language Models
+MDK12-Bench: A Multi-Discipline Benchmark for Evaluating Reasoning in Multimodal Large Language Models
+PathGPT: Leveraging Large Language Models for Personalized Route Generation
+Reasoning Towards Fairness: Mitigating Bias in Language Models through Reasoning-Guided Fine-Tuning
+Evaluating the Generalization Capabilities of Large Language Models on Code Reasoning
+Efficient Reinforcement Finetuning via Adaptive Curriculum Learning
+TP-RAG: Benchmarking Retrieval-Augmented Large Language Model Agents for Spatiotemporal-Aware Travel Planning
+SeaView: Software Engineering Agent Visual Interface for Enhanced Workflow
+Large Language Models as Span Annotators
+SLOs-Serve: Optimized Serving of Multi-SLO LLMs
+PRIMA.CPP: Speeding Up 70B-Scale LLM Inference on Low-Resource Everyday Home Clusters
+Enhancing Autonomous Driving Systems with On-Board Deployed Large Language Models
+SFT or RL? An Early Investigation into Training R1-Like Reasoning Large Vision-Language Models
+Are AI agents the new machine translation frontier? Challenges and opportunities of single- and multi-agent systems for multilingual digital communication
+Briva-Iglesias, Vicent
+SARI: Structured Audio Reasoning via Curriculum-Guided Reinforcement Learning
+Synergizing RAG and Reasoning: A Systematic Review
+Reasoning Physical Video Generation with Diffusion Timestep Tokens via Reinforcement Learning
+Token-Aware Coding Flow: A Study with Nano Surge in Reasoning Model
+Dargana: fine-tuning EarthPT for dynamic tree canopy mapping from space
+DeepDistill: Enhancing LLM Reasoning Capabilities via Large-Scale Difficulty-Graded Data Training
+Beyond the Last Answer: Your Reasoning Trace Uncovers More than You Think
+Automatic Legal Writing Evaluation of LLMs
+Can LLMs Grasp Implicit Cultural Values? Benchmarking LLMs' Metacognitive Cultural Intelligence with CQ-Bench
+Style over Substance: Distilled Language Models Reason Via Stylistic Replication
+m1: Unleash the Potential of Test-Time Scaling for Medical Reasoning with Large Language Models
+Evaluating Knowledge Graph Based Retrieval Augmented Generation Methods under Knowledge Incompleteness
+DeepSeek-R1 Thoughtology: Let's think about LLM Reasoning
+SEAL: Steerable Reasoning Calibration of Large Language Models for Free
+SoTA with Less: MCTS-Guided Sample Selection for Data-Efficient Visual Reasoning Self-Improvement
+TAMP: Token-Adaptive Layerwise Pruning in Multimodal Large Language Models
+70% Size, 100% Accuracy: Lossless LLM Compression for Efficient GPU Inference via Dynamic-Length Float
+Recent Advance in 3D Object and Scene Generation: A Survey
+Climbing the Ladder of Reasoning: What LLMs Can-and Still Can't-Solve after SFT?
+Not All Rollouts are Useful: Down-Sampling Rollouts in LLM Reinforcement Learning
+The Human Robot Social Interaction (HSRI) Dataset: Benchmarking Foundational Models' Social Reasoning
+SplitReason: Learning To Offload Reasoning
+TeLLMe: An Energy-Efficient Ternary LLM Accelerator for Prefilling and Decoding on Edge FPGAs
+Effective Length Extrapolation via Dimension-Wise Positional Embeddings Manipulation
+ThinkFL: Self-Refining Failure Localization for Microservice Systems via Reinforcement Fine-Tuning
+A Survey of Scaling in Large Language Model Reasoning
+Reasoning Under 1 Billion: Memory-Augmented Reinforcement Learning for Large Language Models
+Missing Premise exacerbates Overthinking: Are Reasoning Models losing Critical Thinking Skill?
+CodeRAG: Supportive Code Retrieval on Bigraph for Real-World Code Generation
+Guiding Reasoning in Small Language Models with LLM Assistance
+A Strategic Coordination Framework of Small LLMs Matches Large LLMs in Data Synthesis
+GeoSense: Evaluating Identification and Application of Geometric Principles in Multimodal Reasoning
+Reinforcement Learning from Human Feedback
+Lambert, Nathan
+Embodied-R: Collaborative Framework for Activating Embodied Spatial Reasoning in Foundation Models via Reinforcement Learning
+DyST-XL: Dynamic Layout Planning and Content Control for Compositional Text-to-Video Generation
+Generative Product Recommendations for Implicit Superlative Queries
+WikiVideo: Article Generation from Multiple Videos
+Investigating Large Language Models in Diagnosing Students' Cognitive Skills in Math Problem-solving
+Sugar-Coated Poison: Benign Generation Unlocks LLM Jailbreaking
+ShadowCoT: Cognitive Hijacking for Stealthy Reasoning Backdoors in LLMs
+On the Suitability of Reinforcement Fine-Tuning to Visual Tasks
+From 128K to 4M: Efficient Training of Ultra-Long Context Large Language Models
+ML For Hardware Design Interpretability: Challenges and Opportunities
+Large Language Model Empowered Recommendation Meets All-domain Continual Pre-Training
+Towards Optimal Circuit Generation: Multi-Agent Collaboration Meets Collective Intelligence
+SRPO: A Cross-Domain Implementation of Large-Scale Reinforcement Learning on LLM
+The Geometry of Self-Verification in a Task-Specific Reasoning Model
+Towards NSFW-Free Text-to-Image Generation via Safety-Constraint Direct Preference Optimization
+AlphaZero-Edu: Making AlphaZero Accessible to Everyone
+Process Reward Models That Think
+From LLM Reasoning to Autonomous AI Agents: A Comprehensive Review
+Enabling Systematic Generalization in Abstract Spatial Reasoning through Meta-Learning for Compositionality
+GPG: A Simple and Strong Reinforcement Learning Baseline for Model Reasoning
+Rethinking Reflection in Pre-Training
+OpenCodeInstruct: A Large-scale Instruction Tuning Dataset for Code LLMs
+VLM-R1: A Stable and Generalizable R1-style Large Vision-Language Model
+Leveraging Reasoning Model Answers to Enhance Non-Reasoning Model Capability
+TinyLLaVA-Video-R1: Towards Smaller LMMs for Video Reasoning
+Kongzi: A Historical Large Language Model with Fact Enhancement
+A Survey on Efficient Vision-Language Models
+Could Thinking Multilingually Empower LLM Reasoning?
+An LLM-as-a-judge Approach for Scalable Gender-Neutral Translation Evaluation
+Don't Just Translate, Agitate: Using Large Language Models as Devil's Advocates for AI Explanations
+LAD-Reasoner: Tiny Multimodal Models are Good Reasoners for Logical Anomaly Detection
+VLMGuard-R1: Proactive Safety Alignment for VLMs via Reasoning-Driven Prompt Optimization
+Chain-of-Thought Textual Reasoning for Few-shot Temporal Action Localization
+Compile Scene Graphs with Reinforcement Learning
+HyPerAlign: Interpretable Personalized LLM Alignment via Hypothesis Generation
+GDI-Bench: A Benchmark for General Document Intelligence with Vision and Reasoning Decoupling
+Clinical ModernBERT: An efficient and long context encoder for biomedical text
+Hogwild! Inference: Parallel LLM Generation via Concurrent Attention
+OmniSVG: A Unified Scalable Vector Graphics Generation Model
+LMM4LMM: Benchmarking and Evaluating Large-multimodal Image Generation with LMMs
+GigaTok: Scaling Visual Tokenizers to 3 Billion Parameters for Autoregressive Image Generation
+Towards LLM Agents for Earth Observation
+Meta-Evaluating Local LLMs: Rethinking Performance Metrics for Serious Games
+Propaganda via AI? A Study on Semantic Backdoors in Large Language Models
+Reimagining Urban Science: Scaling Causal Inference with Large Language Models
+Mathematical Capabilities of Large Language Models in Finnish Matriculation Examination
+BASIR: Budget-Assisted Sectoral Impact Ranking -- A Dataset for Sector Identification and Performance Prediction Using Language Models
+Everything You Wanted to Know About LLM-based Vulnerability Detection But Were Afraid to Ask
+Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning
+Do We Truly Need So Many Samples? Multi-LLM Repeated Sampling Efficiently Scales Test-Time Compute
+Chain of Correction for Full-text Speech Recognition with Large Language Models
+TDBench: Benchmarking Vision-Language Models in Understanding Top-Down Images
+Frontier AI's Impact on the Cybersecurity Landscape
+Code Generation with Small Language Models: A Deep Evaluation on Codeforces
+To Backtrack or Not to Backtrack: When Sequential Search Limits Model Reasoning
+VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning
+MovSAM: A Single-image Moving Object Segmentation Framework Based on Deep Thinking
+FamilyTool: A Multi-hop Personalized Tool Use Benchmark
+Enhancing Player Enjoyment with a Two-Tier DRL and LLM-Based Agent System for Fighting Games
+VisualPuzzles: Decoupling Multimodal Reasoning Evaluation from Domain Knowledge
+M1: Towards Scalable Test-Time Compute with Mamba Reasoning Models
+GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents
+The Code Barrier: What LLMs Actually Understand?
+Efficient Process Reward Model Training via Active Learning
+Low-hallucination Synthetic Captions for Large-Scale Vision-Language Model Pre-training
+Design Topological Materials by Reinforcement Fine-Tuned Generative Model
+An Empirically Grounded Identifiability Theory Will Accelerate Self-Supervised Learning Research
+PolicyEvol-Agent: Evolving Policy via Environment Perception and Self-Awareness with Theory of Mind
+PHYBench: Holistic Evaluation of Physical Perception and Reasoning in Large Language Models
+GreenMind: A Next-Generation Vietnamese Large Language Model for Structured and Logical Reasoning
+Lightweight Latent Verifiers for Efficient Meta-Generation Strategies
+GenCLS++: Pushing the Boundaries of Generative Classification in LLMs Through Comprehensive SFT and RL Studies Across Diverse Datasets
+RAGEN: Understanding Self-Evolution in LLM Agents via Multi-Turn Reinforcement Learning
+Mitigating Societal Cognitive Overload in the Age of AI: Challenges and Directions
+Lahlou, Salem
+AI Awareness
+Inference-Time Scaling for Generalist Reward Modeling
+Scaling Test-time Compute for Low-resource Languages: Multilingual Reasoning in LLMs
+Artificial Intelligence for Software Architecture: Literature Review and the Road Ahead
+The KL3M Data Project: Copyright-Clean Training Resources for Large Language Models
+What the HellaSwag? On the Validity of Common-Sense Reasoning Benchmarks
+Deceptive Automated Interpretability: Language Models Coordinating to Fool Oversight Systems
+Genius: A Generalizable and Purely Unsupervised Self-Training Framework For Advanced Reasoning
+CAReDiO: Cultural Alignment of LLM via Representativeness and Distinctiveness Guided Data Optimization
+Efficient Reasoning Models: A Survey
+Secure Multifaceted-RAG for Enterprise: Hybrid Knowledge Retrieval with Security Filtering
+An Empirical Study of LLM Reasoning Ability Under Strict Output Length Constraint
+Meta-Thinking in LLMs via Multi-Agent Reinforcement Learning: A Survey
+Steering the CensorShip: Uncovering Representation Vectors for LLM "Thought" Control
+Improving Language Model Personas via Rationalization with Psychological Scaffolds
+Stabilizing Reasoning in Medical LLMs with Continued Pretraining and Reasoning Preference Optimization
+ZipR1: Reinforcing Token Sparsity in MLLMs
+Towards Robust Dialogue Breakdown Detection: Addressing Disruptors in Large Language Models with Self-Guided Reasoning
+The Big Send-off: High Performance Collectives on GPU-based Supercomputers
+PARD: Accelerating LLM Inference with Low-Cost PARallel Draft Model Adaptation
+Enhancing Non-Core Language Instruction-Following in Speech LLMs via Semi-Implicit Cross-Lingual CoT Reasoning
+GTR: Graph-Table-RAG for Cross-Table Question Answering
+Systematic Evaluation of Large Vision-Language Models for Surgical Artificial Intelligence
+PEIRCE: Unifying Material and Formal Reasoning via LLM-Driven Neuro-Symbolic Refinement
+Could AI Trace and Explain the Origins of AI-Generated Images and Text?
+Adaptive Elicitation of Latent Information Using Natural Language
+Towards Understanding and Improving Refusal in Compressed Models via Mechanistic Interpretability
+Agent Guide: A Simple Agent Behavioral Watermarking Framework
+Type-Constrained Code Generation with Language Models
+SaRO: Enhancing LLM Safety through Reasoning-based Alignment
+ClinicalGPT-R1: Pushing reasoning capability of generalist disease diagnosis with large language model
+PathVLM-R1: A Reinforcement Learning-Driven Reasoning Model for Pathology Visual-Language Tasks
+MoE-Lens: Towards the Hardware Limit of High-Throughput MoE LLM Serving Under Resource Constraints
+Beyond Chains of Thought: Benchmarking Latent-Space Reasoning Abilities in Large Language Models
+Kimina-Prover Preview: Towards Large Formal Reasoning Models with Reinforcement Learning
+Reinforcing Compositional Retrieval: Retrieving Step-by-Step for Composing Informative Contexts
+Teaching Large Language Models to Reason through Learning and Forgetting
+Acquire and then Adapt: Squeezing out Text-to-Image Model for Image Restoration
+A Self-Improving Coding Agent
+MrGuard: A Multilingual Reasoning Guardrail for Universal LLM Safety
+Existing Industry Practice for the EU AI Act's General-Purpose AI Code of Practice Safety and Security Measures
+PhenoAssistant: A Conversational Multi-Agent AI System for Automated Plant Phenotyping
+Interpreting Emergent Planning in Model-Free Reinforcement Learning
+OpenThaiGPT 1.6 and R1: Thai-Centric Open Source and Reasoning Large Language Models
+Emerging Cyber Attack Risks of Medical AI Agents
+Nemotron-H: A Family of Accurate and Efficient Hybrid Mamba-Transformer Models
+Bonsai: Interpretable Tree-Adaptive Grounded Reasoning
+Right Prediction, Wrong Reasoning: Uncovering LLM Misalignment in RA Disease Diagnosis
+Domain-Specific Pruning of Large Mixture-of-Experts Models with Few-shot Demonstrations
+NeedleInATable: Exploring Long-Context Capability of Large Language Models towards Long-Structured Tables
+Model Utility Law: Evaluating LLMs beyond Performance through Mechanism Interpretable Metric
+Thinking Out Loud: Do Reasoning Models Know When They're Right?
+VisuoThink: Empowering LVLM Reasoning with Multimodal Tree Search
+Introducing Large Language Models as the Next Challenging Internet Traffic Source
+Can LLMs Classify CVEs? Investigating LLMs Capabilities in Computing CVSS Vectors
+QLLM: Do We Really Need a Mixing Network for Credit Assignment in Multi-Agent Reinforcement Learning?
+NoisyRollout: Reinforcing Visual Reasoning with Data Augmentation
+Relation-R1: Progressively Cognitive Chain-of-Thought Guided Reinforcement Learning for Unified Relation Comprehension
+AI for the Open-World: the Learning Principles
+Zhang, Jianyu
+SWE-Synth: Synthesizing Verifiable Bug-Fix Data to Enable Large Language Models in Resolving Real-World Bugs
+LeetCodeDataset: A Temporal Dataset for Robust Evaluation and Efficient Training of Code LLMs
+The Sparse Frontier: Sparse Attention Trade-offs in Transformer LLMs
+Sparks of Tabular Reasoning via Text2SQL Reinforcement Learning
+VLM-based Prompts as the Optimal Assistant for Unpaired Histopathology Virtual Staining
+Stop Summation: Min-Form Credit Assignment Is All Process Reward Model Needs for Reasoning
+LR-IAD:Mask-Free Industrial Anomaly Detection with Logical Reasoning
+Policy Optimization Algorithms in a Unified Framework
+SCI-Reason: A Dataset with Chain-of-Thought Rationales for Complex Multimodal Reasoning in Academic Areas
+d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning
+aiXamine: Simplified LLM Safety and Security
+POLYRAG: Integrating Polyviews into Retrieval-Augmented Generation for Medical Applications
+Trans-Zero: Self-Play Incentivizes Large Language Models for Multilingual Translation Without Parallel Data
+CipherBank: Exploring the Boundary of LLM Reasoning Capabilities through Cryptography Challenges
+Token-Efficient Prompt Injection Attack: Provoking Cessation in LLM Reasoning via Adaptive Token Compression
+ReCIT: Reconstructing Full Private Data from Gradient in Parameter-Efficient Fine-Tuning of Large Language Models
+RoboAct-CLIP: Video-Driven Pre-training of Atomic Action Understanding for Robotics
+Evaluating Compact LLMs for Zero-Shot Iberian Language Tasks on End-User Devices
+Do Larger Language Models Imply Better Reasoning? A Pretraining Scaling Law for Reasoning
+Concise Reasoning via Reinforcement Learning
+SkillFlow: Efficient Skill and Code Transfer Through Communication in Adapting AI Agents
+DeepSeek vs. o3-mini: How Well can Reasoning LLMs Evaluate MT and Summarization?
+Can Large Language Models Become Policy Refinement Partners? Evidence from China's Social Security Studies
+ReTool: Reinforcement Learning for Strategic Tool Use in LLMs
+REAL: Benchmarking Autonomous Agents on Deterministic Simulations of Real Websites
+Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?
+Learning to Attribute with Attention
+LogicTree: Structured Proof Exploration for Coherent and Rigorous Logical Reasoning with Large Language Models
+SPC: Evolving Self-Play Critic via Adversarial Games for LLM Reasoning
+Param$Δ$ for Direct Weight Mixing: Post-Train Large Language Model at Zero Cost
+Neural Approaches to SAT Solving: Design Choices and Interpretability
+Do "New Snow Tablets" Contain Snow? Large Language Models Over-Rely on Names to Identify Ingredients of Chinese Drugs
+Algorithm Discovery With LLMs: Evolutionary Search Meets Reinforcement Learning
+Revealing the Intrinsic Ethical Vulnerability of Aligned Large Language Models
+Kimi-VL Technical Report
+Self-Steering Language Models
+AI-Slop to AI-Polish? Aligning Language Models through Edit-Based Writing Rewards and Test-time Computation
+A Sober Look at Progress in Language Model Reasoning: Pitfalls and Paths to Reproducibility
+REWARD CONSISTENCY: Improving Multi-Objective Alignment from a Data-Centric Perspective
+The Bitter Lesson Learned from 2,000+ Multilingual Benchmarks
+Compass-V2 Technical Report
+Maria, Sophia
+AIMO-2 Winning Solution: Building State-of-the-Art Mathematical Reasoning Models with OpenMathReasoning dataset
+Neural Theorem Proving: Generating and Structuring Proofs for Formal Verification
+BRIDGE: Benchmarking Large Language Models for Understanding Real-world Clinical Practice Text
+SciSciGPT: Advancing Human-AI Collaboration in the Science of Science
+MGS: Markov Greedy Sums for Accurate Low-Bitwidth Floating-Point Accumulation
+Cost-of-Pass: An Economic Framework for Evaluating Language Models
+Improving Generalization in Intent Detection: GRPO with Reward-Based Curriculum Sampling
+Balancing Engagement and Polarization: Multi-Objective Alignment of News Content Using LLMs
+MARFT: Multi-Agent Reinforcement Fine-Tuning
+Wireless Large AI Model: Shaping the AI-Native Future of 6G and Beyond
+Learning to Reason under Off-Policy Guidance
+Efficient Single-Pass Training for Multi-Turn Reasoning
+MAGI: Multi-Agent Guided Interview for Psychiatric Assessment
+Comparing Uncertainty Measurement and Mitigation Methods for Large Language Models: A Systematic Review
+LEAM: A Prompt-only Large Language Model-enabled Antenna Modeling Method
+AutoJudge: Judge Decoding Without Manual Annotation
+LLMs Do Not Have Human-Like Working Memory
+MegaMath: Pushing the Limits of Open Math Corpora
+Generative Evaluation of Complex Reasoning in Large Language Models
+How Deep Do Large Language Models Internalize Scientific Literature and Citation Practices?
+Do Two AI Scientists Agree?
+Beyond Accuracy: The Role of Calibration in Self-Improving Large Language Models
+Noiser: Bounded Input Perturbations for Attributing Large Language Models
+Steering Prosocial AI Agents: Computational Basis of LLM's Decision Making in Social Simulation
+a1: Steep Test-time Scaling Law via Environment Augmented Generation
+Text-to-Decision Agent: Offline Meta-Reinforcement Learning from Natural Language Supervision
+Taming the Titans: A Survey of Efficient LLM Inference Serving
+TreeHop: Generate and Filter Next Query Embeddings Efficiently for Multi-hop Question Answering
+AutoP2C: An LLM-Based Agent Framework for Code Repository Generation from Multimodal Content in Academic Papers
+DeepSeek-Prover-V2: Advancing Formal Mathematical Reasoning via Reinforcement Learning for Subgoal Decomposition
+From Aesthetics to Human Preferences: Comparative Perspectives of Evaluating Text-to-Music Systems
+AD-GPT: Large Language Models in Alzheimer's Disease
+DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments
+VAPO: Efficient and Reliable Reinforcement Learning for Advanced Reasoning Tasks
+The Curse of CoT: On the Limitations of Chain-of-Thought in In-Context Learning
+Assessing Judging Bias in Large Reasoning Models: An Empirical Study
+How to Detect and Defeat Molecular Mirage: A Metric-Driven Benchmark for Hallucination in LLM-based Molecular Comprehension
+Antidistillation Sampling
+LongPerceptualThoughts: Distilling System-2 Reasoning for System-1 Perception
+KeyDiff: Key Similarity-Based KV Cache Eviction for Long-Context LLM Inference in Resource-Constrained Environments
+Collaborative Learning of On-Device Small Model and Cloud-Based Large Model: Advances and Future Directions
+High-Throughput LLM inference on Heterogeneous Clusters
+Can Machine Learning Agents Deal with Hard Choices?
+Wang, Kangyu
+Towards Understanding Camera Motions in Any Video
+Adaptra: Straggler-Resilient Hybrid-Parallel Training with Pipeline Adaptation
+BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese
+YourBench: Easy Custom Evaluation Sets for Everyone
+A thorough benchmark of automatic text classification: From traditional approaches to large language models
+Critical Thinking: Which Kinds of Complexity Govern Optimal Reasoning Length?
+OpenCodeReasoning: Advancing Data Distillation for Competitive Coding
+Right Question is Already Half the Answer: Fully Unsupervised LLM Reasoning Incentivization
+Leanabell-Prover: Posttraining Scaling in Formal Reasoning
+SortBench: Benchmarking LLMs based on their ability to sort lists
+Herbold, Steffen
+MIEB: Massive Image Embedding Benchmark
+Weight Ensembling Improves Reasoning in Language Models
+EMAFusion: A Self-Optimizing System for Seamless LLM Selection and Integration
+How Instruction and Reasoning Data shape Post-Training: Data Quality through the Lens of Layer-wise Gradients
+Improving RL Exploration for LLM Reasoning through Retrospective Replay
+Do You Really Need Public Data? Surrogate Public Data for Differential Privacy on Tabular Data
+DRC: Enhancing Personalized Image Generation via Disentangled Representation Composition
+A Novel Approach To Implementing Knowledge Distillation In Tsetlin Machines
+Kinateder, Calvin
+LayoutCoT: Unleashing the Deep Reasoning Potential of Large Language Models for Layout Generation
+Improving In-Context Learning with Reasoning Distillation
+ReZero: Enhancing LLM search ability by trying one-more-time
+A comprehensive review of remote sensing in wetland classification and mapping
+MMC: Iterative Refinement of VLM Reasoning via MCTS-based Multimodal Critique
+Thought Manipulation: External Thought Can Be Efficient for Large Reasoning Models
+ImPart: Importance-Aware Delta-Sparsification for Improved Model Compression and Merging in LLMs
+From Reflection to Perfection: Scaling Inference-Time Optimization for Text-to-Image Diffusion Models via Reflection Tuning
+TTRL: Test-Time Reinforcement Learning
+DMind Benchmark: Toward a Holistic Assessment of LLM Capabilities across the Web3 Domain
+Team ACK at SemEval-2025 Task 2: Beyond Word-for-Word Machine Translation for English-Korean Pairs
+Reinforced MLLM: A Survey on RL-Based Reasoning in Multimodal Large Language Models
+Applications of natural language processing and large language models in materials discovery
+What's Behind PPO's Collapse in Long-CoT? Value Optimization Holds the Secret
+MAS-GPT: Training LLMs to Build LLM-based Multi-Agent Systems
+FlexInfer: Breaking Memory Constraint via Flexible and Efficient Offloading for On-Device LLM Inference
+Effectiveness of Zero-shot-CoT in Japanese Prompts
+Alignment for Efficient Tool Calling of Large Language Models
+Learning richness modulates equality reasoning in neural networks
+Reinforcement Learning Outperforms Supervised Fine-Tuning: A Case Study on Audio Question Answering
+Exploring the Necessity of Reasoning in LLM-based Agent Scenarios
+Reasoning-Grounded Natural Language Explanations for Language Models
+xLSTM 7B: A Recurrent LLM for Fast and Efficient Inference
+MentalChat16K: A Benchmark Dataset for Conversational Mental Health Assistance
+Pensez: Less Data, Better Reasoning -- Rethinking French LLM
+Hoang Ha, Huy
+Reasoning with LLMs for Zero-Shot Vulnerability Detection
+Trade-offs in Large Reasoning Models: An Empirical Analysis of Deliberative and Adaptive Reasoning over Foundational Capabilities
+Language Model Uncertainty Quantification with Attention Chain
+Benchmarking Systematic Relational Reasoning with Large Language and Reasoning Models
+From Panels to Prose: Generating Literary Narratives from Comics
+Three tiers of computation in transformers and in brain architectures
+Can Atomic Step Decomposition Enhance the Self-structured Reasoning of Multimodal Large Models?
+TokenCarve: Information-Preserving Visual Token Compression in Multimodal Large Language Models
+Evaluating Mathematical Reasoning Across Large Language Models: A Fine-Grained Approach
+PredicateFix: Repairing Static Analysis Alerts with Bridging Predicates
+Unveiling Pitfalls: Understanding Why AI-driven Code Agents Fail at GitHub Issue Resolution
+Reflect-DiT: Inference-Time Scaling for Text-to-Image Diffusion Transformers via In-Context Reflection
+Towards Understanding the Safety Boundaries of DeepSeek Models: Evaluation and Findings
+A Survey on Mathematical Reasoning and Optimization with Large Language Models
+Forootani, Ali
+A Modular Dataset to Demonstrate LLM Abstraction Capability
+ConSol: Sequential Probability Ratio Testing to Find Consistent LLM Reasoning Paths Efficiently
+MoLAE: Mixture of Latent Experts for Parameter-Efficient Language Models
+A Retrieval-Augmented Knowledge Mining Method with Deep Thinking LLMs for Biomedical Research and Clinical Support
+LLM & HPC:Benchmarking DeepSeek's Performance in High-Performance Computing Tasks
+Personalized Generation In Large Model Era: A Survey
+IterPref: Focal Preference Learning for Code Generation via Iterative Debugging
+Beyond RAG: Task-Aware KV Cache Compression for Comprehensive Knowledge Reasoning
+Self-Evolved Preference Optimization for Enhancing Mathematical Reasoning in Small Language Models
+MM-Eureka: Exploring the Frontiers of Multimodal Reasoning with Rule-based Reinforcement Learning
+VMBench: A Benchmark for Perception-Aligned Video Motion Generation
+Monitoring Reasoning Models for Misbehavior and the Risks of Promoting Obfuscation
+PENCIL: Long Thoughts with Short Memory
+Improving Autoregressive Image Generation through Coarse-to-Fine Token Prediction
+Chain of Functions: A Programmatic Pipeline for Fine-Grained Chart Reasoning Data
+CaKE: Circuit-aware Editing Enables Generalizable Knowledge Learners
+Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models
+Video-T1: Test-Time Scaling for Video Generation
+PharMolixFM: All-Atom Foundation Models for Molecular Modeling and Generation
+FRASE: Structured Representations for Generalizable SPARQL Query Generation
+WinoWhat: A Parallel Corpus of Paraphrased WinoGrande Sentences with Common Sense Categorization
+Crossing the Reward Bridge: Expanding RL with Verifiable Rewards Across Diverse Domains
+The Geometry of Concepts: Sparse Autoencoder Feature Structure
+Phi-4-Mini Technical Report: Compact yet Powerful Multimodal Language Models via Mixture-of-LoRAs
+Cats Confuse Reasoning LLM: Query Agnostic Adversarial Triggers for Reasoning Models
+Visual-RFT: Visual Reinforcement Fine-Tuning
+Large-Scale Data Selection for Instruction Tuning
+A Little Depth Goes a Long Way: The Expressive Power of Log-Depth Transformers
+Benchmarking Large Language Models on Multiple Tasks in Bioinformatics NLP with Prompting
+General-Purpose Aerial Intelligent Agents Empowered by Large Language Models
+SPIN-Bench: How Well Do LLMs Plan Strategically and Reason Socially?
+RAG-RL: Advancing Retrieval-Augmented Generation via RL and Curriculum Learning
+VenusFactory: A Unified Platform for Protein Engineering Data Retrieval and Language Model Fine-Tuning
+What Makes a Reward Model a Good Teacher? An Optimization Perspective
+A Comprehensive Survey on Long Context Language Modeling
+Opportunities and Challenges of Frontier Data Governance With Synthetic Data
+Position: Interactive Generative Video as Next-Generation Game Engine
+Dancing with Critiques: Enhancing LLM Reasoning with Stepwise Natural Language Self-Critique
+SCI-IDEA: Context-Aware Scientific Ideation Using Token and Sentence Embeddings
+Challenging the Boundaries of Reasoning: An Olympiad-Level Math Benchmark for Large Language Models
+Output Constraints as Attack Surface: Exploiting Structured Generation to Bypass LLM Safety Mechanisms
+Speculative Ad-hoc Querying
+Comparative Analysis of OpenAI GPT-4o and DeepSeek R1 for Scientific Text Categorization Using Prompt Engineering
+RiskAgent: Autonomous Medical AI Copilot for Generalist Risk Prediction
+VisRL: Intention-Driven Visual Perception via Reinforced Reasoning
+LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through Two-Stage Rule-Based RL
+HOFAR: High-Order Augmentation of Flow Autoregressive Transformers
+Self-Taught Self-Correction for Small Language Models
+OmniMamba: Efficient and Unified Multimodal Understanding and Generation via State Space Models
+SegAgent: Exploring Pixel Understanding Capabilities in MLLMs by Imitating Human Annotator Trajectories
+Tensor-decomposition-based A Priori Surrogate (TAPS) modeling for ultra large-scale simulations
+Med-R1: Reinforcement Learning for Generalizable Medical Reasoning in Vision-Language Models
+Can LLMs Enable Verification in Mainstream Programming?
+From Chaos to Order: The Atomic Reasoner Framework for Fine-grained Reasoning in Large Language Models
+Adaptive Group Policy Optimization: Towards Stable Training and Token-Efficient Reasoning
+DeepPsy-Agent: A Stage-Aware and Deep-Thinking Emotional Support Agent System
+LeX-Art: Rethinking Text Generation via Scalable High-Quality Data Synthesis
+TS-HTFA: Advancing Time-Series Forecasting via Hierarchical Text-Free Alignment with Large Language Models
+Direct Discriminative Optimization: Your Likelihood-Based Visual Generative Model is Secretly a GAN Discriminator
+Scientific Reasoning: Assessment of Multimodal Generative LLMs
+Alchemist: Towards the Design of Efficient Online Continual Learning System
+All Roads Lead to Likelihood: The Value of Reinforcement Learning in Fine-Tuning
+OmniSQL: Synthesizing High-quality Text-to-SQL Data at Scale
+From Code to Courtroom: LLMs as the New Software Judges
+Shakespearean Sparks: The Dance of Hallucination and Creativity in LLMs' Decoding Layers
+Learning from Failures in Multi-Attempt Reinforcement Learning
+PanguIR Technical Report for NTCIR-18 AEOLLM Task
+Symbolic Mixture-of-Experts: Adaptive Skill-based Routing for Heterogeneous Reasoning
+Unlocking Generalization for Robotics via Modularity and Scale
+Dalal, Murtaza
+ReAgent: Reversible Multi-Agent Reasoning for Knowledge-Enhanced Multi-Hop QA
+A Query Optimization Method Utilizing Large Language Models
+Thinking Machines: A Survey of LLM based Reasoning Strategies
+Right Answer, Wrong Score: Uncovering the Inconsistencies of LLM Evaluation in Multiple-Choice Question Answering
+Benchmarking Open-Source Large Language Models on Healthcare Text Classification Tasks
+MASS: Mathematical Data Selection via Skill Graphs for Pretraining Large Language Models
+TreeSynth: Synthesizing Diverse Data from Scratch via Tree-Guided Subspace Partitioning
+FastCuRL: Curriculum Reinforcement Learning with Stage-wise Context Scaling for Efficient Training R1-like Reasoning Models
+FReM: A Flexible Reasoning Mechanism for Balancing Quick and Slow Thinking in Long-Context Question Answering
+Do Chinese models speak Chinese languages?
+Inference-Time Scaling for Complex Tasks: Where We Stand and What Lies Ahead
+Dynamic Topic Analysis in Academic Journals using Convex Non-negative Matrix Factorization Method
+UltraRAG: A Modular and Automated Toolkit for Adaptive Retrieval-Augmented Generation
+Audio-Reasoner: Improving Reasoning Capability in Large Audio Language Models
+ReSo: A Reward-driven Self-organizing LLM-based Multi-Agent System for Reasoning Tasks
+PromptCoT: Synthesizing Olympiad-level Problems for Mathematical Reasoning in Large Language Models
+Mroueh, Youssef
+DeepReview: Improving LLM-based Paper Review with Human-like Deep Thinking Process
+Finetuning Generative Trajectory Model with Reinforcement Learning from Human Feedback
+Can Reasoning Models Reason about Hardware? An Agentic HLS Perspective
+$\phi$-Decoding: Adaptive Foresight Sampling for Balanced Inference-Time Exploration and Exploitation
+Agents Play Thousands of 3D Video Games
+Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning
+RLCAD: Reinforcement Learning Training Gym for Revolution Involved CAD Command Sequence Generation
+Verbal Process Supervision Elicits Better Coding Agents
+Smoke and Mirrors: Jailbreaking LLM-based Code Generation via Implicit Malicious Prompts
+Unlocking the Potential of Past Research: Using Generative AI to Reconstruct Healthcare Simulation Models
+Semantic Integrity Constraints: Declarative Guardrails for AI-Augmented Data Processing Systems
+Quality-Driven Curation of Remote Sensing Vision-Language Data via Learned Scoring Models
+I Predict Therefore I Am: Is Next Token Prediction Enough to Learn Human-Interpretable Concepts from Data?
+V-STaR: Benchmarking Video-LLMs on Video Spatio-Temporal Reasoning
+DARS: Dynamic Action Re-Sampling to Enhance Coding Agent Performance by Adaptive Tree Traversal
+Temporal Consistency for LLM Reasoning Process Error Identification
+LLM+MAP: Bimanual Robot Task Planning using Large Language Models and Planning Domain Definition Language
+Deconstructing Long Chain-of-Thought: A Structured Reasoning Optimization Framework for Long CoT Distillation
+Why Stop at One Error? Benchmarking LLMs as Data Science Code Debuggers for Multi-Hop and Multi-Bug Errors
+CoSIL: Software Issue Localization via LLM-Driven Code Repository Graph Searching
+Probabilistic Uncertain Reward Model
+CrowdSelect: Synthetic Instruction Data Selection with Multi-LLM Wisdom
+Agent models: Internalizing Chain-of-Action Generation into Reasoning models
+Unlocking General Long Chain-of-Thought Reasoning Capabilities of Large Language Models via Representation Engineering
+A Survey on the Optimization of Large Language Model-based Agents
+Inferring Events from Time Series using Language Models
+MathFlow: Enhancing the Perceptual Flow of MLLMs for Visual Mathematical Problems
+ScalingNoise: Scaling Inference-Time Search for Generating Infinite Videos
+FFN Fusion: Rethinking Sequential Computation in Large Language Models
+SG-Tailor: Inter-Object Commonsense Relationship Reasoning for Scene Graph Manipulation
+HAIR: Hardness-Aware Inverse Reinforcement Learning with Introspective Reasoning for LLM Alignment
+EdgeInfinite: A Memory-Efficient Infinite-Context Transformer for Edge Devices
+REMAC: Self-Reflective and Self-Evolving Multi-Agent Collaboration for Long-Horizon Robot Manipulation
+A Large-Scale Vision-Language Dataset Derived from Open Scientific Literature to Advance Biomedical Generalist AI
+Reasoning Beyond Limits: Advances and Open Problems for LLMs
+Cyborg Data: Merging Human with AI Generated Training Data
+Towards Widening The Distillation Bottleneck for Reasoning Models
+EAGLE-3: Scaling up Inference Acceleration of Large Language Models via Training-Time Test
+MultiAgentBench: Evaluating the Collaboration and Competition of LLM agents
+Towards Understanding Distilled Reasoning Models: A Representational Approach
+Dedicated Feedback and Edit Models Empower Inference-Time Scaling for Open-Ended General-Domain Tasks
+Integrating Chain-of-Thought for Multimodal Alignment: A Study on 3D Vision-Language Learning
+LexPro-1.0 Technical Report
+CoLLMLight: Cooperative Large Language Model Agents for Network-Wide Traffic Signal Control
+Growing a Twig to Accelerate Large Vision-Language Models
+Empowering Smaller Models: Tuning LLaMA and Gemma with Chain-of-Thought for Ukrainian Exam Tasks
+Analyzable Chain-of-Musical-Thought Prompting for High-Fidelity Music Generation
+RL-finetuning LLMs from on- and off-policy data with a single algorithm
+Overtrained Language Models Are Harder to Fine-Tune
+Iterative Hypothesis Generation for Scientific Discovery with Monte Carlo Nash Equilibrium Self-Refining Trees
+Beyond Verifiable Rewards: Scaling Reinforcement Learning for Language Models to Unverifiable Data
+The Procedural Content Generation Benchmark: An Open-source Testbed for Generative Challenges in Games
+KurTail : Kurtosis-based LLM Quantization
+AttackSeqBench: Benchmarking Large Language Models' Understanding of Sequential Patterns in Cyber Attacks
+Can Small Language Models Reliably Resist Jailbreak Attacks? A Comprehensive Evaluation
+Seg-Zero: Reasoning-Chain Guided Segmentation via Cognitive Reinforcement
+AuthorMist: Evading AI Text Detectors with Reinforcement Learning
+EXAONE Deep: Reasoning Enhanced Language Models
+Can LLMs Formally Reason as Abstract Interpreters for Program Analysis?
+A Survey on Personalized Alignment -- The Missing Piece for Large Language Models in Real-World Applications
+Echoes of Power: Investigating Geopolitical Bias in US and China Large Language Models
+Long-Context Autoregressive Video Modeling with Next-Frame Prediction
+Process or Result? Manipulated Ending Tokens Can Mislead Reasoning LLMs to Ignore the Correct Reasoning Steps
+Proof or Bluff? Evaluating LLMs on 2025 USA Math Olympiad
+Video-R1: Reinforcing Video Reasoning in MLLMs
+Parallelized Planning-Acting for Efficient LLM-based Multi-Agent Systems
+PowerAttention: Exponentially Scaling of Receptive Fields for Effective Sparse Attention
+Robust Learning of Diverse Code Edits
+SAGE: Steering and Refining Dialog Generation with State-Action Augmentation
+The First Few Tokens Are All You Need: An Efficient and Effective Unsupervised Prefix Fine-Tuning Method for Reasoning Models
+Language Models can Self-Improve at State-Value Estimation for Better Search
+Beyond Cosine Decay: On the effectiveness of Infinite Learning Rate Schedule for Continual Pre-training
+Knowledge Augmentation in Federation: Rethinking What Collaborative Learning Can Bring Back to Decentralized Data
+Zero-Shot Multi-Label Classification of Bangla Documents: Large Decoders Vs. Classic Encoders
+Accelerating Earth Science Discovery via Multi-Agent LLM Systems
+Securing External Deeper-than-black-box GPAI Evaluations
+Towards Reasoning Era: A Survey of Long Chain-of-Thought for Reasoning Large Language Models
+Plan-and-Act: Improving Planning of Agents for Long-Horizon Tasks
+Safety Tax: Safety Alignment Makes Your Large Reasoning Models Less Reasonable
+Instructor-Worker Large Language Model System for Policy Recommendation: a Case Study on Air Quality Analysis of the January 2025 Los Angeles Wildfires
+Interacting with AI Reasoning Models: Harnessing "Thoughts" for AI-Driven Software Engineering
+A Survey on Sparse Autoencoders: Interpreting the Internal Mechanisms of Large Language Models
+Training Hybrid Deep Quantum Neural Network for Reinforcement Learning Efficiently
+GTR: Guided Thought Reinforcement Prevents Thought Collapse in RL-based VLM Agent Training
+ST-Think: How Multimodal Large Language Models Reason About 4D Worlds from Ego-Centric Videos
+DeepPerception: Advancing R1-like Cognitive Visual Perception in MLLMs for Knowledge-Intensive Visual Grounding
+Grounded Chain-of-Thought for Multimodal Large Language Models
+VisEscape: A Benchmark for Evaluating Exploration-driven Decision-making in Virtual Escape Rooms
+Safety Evaluation and Enhancement of DeepSeek Models in Chinese Contexts
+Bridging Technology and Humanities: Evaluating the Impact of Large Language Models on Social Sciences Research with DeepSeek-R1
+Underlying Semantic Diffusion for Effective and Efficient In-Context Learning
+SCoRE: Benchmarking Long-Chain Reasoning in Commonsense Scenarios
+LLMs are Bug Replicators: An Empirical Study on LLMs' Capability in Completing Bug-prone Code
+TLUE: A Tibetan Language Understanding Evaluation Benchmark
+Superalignment with Dynamic Human Values
+Reinforcement Learning for Reasoning in Small LLMs: What Works and What Doesn't
+Sun-Shine: A Foundation Large Language Model for Tibetan Culture and Heritage
+DeepFund: Will LLM be Professional at Fund Investment? A Live Arena Perspective
+Extending Silicon Lifetime: A Review of Design Techniques for Reliable Integrated Circuits
+Insight-RAG: Enhancing LLMs with Insight-Driven Augmentation
+Adaptively profiling models with task elicitation
+One ruler to measure them all: Benchmarking multilingual long-context language models
+HoT: Highlighted Chain of Thought for Referencing Supporting Facts from Inputs
+LLM-TabFlow: Synthetic Tabular Data Generation with Inter-column Logical Relationship Preservation
+Superficial Self-Improved Reasoners Benefit from Model Merging
+AI-native Memory 2.0: Second Me
+ProtTeX: Structure-In-Context Reasoning and Editing of Proteins with Large Language Models
+DeepSeek-Inspired Exploration of RL-based LLMs and Synergy with Wireless Networks: A Survey
+Time-R1: Post-Training Large Vision Language Model for Temporal Video Grounding
+VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning
+MetaScale: Test-Time Scaling with Evolving Meta-Thoughts
+OThink-MR1: Stimulating multimodal generalized reasoning capabilities via dynamic reinforcement learning
+Fin-R1: A Large Language Model for Financial Reasoning through Reinforcement Learning
+Think or Not Think: A Study of Explicit Thinking in Rule-Based Visual Reinforcement Fine-Tuning
+Can Large Language Models Predict Associations Among Human Attitudes?
+Model Hemorrhage and the Robustness Limits of Large Language Models
+InteractiveSurvey: An LLM-based Personalized and Interactive Survey Paper Generation System
+An evaluation of DeepSeek Models in Biomedical Natural Language Processing
+OptMetaOpenFOAM: Large Language Model Driven Chain of Thought for Sensitivity Analysis and Parameter Optimization based on CFD
+Detecting Stylistic Fingerprints of Large Language Models
+Using (Not so) Large Language Models for Generating Simulation Models in a Formal DSL -- A Study on Reaction Networks
+Beyond the Destination: A Novel Benchmark for Exploration-Aware Embodied Question Answering
+Combinatorial Optimization for All: Using LLMs to Aid Non-Experts in Improving Optimization Algorithms
+Can Large Reasoning Models do Analogical Reasoning under Perceptual Uncertainty?
+TxAgent: An AI Agent for Therapeutic Reasoning Across a Universe of Tools
+LAG-MMLU: Benchmarking Frontier LLM Understanding in Latvian and Giriama
+PLM: Efficient Peripheral Language Models Hardware-Co-Designed for Ubiquitous Computing
+RePanda: Pandas-powered Tabular Verification and Reasoning
+DNR Bench: Benchmarking Over-Reasoning in Reasoning LLMs
+Human or LLM? A Comparative Study on Accessible Code Generation Capability
+SEAlign: Alignment Training for Software Engineering Agent
+MetaSpatial: Reinforcing 3D Spatial Reasoning in VLMs for the Metaverse
+A Theoretical Framework for Prompt Engineering: Approximating Smooth Functions with Transformer Prompts
+RALLRec+: Retrieval Augmented Large Language Model Recommendation with Reasoning
+U-NIAH: Unified RAG and LLM Evaluation for Long Context Needle-In-A-Haystack
+Rewarding Curse: Analyze and Mitigate Reward Modeling Issues for LLM Reasoning
+Revealing Hidden Mechanisms of Cross-Country Content Moderation with Natural Language Processing
+ARbiter: Generating Dialogue Options and Communication Support in Augmented Reality
+Implicit Reasoning in Transformers is Reasoning through Shortcuts
+Code-Driven Inductive Synthesis: Enhancing Reasoning Abilities of Large Language Models with Sequences
+MindEye-OmniAssist: A Gaze-Driven LLM-Enhanced Assistive Robot System for Implicit Intention Recognition and Task Execution
+3DAxisPrompt: Promoting the 3D Grounding and Reasoning in GPT-4o
+Experience Retrieval-Augmentation with Electronic Health Records Enables Accurate Discharge QA
+Can Multi-modal (reasoning) LLMs work as deepfake detectors?
+Bridging the Dimensional Chasm: Uncover Layer-wise Dimensional Reduction in Transformers through Token Correlation
+ActionStudio: A Lightweight Framework for Data and Training of Large Action Models
+Think Before Recommend: Unleashing the Latent Reasoning Power for Sequential Recommendation
+Q-Insight: Understanding Image Quality via Visual Reinforcement Learning
+Challenges and Paths Towards AI for Software Engineering
+SQuat: Subspace-orthogonal KV Cache Quantization
+Rec-R1: Bridging Generative Large Language Models and User-Centric Recommendation Systems via Reinforcement Learning
+Open-Reasoner-Zero: An Open Source Approach to Scaling Up Reinforcement Learning on the Base Model
+Query and Conquer: Execution-Guided SQL Generation
+CrossWordBench: Evaluating the Reasoning Capabilities of LLMs and LVLMs with Controllable Puzzle Generation
+Effectively Controlling Reasoning Models through Thinking Intervention
+JudgeLRM: Large Reasoning Models as a Judge
+Pushing the boundaries of Structure-Based Drug Design through Collaboration with Large Language Models
+Can Frontier LLMs Replace Annotators in Biomedical Text Mining? Analyzing Challenges and Exploring Solutions
+Quantifying the Reasoning Abilities of LLMs on Real-world Clinical Cases
+L1: Controlling How Long A Reasoning Model Thinks With Reinforcement Learning
+What do Large Language Models Say About Animals? Investigating Risks of Animal Harm in Generated Text
+FinTMMBench: Benchmarking Temporal-Aware Multi-Modal RAG in Finance
+Boosting the Generalization and Reasoning of Vision Language Models with Curriculum Reinforcement Learning
+DistiLLM-2: A Contrastive Approach Boosts the Distillation of LLMs
+HELM: Human-Preferred Exploration with Language Models
+ReviewAgents: Bridging the Gap Between Human and AI-Generated Paper Reviews
+LightPlanner: Unleashing the Reasoning Capabilities of Lightweight Large Language Models in Task Planning
+SPECTra: Scalable Multi-Agent Reinforcement Learning with Permutation-Free Networks
+ThinkPatterns-21k: A Systematic Study on the Impact of Thinking Patterns in LLMs
+Efficient but Vulnerable: Benchmarking and Defending LLM Batch Prompting Attack
+Advancing Mobile GUI Agents: A Verifier-Driven Approach to Practical Deployment
+Vision-R1: Evolving Human-Free Alignment in Large Vision-Language Models via Vision-Guided Reinforcement Learning
+Won: Establishing Best Practices for Korean Financial NLP
+Payload-Aware Intrusion Detection with CMAE and Large Language Models
+Prompting is Not All You Need! Evaluating LLM Agent Simulation Methodologies with Real-World Online Customer Behavior Data
+Optimal Scaling Laws for Efficiency Gains in a Theoretical Transformer-Augmented Sectional MoE Framework
+Sane, Soham
+Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning
+Evaluating Personalized Tool-Augmented LLMs from the Perspectives of Personalization and Proactivity
+Mark Your LLM: Detecting the Misuse of Open-Source Large Language Models via Watermarking
+Towards Next-Generation Recommender Systems: A Benchmark for Personalized Recommendation Assistant with LLMs
+Reinforcement Learning is all You Need
+Lian, Yongsheng
+SciVerse: Unveiling the Knowledge Comprehension and Visual Reasoning of LMMs on Multi-modal Scientific Problems
+Rewards Are Enough for Fast Photo-Realistic Text-to-image Generation
+Don't lie to your friends: Learning what you know from collaborative self-play
+Think Like Human Developers: Harnessing Community Knowledge for Structured Code Reasoning
+Prada: Black-Box LLM Adaptation with Private Data on Resource-Constrained Devices
+FAVOR-Bench: A Comprehensive Benchmark for Fine-Grained Video Motion Understanding
+Bayesian Teaching Enables Probabilistic Reasoning in Large Language Models
+Evaluating Clinical Competencies of Large Language Models with a General Practice Benchmark
+OmniScience: A Domain-Specialized LLM for Scientific Reasoning and Discovery
+Think Twice: Enhancing LLM Reasoning by Scaling Multi-round Test-time Thinking
+Agentic Large Language Models, a survey
+UI-R1: Enhancing Efficient Action Prediction of GUI Agents by Reinforcement Learning
+KidneyTalk-open: No-code Deployment of a Private Large Language Model with Medical Documentation-Enhanced Knowledge Database for Kidney Disease
+WritingBench: A Comprehensive Benchmark for Generative Writing
+Optimizing LLM Inference Throughput via Memory-aware and SLA-constrained Dynamic Batching
+The Society of HiveMind: Multi-Agent Optimization of Foundation Model Swarms to Unlock the Potential of Collective Intelligence
+VisualPRM: An Effective Process Reward Model for Multimodal Reasoning
+G-Boost: Boosting Private SLMs with General LLMs
+Collaborative Speculative Inference for Efficient LLM Inference Serving
+Does Context Matter? ContextualJudgeBench for Evaluating LLM-based Judges in Contextual Settings
+Good Actions Succeed, Bad Actions Generalize: A Case Study on Why RL Generalizes Better
+Long Is More Important Than Difficult for Training Reasoning Models
+Mind with Eyes: from Language Reasoning to Multimodal Reasoning
+Scaling Evaluation-time Compute with Reasoning Models as Process Evaluators
+Taxation Perspectives from Large Language Models: A Case Study on Additional Tax Penalties
+Visualising Policy-Reward Interplay to Inform Zeroth-Order Preference Optimisation of Large Language Models
+DAST: Difficulty-Adaptive Slow-Thinking for Large Reasoning Models
+Speculative MoE: Communication Efficient Parallel MoE Inference with Speculative Token and Expert Pre-scheduling
+Learning Generalizable Language-Conditioned Cloth Manipulation from Long Demonstrations
+Generalized Interpolating Discrete Diffusion
+Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning
+Enhancing LLM Reasoning with Iterative DPO: A Comprehensive Empirical Investigation
+Reasoning Effort and Problem Complexity: A Scaling Analysis in LLMs
+ComfyGPT: A Self-Optimizing Multi-Agent System for Comprehensive ComfyUI Workflow Generation
+ExCoT: Optimizing Reasoning for Text-to-SQL with Execution Feedback
+Unlocking Efficient Long-to-Short LLM Reasoning with Model Merging
+Understanding R1-Zero-Like Training: A Critical Perspective
+Factored Agents: Decoupling In-Context Learning and Memorization for Robust Tool Use
+Exploring the Effect of Reinforcement Learning on Video Understanding: Insights from SEED-Bench-R1
+Harnessing the Reasoning Economy: A Survey of Efficient Reasoning for Large Language Models
+Can Test-Time Scaling Improve World Foundation Model?
+Medical Reasoning in LLMs: An In-Depth Analysis of DeepSeek R1
+Hierarchical Prediction-based Management for LMaaS Systems
+RLDBF: Enhancing LLMs Via Reinforcement Learning With DataBase FeedBack
+Enhancing LLM Reliability via Explicit Knowledge Boundary Modeling
+Measuring What Makes You Unique: Difference-Aware User Modeling for Enhancing LLM Personalization
+An Efficient and Precise Training Data Construction Framework for Process-supervised Reward Model in Mathematical Reasoning
+SemEval-2025 Task 11: Bridging the Gap in Text-Based Emotion Detection
+OR-LLM-Agent: Automating Modeling and Solving of Operations Research Optimization Problem with Reasoning Large Language Model
+How Can Time Series Analysis Benefit From Multiple Modalities? A Survey and Outlook
+Policy Frameworks for Transparent Chain-of-Thought Reasoning in Large Language Models
+MARS: A Multi-Agent Framework Incorporating Socratic Guidance for Automated Prompt Optimization
+Optimizing Language Models for Inference Time Objectives using Reinforcement Learning
+Evolutionary Policy Optimization
+Browsing Lost Unformed Recollections: A Benchmark for Tip-of-the-Tongue Search and Reasoning
+Innate Reasoning is Not Enough: In-Context Learning Enhances Reasoning Large Language Models with Less Overthinking
+1.4 Million Open-Source Distilled Reasoning Dataset to Empower Large Language Model Training
+StableToolBench-MirrorAPI: Modeling Tool Environments as Mirrors of 7,000+ Real-World APIs
+ReaRAG: Knowledge-guided Reasoning Enhances Factuality of Large Reasoning Models with Iterative Retrieval Augmented Generation
+PHYSICS: Benchmarking Foundation Models on University-Level Physics Problem Solving
+Sampling-Efficient Test-Time Scaling: Self-Estimating the Best-of-N Sampling in Early Decoding
+From Hypothesis to Publication: A Comprehensive Survey of AI-Driven Research Support Systems
+LINGOLY-TOO: Disentangling Reasoning from Knowledge with Templatised Orthographic Obfuscation
+MastermindEval: A Simple But Scalable Reasoning Benchmark
+Continual Pre-training of MoEs: How robust is your router?
+ReMA: Learning to Meta-think for LLMs with Multi-Agent Reinforcement Learning
+X-EcoMLA: Upcycling Pre-Trained Attention into MLA for Efficient and Extreme KV Compression
+Unified Modeling Language Code Generation from Diagram Images Using Multimodal Large Language Models
+Uncertainty-Guided Chain-of-Thought for Code Generation with LLMs
+AlphaSpace: Enabling Robotic Actions through Semantic Tokenization and Symbolic Reasoning
+BitDecoding: Unlocking Tensor Cores for Long-Context LLMs Decoding with Low-Bit KV Cache
+Reasoning to Learn from Latent Thoughts
+R-PRM: Reasoning-Driven Process Reward Modeling
+R1-VL: Learning to Reason with Multimodal Large Language Models via Step-wise Group Relative Policy Optimization
+AgentRxiv: Towards Collaborative Autonomous Research
+AfroXLMR-Social: Adapting Pre-trained Language Models for African Languages Social Media Text
+Enhancing Multi-Label Emotion Analysis and Corresponding Intensities for Ethiopian Languages
+ViLBench: A Suite for Vision-Language Process Reward Modeling
+Open Deep Search: Democratizing Search with Open-source Reasoning Agents
+Learning to Reason for Long-Form Story Generation
+The Reasoning-Memorization Interplay in Language Models Is Mediated by a Single Direction
+L0-Reasoning Bench: Evaluating Procedural Correctness in Language Models via Simple Program Execution
+DAT: Dynamic Alpha Tuning for Hybrid Retrieval in Retrieval-Augmented Generation
+VFlow: Discovering Optimal Agentic Workflows for Verilog Generation
+CrowdVLM-R1: Expanding R1 Ability to Vision Language Model for Crowd Counting using Fuzzy Group Relative Policy Reward
+Reasoning-SQL: Reinforcement Learning with SQL Tailored Partial Rewards for Reasoning-Enhanced Text-to-SQL
+ToRL: Scaling Tool-Integrated RL
+MoSE: Hierarchical Self-Distillation Enhances Early Layer Embeddings
+Wider or Deeper? Scaling LLM Inference-Time Compute with Adaptive Branching Tree Search
+GenieBlue: Integrating both Linguistic and Multimodal Capabilities for Large Language Models on Mobile Devices
+SmartBench: Is Your LLM Truly a Good Chinese Smartphone Assistant?
+Rank-R1: Enhancing Reasoning in LLM-based Document Rerankers via Reinforcement Learning
+How to Protect Yourself from 5G Radiation? Investigating LLM Responses to Implicit Misinformation
+DAPO: An Open-Source LLM Reinforcement Learning System at Scale
+Praxis-VLM: Vision-Grounded Decision Making via Text-Driven Reinforcement Learning
+From Trial to Triumph: Advancing Long Video Understanding via Visual Context Sample Scaling and Self-reward Alignment
+Injecting Adrenaline into LLM Serving: Boosting Resource Utilization and Throughput via Attention Disaggregation
+A multi-agentic framework for real-time, autonomous freeform metasurface design
+CPPO: Accelerating the Training of Group Relative Policy Optimization-Based Reasoning Models
+Thinking Longer, Not Larger: Enhancing Software Engineering Agents via Scaling Test-Time Compute
+RARE: Retrieval-Augmented Reasoning Modeling
+Discovering Knowledge Deficiencies of Language Models on Massive Knowledge Base
+A Survey on Unlearnable Data
+Evolutionary Prompt Optimization Discovers Emergent Multimodal Reasoning Strategies in Vision-Language Models
+LLM4FS: Leveraging Large Language Models for Feature Selection and How to Improve It
+Exploring Data Scaling Trends and Effects in Reinforcement Learning from Human Feedback
+Process Reward Modeling with Entropy-Driven Uncertainty
+$\textit{Agents Under Siege}$: Breaking Pragmatic Multi-Agent LLM Systems with Optimized Prompt Attacks
+Enabling AI Scientists to Recognize Innovation: A Domain-Agnostic Algorithm for Assessing Novelty
+ToxicSQL: Migrating SQL Injection Threats into Text-to-SQL Models via Backdoor Attack
+LTLCodeGen: Code Generation of Syntactically Correct Temporal Logic for Robot Task Planning
+Training Domain Draft Models for Speculative Decoding: Best Practices and Insights
+MMLU-ProX: A Multilingual Benchmark for Advanced Large Language Model Evaluation
+Residual Policy Gradient: A Reward View of KL-regularized Objective
+Beyond A Single AI Cluster: A Survey of Decentralized LLM Training
+Auditing language models for hidden objectives
+VeriContaminated: Assessing LLM-Driven Verilog Coding for Data Contamination
+Agent-Enhanced Large Language Models for Researching Political Institutions
+Pseudo-Relevance Feedback Can Improve Zero-Shot LLM-Based Dense Retrieval
+MetaLadder: Ascending Mathematical Solution Quality via Analogical-Problem Reasoning Transfer
+Does Chain-of-Thought Reasoning Help Mobile GUI Agent? An Empirical Study
+REALM: A Dataset of Real-World LLM Use Cases
+I Have Covered All the Bases Here: Interpreting Reasoning Features in Large Language Models via Sparse Autoencoders
+MedAgent-Pro: Towards Evidence-based Multi-modal Medical Diagnosis via Reasoning Agentic Workflow
+Classical Planning with LLM-Generated Heuristics: Challenging the State of the Art with Python Code
+SimpleRL-Zoo: Investigating and Taming Zero Reinforcement Learning for Open Base Models in the Wild
+Learning to Lie: Reinforcement Learning Attacks Damage Human-AI Teams and Teams of LLMs
+PharmAgents: Building a Virtual Pharma with Large Language Model Agents
+Boosting MLLM Reasoning with Text-Debiased Hint-GRPO
+HumanAesExpert: Advancing a Multi-Modality Foundation Model for Human Image Aesthetic Assessment
+Entropy-guided sequence weighting for efficient exploration in RL-based LLM fine-tuning
+Vanlioglu, Abdullah
+Efficient Inference for Large Reasoning Models: A Survey
+Can DeepSeek Reason Like a Surgeon? An Empirical Evaluation for Vision-Language Understanding in Robotic-Assisted Surgery
+Shape and Texture Recognition in Large Vision-Language Models
+When 'YES' Meets 'BUT': Can Large Models Comprehend Contradictory Humor Through Comparative Reasoning?
+Aurelia: Test-time Reasoning Distillation in Audio-Visual LLMs
+Satori: Reinforcement Learning with Chain-of-Action-Thought Enhances LLM Reasoning via Autoregressive Search
+LLM Query Scheduling with Prefix Reuse and Latency Constraints
+Speculative Prefill: Turbocharging TTFT with Lightweight and Training-Free Token Importance Estimation
+Nature Language Model: Deciphering the Language of Nature for Scientific Discovery
+Enhancing Auto-regressive Chain-of-Thought through Loop-Aligned Reasoning
+Multi-Novelty: Improve the Diversity and Novelty of Contents Generated by Large Language Models via inference-time Multi-Views Brainstorming
+Policy-to-Language: Train LLMs to Explain Decisions with Flow-Matching Generated Rewards
+On the logical skills of large language models: evaluations using arbitrarily complex first-order logic problems
+AdaptiveStep: Automatically Dividing Reasoning Step through Model Confidence
+A Cautionary Tale About "Neutrally" Informative AI Tools Ahead of the 2025 Federal Elections in Germany
+MathClean: A Benchmark for Synthetic Mathematical Data Cleaning
+BIG-Bench Extra Hard
+Can Textual Gradient Work in Federated Learning?
+The Lookahead Limitation: Why Multi-Operand Addition is Hard for LLMs
+Collab-Overcooked: Benchmarking and Evaluating Large Language Models as Collaborative Agents
+RadVLM: A Multitask Conversational Vision-Language Model for Radiology
+ChatGPT and Deepseek: Can They Predict the Stock Market and Macroeconomy?
+QueryAttack: Jailbreaking Aligned Large Language Models Using Structured Non-natural Query Language
+Reasoning with Reinforced Functional Token Tuning
+Improving Multi-turn Task Completion in Task-Oriented Dialog Systems via Prompt Chaining and Fine-Grained Feedback
+GeLLMO: Generalizing Large Language Models for Multi-property Molecule Optimization
+LLM4Tag: Automatic Tagging System for Information Retrieval via Large Language Models
+MM-Verify: Enhancing Multimodal Reasoning with Chain-of-Thought Verification
+REALM-Bench: A Real-World Planning Benchmark for LLMs and Multi-Agent Systems
+Can LLMs Help Uncover Insights about LLMs? A Large-Scale, Evolving Literature Analysis of Frontier LLMs
+Evaluating Intelligence via Trial and Error
+Towards an AI co-scientist
+Membership Inference Attack Should Move On to Distributional Statistics for Distilled Generative Models
+OverThink: Slowdown Attacks on Reasoning LLMs
+Peri-LN: Revisiting Layer Normalization in the Transformer Architecture
+QLASS: Boosting Language Agent Inference via Q-Guided Stepwise Search
+LogiDynamics: Unraveling the Dynamics of Logical Inference in Large Language Model Reasoning
+Learning to Reason at the Frontier of Learnability
+Evaluating the Paperclip Maximizer: Are RL-Based Language Models More Likely to Pursue Instrumental Goals?
+Revisiting the Test-Time Scaling of o1-like Models: Do they Truly Possess Test-Time Scaling Capabilities?
+Evaluating Step-by-step Reasoning Traces: A Survey
+Are Rules Meant to be Broken? Understanding Multilingual Moral Reasoning as a Computational Pipeline with UniMoral
+Aligned Multi Objective Optimization
+LServe: Efficient Long-sequence LLM Serving with Unified Sparse Attention
+Quantize What Counts: Bit Allocation Insights Informed by Spectral Gaps in Keys and Values
+Theoretical Physics Benchmark (TPBench) -- a Dataset and Study of AI Reasoning Capabilities in Theoretical Physics
+GenAI at the Edge: Comprehensive Survey on Empowering Edge Devices
+From ChatGPT to DeepSeek: Can LLMs Simulate Humanity?
+Collective Reasoning Among LLMs A Framework for Answer Validation Without Ground Truth
+Adapt-Pruner: Adaptive Structural Pruning for Efficient Small Language Model Training
+Reflection-Window Decoding: Text Generation with Selective Refinement
+PIM Is All You Need: A CXL-Enabled GPU-Free System for Large Language Model Inference
+Nuclear Deployed: Analyzing Catastrophic Risks in Decision-making of Autonomous LLM Agents
+Evaluating o1-Like LLMs: Unlocking Reasoning for Translation through Comprehensive Analysis
+UnitCoder: Scalable Iterative Code Synthesis with Unit Test Guidance
+Uncertainty-Aware Step-wise Verification with Generative Reward Models
+Scoring Verifiers: Evaluating Synthetic Verification for Code and Reasoning
+Is That Your Final Answer? Test-Time Scaling Improves Selective Question Answering
+Where's the Bug? Attention Probing for Scalable Fault Localization
+SVDq: 1.25-bit and 410x Key Cache Compression for LLM Attention
+Problem-Solving Logic Guided Curriculum In-Context Learning for LLMs Complex Reasoning
+ExpliCa: Evaluating Explicit Causal Reasoning in Large Language Models
+Thus Spake Long-Context Large Language Model
+Child vs. machine language learning: Can the logical structure of human language unleash LLMs?
+Scalable Best-of-N Selection for Large Language Models via Self-Certainty
+R1-T1: Fully Incentivizing Translation Capability in LLMs via Reasoning Learning
+Distill Not Only Data but Also Rewards: Can Smaller Language Models Surpass Larger Ones?
+XCOMPS: A Multilingual Benchmark of Conceptual Minimal Pairs
+Stay Focused: Problem Drift in Multi-Agent Debate
+Med-RLVR: Emerging Medical Reasoning from a 3B base model via reinforcement Learning
+Evaluating System 1 vs. 2 Reasoning Approaches for Zero-Shot Time Series Forecasting: A Benchmark and Insights
+LLM-Empowered Class Imbalanced Graph Prompt Learning for Online Drug Trafficking Detection
+How Effective Is Constitutional AI in Small LLMs? A Study on DeepSeek-R1 and Its Peers
+Layer by Layer: Uncovering Hidden Representations in Language Models
+You Are What You Eat -- AI Alignment Requires Understanding How Data Shapes Structure and Generalisation
+MetaSC: Test-Time Safety Specification Optimization for Language Models
+Gallego, Víctor
+Enhancing Cross-Tokenizer Knowledge Distillation with Contextual Dynamical Mapping
+Balancing the Budget: Understanding Trade-offs Between Supervised and Preference-Based Finetuning
+Ramp Up NTT in Record Time using GPU-Accelerated Algorithms and LLM-based Code Generation
+Primus: A Pioneering Collection of Open-Source Datasets for Cybersecurity LLM Training
+Large Language Models Penetration in Scholarly Writing and Peer Review
+AlphaMaze: Enhancing Large Language Models' Spatial Intelligence via GRPO
+SuperGPQA: Scaling LLM Evaluation across 285 Graduate Disciplines
+A Statistical Case Against Empirical Human-AI Alignment
+A Survey of Model Architectures in Information Retrieval
+Measuring Faithfulness of Chains of Thought by Unlearning Reasoning Steps
+CoT2Align: Cross-Chain of Thought Distillation via Optimal Transport Alignment for Language Models with Different Tokenizers
+Uncertainty Quantification of Large Language Models through Multi-Dimensional Responses
+Towards Enhanced Immersion and Agency for LLM-based Interactive Drama
+Can Large Language Models Detect Errors in Long Chain-of-Thought Reasoning?
+Guiding not Forcing: Enhancing the Transferability of Jailbreaking Attacks on LLMs via Removing Superfluous Constraints
+Confidence Improves Self-Consistency in LLMs
+Expect the Unexpected: FailSafe Long Context QA for Finance
+O1 Embedder: Let Retrievers Think Before Action
+Goedel-Prover: A Frontier Model for Open-Source Automated Theorem Proving
+Learning to Stop Overthinking at Test Time
+DiSCo: Device-Server Collaborative LLM-Based Text Streaming Services
+Small Models Struggle to Learn from Strong Reasoners
+A Study on Leveraging Search and Self-Feedback for Agent Reasoning
+HermesFlow: Seamlessly Closing the Gap in Multimodal Understanding and Generation
+HARBOR: Exploring Persona Dynamics in Multi-Agent Competition
+A Mousetrap: Fooling Large Reasoning Models for Jailbreak with Chain of Iterative Chaos
+Isolating Language-Coding from Problem-Solving: Benchmarking LLMs with PseudoEval
+Beyond the Tip of Efficiency: Uncovering the Submerged Threats of Jailbreak Attacks in Small Language Models
+Political Neutrality in AI is Impossible- But Here is How to Approximate it
+NAVER: A Neuro-Symbolic Compositional Automaton for Visual Grounding with Explicit Logic Reasoning
+Bellman Error Centering
+Leveraging Reasoning with Guidelines to Elicit and Utilize Knowledge for Enhancing Safety Alignment
+An Inquiry into Datacenter TCO for LLM Inference with FP8
+Ignore the KL Penalty! Boosting Exploration on Critical Tokens to Enhance RL Fine-Tuning
+MATH-Perturb: Benchmarking LLMs' Math Reasoning Abilities against Hard Perturbations
+An Empirical Risk Minimization Approach for Offline Inverse RL and Dynamic Discrete Choice Model
+Designing Parameter and Compute Efficient Diffusion Transformers using Distillation
+Sundaresha, Vignesh
+Spontaneous Giving and Calculated Greed in Language Models
+Chain-of-Thought Matters: Improving Long-Context Language Models with Reasoning Path Supervision
+ReasonFlux: Hierarchical LLM Reasoning via Scaling Thought Templates
+Medicine on the Edge: Comparative Performance Analysis of On-Device LLMs for Clinical Reasoning
+Adapting Language-Specific LLMs to a Reasoning Model in One Day via Model Merging -- An Open Recipe
+CRANE: Reasoning with constrained LLM generation
+A-MEM: Agentic Memory for LLM Agents
+Leveraging large language models for structured information extraction from pathology reports
+Hallucinations are inevitable but can be made statistically negligible. The "innate" inevitability of hallucinations cannot explain practical LLM issues
+On the Query Complexity of Verifier-Assisted Language Generation
+To Think or Not to Think: Exploring the Unthinking Vulnerability in Large Reasoning Models
+Schemex: Discovering Design Patterns from Examples through Iterative Abstraction and Refinement
+Does Reasoning Introduce Bias? A Study of Social Bias Evaluation and Mitigation in LLM Reasoning
+Hyperspherical Normalization for Scalable Deep Reinforcement Learning
+Position: Standard Benchmarks Fail -- LLM Agents Present Overlooked Risks for Financial Applications
+Strategic priorities for transformative progress in advancing biology with proteomics and artificial intelligence
+Practical Principles for AI Cost and Compute Accounting
+Debt Collection Negotiations with Large Language Models: An Evaluation System and Optimizing Decision Making with Multi-Agent
+WiCkeD: A Simple Method to Make Multiple Choice Benchmarks More Challenging
+ConMeC: A Dataset for Metonymy Resolution with Common Nouns
+Do We Need to Verify Step by Step? Rethinking Process Supervision from a Theoretical Perspective
+The Self-Improvement Paradox: Can Language Models Bootstrap Reasoning Capabilities without External Scaffolding?
+SPPD: Self-training with Process Preference Learning Using Dynamic Value Margin
+FanChuan: A Multilingual and Graph-Structured Benchmark For Parody Detection and Analysis
+Agentic Reward Modeling: Integrating Human Preferences with Verifiable Correctness Signals for Reliable Reward Systems
+General Reasoning Requires Learning to Reason from the Get-go
+Sim-to-Real Reinforcement Learning for Vision-Based Dexterous Manipulation on Humanoids
+EgoNormia: Benchmarking Physical Social Norm Understanding
+FANformer: Improving Large Language Models Through Effective Periodicity Modeling
+LLM Post-Training: A Deep Dive into Reasoning Large Language Models
+UDora: A Unified Red Teaming Framework against LLM Agents by Dynamically Hijacking Their Own Reasoning
+Large Language Diffusion Models
+Continuous Learning Conversational AI: A Personalized Agent Framework via A2C Reinforcement Learning
+None of the Others: a General Technique to Distinguish Reasoning from Memorization in Multiple-Choice LLM Evaluation Benchmarks
+S$^2$R: Teaching LLMs to Self-verify and Self-correct via Reinforcement Learning
+Patterns Over Principles: The Fragility of Inductive Reasoning in LLMs under Noisy Observations
+Mapping 1,000+ Language Models via the Log-Likelihood Vector
+ThinkBench: Dynamic Out-of-Distribution Evaluation for Robust LLM Reasoning
+DocPuzzle: A Process-Aware Benchmark for Evaluating Realistic Long-Context Reasoning Capabilities
+Can LLMs Explain Themselves Counterfactually?
+$Q\sharp$: Provably Optimal Distributional RL for LLM Post-Training
+NeoBERT: A Next-Generation BERT
+Smart Routing: Cost-Effective Multi-LLM Serving for Multi-Core AIOS
+TRUTH DECAY: Quantifying Multi-Turn Sycophancy in Language Models
+Automating Mathematical Proof Generation Using Large Language Model Agents and Knowledge Graphs
+What is a Number, That a Large Language Model May Know It?
+ACECODER: Acing Coder RL via Automated Test-Case Synthesis
+SEA-HELM: Southeast Asian Holistic Evaluation of Language Models
+MedHallu: A Comprehensive Benchmark for Detecting Medical Hallucinations in Large Language Models
+Lower Bounds for Chain-of-Thought Reasoning in Hard-Attention Transformers
+NoLiMa: Long-Context Evaluation Beyond Literal Matching
+Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach
+Probabilistic Artificial Intelligence
+Joint MoE Scaling Laws: Mixture of Experts Can Be Memory Efficient
+Towards Foundational Models for Dynamical System Reconstruction: Hierarchical Meta-Learning via Mixture of Experts
+GSM-Infinite: How Do Your LLMs Behave over Infinitely Increasing Context Length and Reasoning Complexity?
+LLMs Can Teach Themselves to Better Predict the Future
+RefineCoder: Iterative Improving of Large Language Models via Adaptive Critique Refinement for Code Generation
+Thinking beyond the anthropomorphic paradigm benefits LLM research
+EPO: Explicit Policy Optimization for Strategic Reasoning in LLMs via Reinforcement Learning
+The Hidden Risks of Large Reasoning Models: A Safety Assessment of R1
+Beyond Release: Access Considerations for Generative AI Systems
+DISC: Dynamic Decomposition Improves LLM Inference Scaling
+AlphaAgent: LLM-Driven Alpha Mining with Regularized Exploration to Counteract Alpha Decay
+Beyond Pattern Recognition: Probing Mental Representations of LMs
+Project Alexandria: Towards Freeing Scientific Knowledge from Copyright Burdens via LLMs
+PyEvalAI: AI-assisted evaluation of Jupyter Notebooks for immediate personalized feedback
+MIND: Towards Immersive Psychological Healing with Multi-agent Inner Dialogue
+Self-Training Elicits Concise Reasoning in Large Language Models
+To Code or not to Code? Adaptive Tool Integration for Math Language Models via Expectation-Maximization
+Reusing Embeddings: Reproducible Reward Model Research in Large Language Model Alignment without GPUs
+PIPA: Preference Alignment as Prior-Informed Statistical Estimation
+Enhancing Depression Detection with Chain-of-Thought Prompting: From Emotion to Reasoning Using Large Language Models
+LLMs for Drug-Drug Interaction Prediction: A Comprehensive Comparison
+Specializing Large Language Models to Simulate Survey Response Distributions for Global Populations
+Rethinking Fine-Tuning when Scaling Test-Time Compute: Limiting Confidence Improves Mathematical Reasoning
+InfiniteHiP: Extending Language Model Context Up to 3 Million Tokens on a Single GPU
+Towards Watermarking of Open-Source LLMs
+Focused-DPO: Enhancing Code Generation Through Focused Preference Optimization on Error-Prone Points
+FastMCTS: A Simple Sampling Strategy for Data Synthesis
+Building A Proof-Oriented Programmer That Is 64% Better Than GPT-4o Under Data Scarcity
+SafeChain: Safety of Language Models with Long Chain-of-Thought Reasoning Capabilities
+Presumed Cultural Identity: How Names Shape LLM Responses
+Beyond Sample-Level Feedback: Using Reference-Level Feedback to Guide Data Synthesis
+A Comparison of DeepSeek and Other LLMs
+VersaPRM: Multi-Domain Process Reward Model via Synthetic Reasoning Data
+Competitive Programming with Large Reasoning Models
+KABB: Knowledge-Aware Bayesian Bandits for Dynamic Expert Coordination in Multi-Agent Systems
+ChunkKV: Semantic-Preserving KV Cache Compression for Efficient Long-Context LLM Inference
+STAIR: Improving Safety Alignment with Introspective Reasoning
+Implicit Bias of Spectral Descent and Muon on Multiclass Separable Data
+LIMO: Less is More for Reasoning
+Training Language Models to Reason Efficiently
+Unveiling the Mechanisms of Explicit CoT Training: How CoT Enhances Reasoning Generalization
+MathConstruct: Challenging LLM Reasoning with Constructive Proofs
+Open-Source AI-Powered Optimization in Scalene: Advancing Python Performance Profiling with DeepSeek-R1 and LLaMA 3.2
+Text2World: Benchmarking Large Language Models for Symbolic World Model Generation
+Reasoning-to-Defend: Safety-Aware Reasoning Can Defend Large Language Models from Jailbreaking
+MatterChat: A Multi-Modal LLM for Material Science
+NaturalReasoning: Reasoning in the Wild with 2.8M Challenging Questions
+PairBench: A Systematic Framework for Selecting Reliable Judge VLMs
+Reasoning Does Not Necessarily Improve Role-Playing Ability
+CoT-UQ: Improving Response-wise Uncertainty Quantification in LLMs with Chain-of-Thought
+PrivaCI-Bench: Evaluating Privacy with Contextual Integrity and Legal Compliance
+FINEREASON: Evaluating and Improving LLMs' Deliberate Reasoning through Reflective Puzzle Solving
+DeepRetrieval: Hacking Real Search Engines and Retrievers with Large Language Models via Reinforcement Learning
+À la recherche du sens perdu: your favourite LLM might have more to say than you can understand
+Erziev, K. O. T.
+UGPhysics: A Comprehensive Benchmark for Undergraduate Physics Reasoning with Large Language Models
+Step Back to Leap Forward: Self-Backtracking for Boosting Reasoning of Language Models
+Can 1B LLM Surpass 405B LLM? Rethinking Compute-Optimal Test-Time Scaling
+EfficientLLM: Scalable Pruning-Aware Pretraining for Architecture-Agnostic Edge Language Models
+A Survey of LLM-based Agents in Medicine: How far are we from Baymax?
+Probing Semantic Routing in Large Mixture-of-Expert Models
+Dyve: Thinking Fast and Slow for Dynamic Process Verification
+System Message Generation for User Preferences using Open-Source Models
+Do we Really Need Visual Instructions? Towards Visual Instruction-Free Fine-tuning for Large Vision-Language Models
+Learning to Keep a Promise: Scaling Language Model Decoding Parallelism with Learned Asynchronous Decoding
+Theorem Prover as a Judge for Synthetic Data Generation
+Multimodal Mamba: Decoder-only Multimodal State Space Model via Quadratic to Linear Distillation
+Line Goes Up? Inherent Limitations of Benchmarks for Evaluating Large Language Models
+Fodor, James
+ChemHTS: Hierarchical Tool Stacking for Enhancing Chemical Agents
+LR$^2$Bench: Evaluating Long-chain Reflective Reasoning Capabilities of Large Language Models via Constraint Satisfaction Problems
+Generating patient cohorts from electronic health records using two-step retrieval-augmented text-to-SQL generation
+Generating Computational Cognitive Models using Large Language Models
+Iterative Deepening Sampling for Large Language Models
+Safety at Scale: A Comprehensive Survey of Large Model Safety
+MoHAVE: Mixture of Hierarchical Audio-Visual Experts for Robust Speech Recognition
+Ad-hoc Concept Forming in the Game Codenames as a Means for Evaluating Large Language Models
+PEA: Enhancing LLM Performance on Computational-Reasoning Tasks
+Beyond Single-Task: Robust Multi-Task Length Generalization for LLMs
+A Survey of Personalized Large Language Models: Progress and Future Directions
+LESA: Learnable LLM Layer Scaling-Up
+Unraveling the Localized Latents: Learning Stratified Manifold Structures in LLM Embedding Space with Sparse Mixture-of-Experts
+Training a Generally Curious Agent
+Climate And Resource Awareness is Imperative to Achieving Sustainable AI (and Preventing a Global AI Arms Race)
+ConvCodeWorld: Benchmarking Conversational Code Generation in Reproducible Feedback Environments
+Haunted House: A text-based game for comparing the flexibility of mental models in humans and LLMs
+Brief analysis of DeepSeek R1 and its implications for Generative AI
+Logarithmic Regret for Online KL-Regularized Reinforcement Learning
+CodeI/O: Condensing Reasoning Patterns via Code Input-Output Prediction
+Trustworthy GNNs with LLMs: A Systematic Review and Taxonomy
+Zero-Shot Belief: A Hard Problem for LLMs
+Unlocking the Potential of Generative AI through Neuro-Symbolic Architectures: Benefits and Limitations
+BRIGHTER: BRIdging the Gap in Human-Annotated Textual Emotion Recognition Datasets for 28 Languages
+MathFimer: Enhancing Mathematical Reasoning by Expanding Reasoning Steps through Fill-in-the-Middle Task
+BaxBench: Can LLMs Generate Correct and Secure Backends?
+S*: Test Time Scaling for Code Generation
+Linguistic Generalizability of Test-Time Scaling in Mathematical Reasoning
+Reasoning with Latent Thoughts: On the Power of Looped Transformers
+Improving Value-based Process Verifier via Structural Prior Injection
+From System 1 to System 2: A Survey of Reasoning Large Language Models
+Semantic Volume: Quantifying and Detecting both External and Internal Uncertainty in LLMs
+Game-Theoretic Regularized Self-Play Alignment of Large Language Models
+BixBench: a Comprehensive Benchmark for LLM-based Agents in Computational Biology
+MedRAX: Medical Reasoning Agent for Chest X-ray
+Twilight: Adaptive Attention Sparsity with Hierarchical Top-$p$ Pruning
+Large Language Models for Multi-Robot Systems: A Survey
+The Danger of Overthinking: Examining the Reasoning-Action Dilemma in Agentic Tasks
+WorldGUI: Dynamic Testing for Comprehensive Desktop GUI Automation
+TransMLA: Migrating GQA Models to MLA with Full DeepSeek Compatibility and Speedup
+PhysReason: A Comprehensive Benchmark towards Physics-Based Reasoning
+Atom of Thoughts for Markov LLM Test-Time Scaling
+TokenSkip: Controllable Chain-of-Thought Compression in LLMs
+Unhackable Temporal Rewarding for Scalable Video MLLMs
+How Do LLMs Perform Two-Hop Reasoning in Context?
+TESS 2: A Large-Scale Generalist Diffusion Language Model
+CLIPPER: Compression enables long-context synthetic data generation
+FR-Spec: Accelerating Large-Vocabulary Language Models via Frequency-Ranked Speculative Sampling
+What is the Alignment Objective of GRPO?
+Beyond Surface-Level Patterns: An Essence-Driven Defense Framework Against Jailbreak Attacks in LLMs
+Diverse Inference and Verification for Advanced Reasoning
+Dynamic Chain-of-Thought: Towards Adaptive Deep Reasoning
+LIMR: Less is More for RL Scaling
+Continual Quantization-Aware Pre-Training: When to transition from 16-bit to 1.58-bit pre-training for BitNet language models?
+Towards Reasoning Ability of Small Language Models
+Language Models Can Predict Their Own Behavior
+Thinking Preference Optimization
+Rank1: Test-Time Compute for Reranking in Information Retrieval
+Can Language Models Falsify? Evaluating Algorithmic Reasoning with Counterexample Creation
+Self-rewarding correction for mathematical reasoning
+CodeSteer: Symbolic-Augmented Language Models via Code/Text Guidance
+CoS: Chain-of-Shot Prompting for Long Video Understanding
+Process Reward Models for LLM Agents: Practical Framework and Directions
+Choudhury, Sanjiban
+Perovskite-LLM: Knowledge-Enhanced Large Language Models for Perovskite Solar Cell Research
+Baichuan-M1: Pushing the Medical Capability of Large Language Models
+HopRAG: Multi-Hop Reasoning for Logic-Aware Retrieval-Augmented Generation
+Multi-Step Alignment as Markov Games: An Optimistic Online Gradient Descent Approach with Convergence Guarantees
+Multi-Agent Risks from Advanced AI
+Efficient AI in Practice: Training and Deployment of Efficient LLMs for Industry Applications
+Unveiling Cultural Blind Spots: Analyzing the Limitations of mLLMs in Procedural Text Comprehension
+Stepwise Informativeness Search for Efficient and Effective LLM Reasoning
+LightThinker: Thinking Step-by-Step Compression
+Unveiling the Key Factors for Distilling Chain-of-Thought Reasoning
+Nexus: A Lightweight and Scalable Multi-Agent Framework for Complex Tasks Automation
+Advancing Reasoning in Large Language Models: Promising Methods and Approaches
+Mediator: Memory-efficient LLM Merging with Less Parameter Conflicts and Uncertainty Based Routing
+Mathematical Reasoning in Large Language Models: Assessing Logical and Arithmetic Errors across Wide Numerical Ranges
+LongWriter-V: Enabling Ultra-Long and High-Fidelity Generation in Vision-Language Models
+SIFT: Grounding LLM Reasoning in Contexts via Stickers
+From Hours to Minutes: Lossless Acceleration of Ultra Long Sequence Generation up to 100K Tokens
+Efficiently Integrate Large Language Models with Visual Perception: A Survey from the Training Paradigm Perspective
+Process Reinforcement through Implicit Rewards
+Reinforcement Learning for Long-Horizon Interactive LLM Agents
+Al-Khwarizmi: Discovering Physical Laws with Foundation Models
+BOLT: Bootstrap Long Chain-of-Thought in Language Models without Distillation
+Iron Sharpens Iron: Defending Against Attacks in Machine-Generated Text Detection with Adversarial Training
+Beyond Seen Data: Improving KBQA Generalization Through Schema-Guided Logical Form Generation
+CER: Confidence Enhanced Reasoning in LLMs
+StructFlowBench: A Structured Flow Benchmark for Multi-turn Instruction Following
+A Survey on Data Contamination for Large Language Models
+Enhancing Language Multi-Agent Learning with Multi-Agent Credit Re-Assignment for Interactive Environment Generalization
+Plan-over-Graph: Towards Parallelable LLM Agent Schedule
+Beyond the Surface: Uncovering Implicit Locations with LLMs for Personalized Local News
+MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning
+DeepSeek on a Trip: Inducing Targeted Visual Hallucinations via Representation Vulnerabilities
+RuozhiBench: Evaluating LLMs with Logical Fallacies and Misleading Premises
+Robust Adaptation of Large Multimodal Models for Retrieval Augmented Hateful Meme Detection
+MoBA: Mixture of Block Attention for Long-Context LLMs
+Facilitating Long Context Understanding via Supervised Chain-of-Thought Reasoning
+Enhancing Domain-Specific Retrieval-Augmented Generation: Synthetic Data Generation and Evaluation using Reasoning Models
+Turning Conversations into Workflows: A Framework to Extract and Evaluate Dialog Workflows for Service AI Agents
+Big-Math: A Large-Scale, High-Quality Math Dataset for Reinforcement Learning in Language Models
+Unveiling Downstream Performance Scaling of LLMs: A Clustering-Based Perspective
+SoRFT: Issue Resolving with Subtask-oriented Reinforced Fine-Tuning
+Deterministic or probabilistic? The psychology of LLMs as random number generators
+Coronado-Blázquez, Javier
+Neuromorphic Principles for Efficient Large Language Models on Intel Loihi 2
+SiriuS: Self-improving Multi-agent Systems via Bootstrapped Reasoning
+Fino1: On the Transferability of Reasoning Enhanced LLMs to Finance
+Symbiotic Cooperation for Web Agents: Harnessing Complementary Strengths of Large and Small LLMs
+Safety Evaluation of DeepSeek Models in Chinese Contexts
+Diversified Sampling Improves Scaling LLM inference
+Interacting with Thoughtful AI
+Automatic Prompt Optimization via Heuristic Search: A Survey
+Discriminative Finetuning of Generative Large Language Models without Reward Models and Human Preference Data
+Safety Alignment Depth in Large Language Models: A Markov Chain Perspective
+Frontend Diffusion: Empowering Self-Representation of Junior Researchers and Designers Through Agentic Workflows
+Jakiro: Boosting Speculative Decoding with Decoupled Multi-Head via MoE
+If Multi-Agent Debate is the Answer, What is the Question?
+Inference-Time Computations for LLM Reasoning and Planning: A Benchmark and Insights
+Reasoning and the Trusting Behavior of DeepSeek and GPT: An Experiment Revealing Hidden Fault Lines in Large Language Models
+MAPoRL: Multi-Agent Post-Co-Training for Collaborative Large Language Models with Reinforcement Learning
+Protecting Users From Themselves: Safeguarding Contextual Privacy in Interactions with Conversational Agents
+Chain of Draft: Thinking Faster by Writing Less
+PhD Knowledge Not Required: A Reasoning Challenge for Large Language Models
+BenchMAX: A Comprehensive Multilingual Evaluation Suite for Large Language Models
+When More is Less: Understanding Chain-of-Thought Length in LLMs
+Typhoon T1: An Open Thai Reasoning Model
+RoseRAG: Robust Retrieval-augmented Generation with Small-scale LLMs via Margin-aware Preference Optimization
+Exposing Numeracy Gaps: A Benchmark to Evaluate Fundamental Numerical Abilities in Large Language Models
+Quantifying the Capability Boundary of DeepSeek Models: An Application-Driven Performance Analysis
+Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention
+Leveraging Constrained Monte Carlo Tree Search to Generate Reliable Long Chain-of-Thought for Mathematical Reasoning
+You need to MIMIC to get FAME: Solving Meeting Transcript Scarcity with a Multi-Agent Conversations
+LLMPopcorn: An Empirical Study of LLMs as Assistants for Popular Micro-video Generation
+Every Expert Matters: Towards Effective Knowledge Distillation for Mixture-of-Experts Language Models
+PhantomWiki: On-Demand Datasets for Reasoning and Retrieval Evaluation
+Verbalized Bayesian Persuasion
+When One LLM Drools, Multi-LLM Collaboration Rules
+CoT-Valve: Length-Compressible Chain-of-Thought Tuning
+X-Boundary: Establishing Exact Safety Boundary to Shield LLMs from Multi-Turn Jailbreaks without Compromising Usability
+A Survey on Feedback-based Multi-step Reasoning for Large Language Models on Mathematics
+How Far are LLMs from Being Our Digital Twins? A Benchmark for Persona-Based Behavior Chain Simulation
+An Analyst-Inspector Framework for Evaluating Reproducibility of LLMs in Data Science
+CODESYNC: Synchronizing Large Language Models with Dynamic Code Evolution at Scale
+Navigation-GPT: A Robust and Adaptive Framework Utilizing Large Language Models for Navigation Applications
+Thinking Slow, Fast: Scaling Inference Compute with Distilled Reasoners
+ChineseEcomQA: A Scalable E-commerce Concept Evaluation Benchmark for Large Language Models
+Large Language Model Strategic Reasoning Evaluation through Behavioral Game Theory
+Can LLMs Maintain Fundamental Abilities under KV Cache Compression?
+InfiR : Crafting Effective Small Language Models and Multimodal Small Language Models in Reasoning
+Large Language Models and Mathematical Reasoning Failures
+Table-Critic: A Multi-Agent Framework for Collaborative Criticism and Refinement in Table Reasoning
+Hypothesis-Driven Theory-of-Mind Reasoning for Large Language Models
+Leveraging Dual Process Theory in Language Agent Framework for Real-time Simultaneous Human-AI Collaboration
+Multimodal Inconsistency Reasoning (MMIR): A New Benchmark for Multimodal Reasoning Models
+Towards Robust ESG Analysis Against Greenwashing Risks: Aspect-Action Analysis with Cross-Category Generalization
+Self-Taught Agentic Long Context Understanding
+Citrus: Leveraging Expert Cognitive Pathways in a Medical Language Model for Advanced Medical Decision Support
+SoS1: O1 and R1-Like Reasoning LLMs are Sum-of-Square Solvers
+AIBrix: Towards Scalable, Cost-Effective Large Language Model Inference Infrastructure
+Differentially Private Policy Gradient
+AdaServe: Accelerating Multi-SLO LLM Serving with SLO-Customized Speculative Decoding
+Critique Fine-Tuning: Learning to Critique is More Effective than Learning to Imitate
+Jailbreak-AudioBench: In-Depth Evaluation and Analysis of Jailbreak Threats for Large Audio Language Models
+HackerRank-ASTRA: Evaluating Correctness & Consistency of Large Language Models on cross-domain multi-file project problems
+Value Compass Leaderboard: A Platform for Fundamental and Validated Evaluation of LLMs Values
+s1: Simple test-time scaling
+Zero-shot Large Language Models for Long Clinical Text Summarization with Temporal Reasoning
+BoostStep: Boosting mathematical capability of Large Language Models via improved single-step reasoning
+From Informal to Formal -- Incorporating and Evaluating LLMs on Natural Language Requirements to Verifiable Formal Proofs
+Deception in LLMs: Self-Preservation and Autonomous Goals in Large Language Models
+Towards Safe AI Clinicians: A Comprehensive Study on Large Language Model Jailbreaking in Healthcare
+GuardReasoner: Towards Reasoning-based LLM Safeguards
+Test-Time Compute: from System-1 Thinking to System-2 Thinking
+xJailbreak: Representation Space Guided Reinforcement Learning for Interpretable LLM Jailbreaking
+Distilling Large Language Models for Network Active Queue Management
+Disentangling Exploration of Large Language Models by Optimal Exploitation
+Softplus Attention with Re-weighting Boosts Length Extrapolation in Large Language Models
+Think Smarter not Harder: Adaptive Reasoning with Inference Aware Optimization
+Transcoders Beat Sparse Autoencoders for Interpretability
+The Essence of Contextual Understanding in Theory of Mind: A Study on Question Answering with Story Characters
+LLMPC: Large Language Model Predictive Control
+Maher, Gabriel
+Partially Rewriting a Transformer in Natural Language
+Are DeepSeek R1 And Other Reasoning Models More Faithful?
+WILDCHAT-50M: A Deep Dive Into the Role of Synthetic Data in Post-Training
+o3-mini vs DeepSeek-R1: Which One is Safer?
+Quantification of Large Language Model Distillation
+SCP-116K: A High-Quality Problem-Solution Dataset and a Generalized Pipeline for Automated Extraction in the Higher Education Science Domain
+Demystifying Domain-adaptive Post-training for Financial LLMs
+FIT-Print: Towards False-claim-resistant Model Ownership Verification via Targeted Fingerprint
+Multimodal LLMs Can Reason about Aesthetics in Zero-Shot
+Chain of Grounded Objectives: Bridging Process and Goal-oriented Prompting for Code Generation
+ARWKV: Pretrain is not what we need, an RNN-Attention-Based Language Model Born from Transformer
+Reward-aware Preference Optimization: A Unified Mathematical Framework for Model Alignment
+Lessons from complexity theory for AI governance
+STP: Self-play LLM Theorem Provers with Iterative Conjecturing and Proving
+UAVs Meet LLMs: Overviews and Perspectives Toward Agentic Low-Altitude Mobility
+The Dual-use Dilemma in LLMs: Do Empowering Ethical Capacities Make a Degraded Utility?
+REINFORCE++: An Efficient RLHF Algorithm with Robustness to Both Prompt and Reward Models
+LongProc: Benchmarking Long-Context Language Models on Long Procedural Generation
+URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics
+Scaling Inference-Efficient Language Models
+OpenOmni: Advancing Open-Source Omnimodal Large Language Models with Progressive Multimodal Alignment and Real-Time Self-Aware Emotional Speech Synthesis
+ADAM: An AI Reasoning and Bioinformatics Model for Alzheimer's Disease Detection and Microbiome-Clinical Data Integration
+Rethinking External Slow-Thinking: From Snowball Errors to Probability of Correct Reasoning
+Accelerating LLM Inference with Lossless Speculative Decoding Algorithms for Heterogeneous Vocabularies
+Language Games as the Pathway to Artificial Superhuman Intelligence
+MedXpertQA: Benchmarking Expert-Level Medical Reasoning and Understanding
+Unifying Two Types of Scaling Laws from the Perspective of Conditional Kolmogorov Complexity
+A Cognitive Paradigm Approach to Probe the Perception-Reasoning Interface in VLMs
+PRMBench: A Fine-grained and Challenging Benchmark for Process-Level Reward Models
+Towards Adaptive Self-Improvement for Smarter Energy Systems
+On the Limit of Language Models as Planning Formalizers
+Process-Supervised Reward Models for Verifying Clinical Note Generation: A Scalable Approach Guided by Domain Expertise
+LiveIdeaBench: Evaluating LLMs' Divergent Thinking for Scientific Idea Generation with Minimal Context
+DRT: Deep Reasoning Translation via Long Chain-of-Thought
+Efficiently Scaling LLM Reasoning with Certaindex
+AI and Deep Learning for THz Ultra-Massive MIMO: From Model-Driven Approaches to Foundation Models
+MALT: Improving Reasoning with Multi-Agent LLM Training
+My Words Imply Your Opinion: Reader Agent-based Propagation Enhancement for Personalized Implicit Emotion Analysis
+Core Context Aware Transformers for Long Context Language Modeling
+MoEtion: Efficient and Reliable Sparse Checkpointing for Mixture-of-Experts Models at Scale
+SATA: A Paradigm for LLM Jailbreak via Simple Assistive Task Linkage
+Unifying KV Cache Compression for Large Language Models with LeanKV
+7B Fully Open Source Moxin-LLM -- From Pretraining to GRPO-based Reinforcement Learning Enhancement
+RareAgents: Advancing Rare Disease Care through LLM-Empowered Multi-disciplinary Team
+SPDZCoder: Combining Expert Knowledge with LLMs for Generating Privacy-Computing Code
+Cocoa: Co-Planning and Co-Execution with AI Agents
+GroverGPT: A Large Language Model with 8 Billion Parameters for Quantum Searching
+AD-LLM: Benchmarking Large Language Models for Anomaly Detection
+Reinforcement Learning: An Overview
+Murphy, Kevin
+Transparent and Coherent Procedural Mistake Detection
+A Survey of Mathematical Reasoning in the Era of Multimodal Large Language Model: Benchmark, Method & Challenges
+SpecFuse: Ensembling Large Language Models via Next-Segment Prediction
+Unbiased Region-Language Alignment for Open-Vocabulary Dense Prediction
+RaCT: Ranking-aware Chain-of-Thought Optimization for LLMs
+Demonstration Selection for In-Context Learning via Reinforcement Learning
+Can Input Attributions Interpret the Inductive Reasoning Process in In-Context Learning?
+StarWhisper Telescope: Agent-Based Observation Assistant System to Approach AI Astrophysicist
+Selective Reviews of Bandit Problems in AI via a Statistical View
+Token-Budget-Aware LLM Reasoning
+Enhancing Code LLMs with Reinforcement Learning in Code Generation: A Survey
+Do NOT Think That Much for 2+3=? On the Overthinking of o1-Like LLMs
+InfAlign: Inference-aware language model alignment
+ProSec: Fortifying Code LLMs with Proactive Security Alignment
+Enhancing Answer Reliability Through Inter-Model Consensus of Large Language Models
+AutoElicit: Using Large Language Models for Expert Prior Elicitation in Predictive Modelling
+Probing the limitations of multimodal language models for chemistry and materials research
+Humans and Large Language Models in Clinical Decision Support: A Study with Medical Calculators
+A Generation Framework with Strict Constraints for Crystal Materials Design
+CRMArena: Understanding the Capacity of LLM Agents to Perform Professional CRM Tasks in Realistic Environments
+DART-LLM: Dependency-Aware Multi-Robot Task Decomposition and Execution using Large Language Models
+Detecting Children with Autism Spectrum Disorder based on Script-Centric Behavior Understanding with Emotional Enhancement
+Natural Language Reinforcement Learning
+Planning vs Reasoning: Ablations to Test Capabilities of LoRA layers
+Redkar, Neel
+Large Language Model-Brained GUI Agents: A Survey
+Theorem-Validated Reverse Chain-of-Thought Problem Generation for Geometric Reasoning
+Watching the Watchers: Exposing Gender Disparities in Machine Translation Quality Estimation
+Graph of Records: Boosting Retrieval Augmented Generation for Long-context Summarization with Graphs
+Position: On-Premises LLM Deployment Demands a Middle Path: Preserving Privacy Without Sacrificing Model Confidentiality
+Can Large Language Models Invent Algorithms to Improve Themselves?: Algorithm Discovery for Recursive Self-Improvement through Reinforcement Learning
+Understanding Layer Significance in LLM Alignment
+SuperCorrect: Advancing Small LLM Reasoning with Thought Template Distillation and Self-Correction
+Beyond Exact Match: Semantically Reassessing Event Extraction by Large Language Models
+GIVE: Structured Reasoning of Large Language Models with Knowledge Graph Inspired Veracity Extrapolation
+With a Grain of SALT: Are LLMs Fair Across Social Dimensions?
+Centaur: a foundation model of human cognition
+Closed-Loop Long-Horizon Robotic Planning via Equilibrium Sequence Modeling
+Mixture Compressor for Mixture-of-Experts LLMs Gains More
+Electrocardiogram-Language Model for Few-Shot Question Answering with Meta Learning
+The Role of Deductive and Inductive Reasoning in Large Language Models
+Bridging Stepwise Lab-Informed Pretraining and Knowledge-Guided Learning for Diagnostic Reasoning
+Parameter-Efficient Fine-Tuning in Large Models: A Survey of Methodologies
+Generalists vs. Specialists: Evaluating LLMs on Highly-Constrained Biophysical Sequence Optimization Tasks
+Differential Transformer
+Can Transformers Reason Logically? A Study in SAT Solving
+TrendFact: A Benchmark for Explainable Hotspot Perception in Fact-Checking with Natural Language Explanation
+Synthesizing Post-Training Data for LLMs through Multi-Agent Simulation
+AUTALIC: A Dataset for Anti-AUTistic Ableist Language In Context
+What Do LLMs Need to Understand Graphs: A Survey of Parametric Representation of Graphs
+Agentic Information Retrieval
+Latent Space Chain-of-Embedding Enables Output-free LLM Self-Evaluation
+TMGBench: A Systematic Game Benchmark for Evaluating Strategic Reasoning Abilities of LLMs
+MaCTG: Multi-Agent Collaborative Thought Graph for Automatic Programming
+CheXalign: Preference fine-tuning in chest X-ray interpretation models without human feedback
+Step Guided Reasoning: Improving Mathematical Reasoning using Guidance Generation and Step Reasoning
+EACO-RAG: Towards Distributed Tiered LLM Deployment using Edge-Assisted and Collaborative RAG with Adaptive Knowledge Update
+Holistic Reasoning with Long-Context LMs: A Benchmark for Database Operations on Massive Textual Data
+Unleashing LLM Reasoning Capability via Scalable Question Synthesis from Scratch
+Autonomous Evaluation of LLMs for Truth Maintenance and Reasoning Tasks
+Learning from Committee: Reasoning Distillation from a Mixture of Teachers with Peer-Review
+MathGAP: Out-of-Distribution Evaluation on Problems with Arbitrarily Complex Proofs
+What are the Essential Factors in Crafting Effective Long Context Multi-Hop Instruction Datasets? Insights and Best Practices
+InteLiPlan: An Interactive Lightweight LLM-Based Planner for Domestic Robot Autonomy
+SpecEval: Evaluating Code Comprehension in Large Language Models via Program Specifications
+What Should We Engineer in Prompts? Training Humans in Requirement-Driven LLM Use
+Compositional Hardness of Code in Large Language Models -- A Probabilistic Perspective
+SSR: Alignment-Aware Modality Connector for Speech Language Models
+AnyBipe: An End-to-End Framework for Training and Deploying Bipedal Robots Guided by Large Language Models
+Pareto-Optimized Open-Source LLMs for Healthcare via Context Retrieval
+Diabetica: Adapting Large Language Model to Enhance Multiple Medical Tasks in Diabetes Care and Management
+Revealing and Mitigating the Challenge of Detecting Character Knowledge Errors in LLM Role-Playing
+ValueCompass: A Framework for Measuring Contextual Value Alignment Between Human and LLMs
+Evaluating the Performance and Robustness of LLMs in Materials Science Q&A and Property Predictions
+From Commands to Prompts: LLM-based Semantic File System for AIOS
+CFBench: A Comprehensive Constraints-Following Benchmark for LLMs
+Pandora's Box or Aladdin's Lamp: A Comprehensive Analysis Revealing the Role of RAG Noise in Large Language Models
+SelectLLM: Query-Aware Efficient Selection Algorithm for Large Language Models
+Retrieval-Augmented Generation for Natural Language Processing: A Survey
+Prompt Stability Scoring for Text Annotation with Large Language Models
+Learning Dynamics of LLM Finetuning
+Lawma: The Power of Specialization for Legal Annotation
+AI-Assisted Generation of Difficult Math Questions
+NeedleBench: Can LLMs Do Retrieval and Reasoning in Information-Dense Context?
+ByteCheckpoint: A Unified Checkpointing System for Large Foundation Model Development
+A Comprehensive Review of Few-shot Action Recognition
+Turning Up the Heat: Min-p Sampling for Creative and Coherent LLM Outputs
+Multi-Agent Causal Discovery Using Large Language Models
+ClinicRealm: Re-evaluating Large Language Models with Conventional Machine Learning for Non-Generative Clinical Prediction Tasks
+Alice in Wonderland: Simple Tasks Showing Complete Reasoning Breakdown in State-Of-the-Art Large Language Models
+HORAE: A Domain-Agnostic Language for Automated Service Regulation
+GenoTEX: An LLM Agent Benchmark for Automated Gene Expression Data Analysis
+ScaleBiO: Scalable Bilevel Optimization for LLM Data Reweighting
+RS-Agent: Automating Remote Sensing Tasks through Intelligent Agent
+DCA-Bench: A Benchmark for Dataset Curation Agents
+Why LLMs Are Bad at Synthetic Table Generation (and what to do about it)
+LLMs as Models for Analogical Reasoning
+LLM meets ML: Data-efficient Anomaly Detection on Unseen Unstable Logs
+RePrompt: Planning by Automatic Prompt Engineering for Large Language Models Agents
+Attribution in Scientific Literature: New Benchmark and Methods
+Robo-Instruct: Simulator-Augmented Instruction Alignment For Finetuning Code LLMs
+ORLM: A Customizable Framework in Training Large Models for Automated Optimization Modeling
+On Understanding Attention-Based In-Context Learning for Categorical Data
+Tokenization Matters! Degrading Large Language Models through Challenging Their Tokenization
+Learning Human-Aligned Representations with Contrastive Learning and Generative Similarity
+CharacterGPT: A Persona Reconstruction Framework for Role-Playing Agents
+Towards Better Chain-of-Thought: A Reflection on Effectiveness and Faithfulness
+Asymptotic theory of in-context learning by linear attention
+Large Language Models for Cyber Security: A Systematic Literature Review
+A Survey on Large Language Model-Based Game Agents
+Look Before You Decide: Prompting Active Deduction of MLLMs for Assumptive Reasoning
+MORepair: Teaching LLMs to Repair Code via Multi-Objective Fine-tuning
+Markovian Transformers for Informative Language Modeling
+AutoTRIZ: Automating Engineering Innovation with TRIZ and Large Language Models
+A Pretraining-Finetuning Computational Framework for Material Homogenization
+Model Lakes
+Usable XAI: 10 Strategies Towards Exploiting Explainability in the LLM Era
+Large Language Models Are Struggle to Cope with Unreasonability in Math Problems
+FormulaReasoning: A Dataset for Formula-Based Numerical Reasoning
+On the Challenges of Fuzzing Techniques via Large Language Models
+COMAE: COMprehensive Attribute Exploration for Zero-shot Hashing
+Plato: Plan to Efficiently Decode for Large Language Model Inference
+The Last JITAI? Exploring Large Language Models for Issuing Just-in-Time Adaptive Interventions: Fostering Physical Activity in a Conceptual Cardiac Rehabilitation Setting
+GLoRE: Evaluating Logical Reasoning of Large Language Models
+Tensor Networks Meet Neural Networks: A Survey and Future Perspectives
