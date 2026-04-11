@@ -1,4 +1,0 @@
-Title,Abstract,Year,URL
-Token-budget-aware llm reasoning,Reasoning is critical for large language models (LLMs) to excel in a wide range of tasks. While methods like Chain-of-Thought (CoT) reasoning enhance LLM performance by …,2024,https://arxiv.org/abs/2412.18547
-A survey on large language model-based game agents,The development of game agents holds a critical role in advancing towards Artificial General Intelligence (AGI). The progress of LLMs and their multimodal counterparts (MLLMs) offers …,2024,https://arxiv.org/abs/2404.02039
-Large language model-brained gui agents: A survey,"GUIs have long been central to human-computer interaction, providing an intuitive and visually-driven way to access and interact with digital systems. The advent of LLMs …",2024,https://arxiv.org/abs/2411.18279

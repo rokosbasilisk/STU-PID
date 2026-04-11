@@ -1,2 +1,0 @@
-Title,Authors,Venue,Year,Abstract,Citations,URL
-Deepseek-r1: Incentivizing reasoning capability in llms via reinforcement learning,"D Guo, D Yang, H Zhang, J Song, R Zhang… - arXiv preprint arXiv …, 2025",arxiv.org,Year not found,"We introduce our first-generation reasoning models, DeepSeek-R1-Zero and DeepSeek-R1. DeepSeek-R1-Zero, a model trained via large-scale reinforcement learning (RL) without …",1436,https://arxiv.org/abs/2501.12948
