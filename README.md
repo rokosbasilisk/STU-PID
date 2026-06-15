@@ -78,3 +78,9 @@ result.
 2. Label each chunk as useful or redundant via LLM-based classification.
 3. Train the SGD logistic classifier on token chunks from the labeled data.
 4. Build the steering vector from mean embeddings of useful vs. redundant chunks.
+
+## Acknowledgements
+
+This work was produced during a six-week fellowship at
+[Lossfunk](https://lossfunk.com/) in May 2025. Thanks to Lossfunk for providing
+the compute used in these experiments.
