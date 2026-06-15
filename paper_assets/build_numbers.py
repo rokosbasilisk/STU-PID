@@ -54,6 +54,8 @@ def parse_config(path: Path) -> dict:
     grab("MAX_ALPHA", r"MAX_ALPHA\s*=\s*([\d.eE+-]+)")
     grab("STEER_MARGIN", r"STEER_MARGIN\s*=\s*([\d.eE+-]+)")
     grab("MAX_TOKENS", r"MAX_TOKENS\s*=\s*(\d+)")
+    grab("BASE_TEMP", r"BASE_TEMP\s*=\s*([\d.eE+-]+)")
+    grab("STEER_TEMP", r"STEER_TEMP\s*=\s*([\d.eE+-]+)")
 
     # KP, KI, KD on a single line
     mk = re.search(
@@ -187,6 +189,10 @@ def main() -> None:
         f"\\newcommand{{\\InitFree}}{{{cfg['INIT_FREE']}}}",
         f"\\newcommand{{\\SteerWindow}}{{{cfg['STEER_WINDOW']}}}",
         f"\\newcommand{{\\MaxTokens}}{{{cfg['MAX_TOKENS']}}}",
+        "",
+        "% --- Sampling temperature (coupled to steering strength) ---",
+        f"\\newcommand{{\\BaseTemp}}{{{fmt_sci(cfg['BASE_TEMP'])}}}",
+        f"\\newcommand{{\\SteerTemp}}{{{fmt_sci(cfg['STEER_TEMP'])}}}",
         "",
     ]
     OUT.write_text("\n".join(lines))
